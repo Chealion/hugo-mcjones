@@ -186,7 +186,17 @@ def export_markdown():
             md_text += '\n\n<!-- {BearID:' + uuid + '} -->\n'
 
             ## Add Hugo Metadata block
-            hugo_block = '---\ntitle: ' + title + '\ndate: ' + str(creation_date) + '\ncategories: ' + tags + '\ndraft: false\n---\n\n'
+            hugo_block = '''
+---
+title: ''' + title + '''
+date: ''' + str(creation_date) + '''
+lastmod: ''' + str(mod_dt) + '''
+categories: ''' + tags + '''
+draft: false
+---
+
+
+'''
             md_text = hugo_block + md_text
 
             for filepath in file_list:
