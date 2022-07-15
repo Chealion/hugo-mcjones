@@ -1,0 +1,20 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="Snippets and other things at mcjones.ca" />
+    <meta property="og:title" content="mcjones.ca" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mcjones.ca" />
+    <meta property="og:image" content="" />
+    <meta property="og:description" content="Snippets and other things at mcjones.ca" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@chealion" />
+    <meta name="twitter:creator" content="@chealion" />
+
+    <link rel="icon" href="{{ "favicon.png" | absURL}}">
+    {{ $css := resources.Get "css/index.css" }}
+    <link rel="stylesheet" href="{{ ($css | minify | fingerprint).RelPermalink }}">
+</head>
