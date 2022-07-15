@@ -1,0 +1,6 @@
+baseURL = 'https://mcjones.ca'
+languageCode = 'en-ca'
+title = 'mcjones.ca'
+theme = 'mcjones'
+
+[params]
