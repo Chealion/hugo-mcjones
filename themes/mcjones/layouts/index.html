@@ -1,20 +1,14 @@
 {{ define "main" }}
-<main id="main" aria-role="main">
-    <header class="homepage-header">
-        <h1>mcjones.ca</h1>
-    </header>
-    <div class="homepage-content">
-        <p>A place for snippets and documentation being shared publicly.</p>
-        <ul>
-            <li>To the Docs</li>
-            <li>Blog</li>
-            <li>GitHub</li>
-            <li>Twitter</li>
-        </ul>
 
-        <div class="index-image">
-            <img src="" alt="mcjones.ca Photo" />
-        </div>
+<div class="px-4 my-5 text-center pb-0 mb-0">
+    <h1 class="display-4 fw-bold">mcjones.ca</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead mb-4">My collection of personal docs, notes, snippets, and various bits and bobs.</p>
+      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+        <a href="docs"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">To the Docs</button></a>
+      </div>
     </div>
-</main>
+    <!-- Some image for some colour? -->
+  </div>
+
 {{ end }}
