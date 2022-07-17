@@ -2,7 +2,7 @@
 ---
 title: Instant Pot Pork Tenderloin
 date: 2020-01-04 13:16:59
-lastmod: 2022-07-17 10:53:29
+lastmod: 2022-07-17 12:11:40
 categories: ['instantpot', 'recipe']
 draft: false
 ---
@@ -15,19 +15,19 @@ Designed to be modifiable
 
 ## Ingredients
 ### Dry Rub
-1.5 tsp thyme
-1 tsp salt
-3/4 tsp oregano
+1.5 tsp thyme  
+1 tsp salt  
+3/4 tsp oregano  
 3/4 tsp onion powder
 
 Highly recommend 5 spice and ginger powder
 
 ### Pork
-2 pork tenderloins (1 to 1.5 lbs each)
-2 Tbsp vegetable oil
-1 head garlic
-1/2 cup chicken broth
-1 Tbsp cornstarch
+2 pork tenderloins (1 to 1.5 lbs each)  
+2 Tbsp vegetable oil  
+1 head garlic  
+1/2 cup chicken broth  
+1 Tbsp cornstarch  
 1 Tbsp water
 
 ## Directions
@@ -48,7 +48,7 @@ Highly recommend 5 spice and ginger powder
 15. Cut Tenderloin into 1/4 inch thick slices and serve with sauce.
 
 ## Roast
-If doing a pork roast - pressure cook for 15 min per poind
+If doing a pork roast - pressure cook for 15 min per pound
 
 <!-- #public #instantpot #recipe -->
 

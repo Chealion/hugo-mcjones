@@ -2,7 +2,7 @@
 ---
 title: Instant Pot Pork Tenderloin Bah Ku Teh
 date: 2021-10-31 20:24:18
-lastmod: 2022-07-17 10:58:37
+lastmod: 2022-07-17 12:12:01
 categories: ['recipe', 'instantpot']
 draft: false
 ---
@@ -16,23 +16,23 @@ https://www.tastingtable.com/cook/recipes/bak-kut-teh-recipe-pork-rib-soup
 Designed to be modifiable
 
 ## Ingredients
-2 pork tenderloins (1 to 1.5 lbs each)
+2 pork tenderloins (1 to 1.5 lbs each)  
 2 Tbsp oil
 
 ### Dry Rub
-1.5 tsp thyme
-1 tsp salt
-3/4 tsp oregano
+1.5 tsp thyme  
+1 tsp salt  
+3/4 tsp oregano  
 3/4 tsp onion powder
 
 ### Soup
-1 package chicken stock (~1L)
-2 Tbsp ground white pepper
-1 Tbsp ground black pepper
-1 tsp salt
-4 whole star anise
-1 tsp ground cinnamon
-2 heads of garlic, crushed.
+1 package chicken stock (~1L)  
+2 Tbsp ground white pepper  
+1 Tbsp ground black pepper  
+1 tsp salt  
+4 whole star anise  
+1 tsp ground cinnamon  
+2 heads of garlic, crushed  
 6 Tbsp soy sauce
 
 ## Directions

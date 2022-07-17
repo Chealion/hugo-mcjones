@@ -2,7 +2,7 @@
 ---
 title: Instant Pot Air Fryer Notes
 date: 2021-09-11 21:03:37
-lastmod: 2022-07-17 10:51:49
+lastmod: 2022-07-17 12:11:09
 categories: ['recipe', 'instantpot']
 draft: false
 ---
@@ -12,14 +12,14 @@ draft: false
 https://instantpot.com/instantpot-cooking-time/
 
 ## Sausage
-Single layer 400 F - 8-12 min
+Single layer 400 F - 8-12 min  
 Defrosted first.
 
 ## Bacon
 400 F - 15 min. Stir with tongs every 3-5 min
 
 ## Croquettes
-Frozen: 400F - 15 min. Flip halfway
+Frozen: 400F - 15 min. Flip halfway  
 Fresh: 400F - 8-10 min
 
 ## Salmon

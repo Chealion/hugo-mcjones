@@ -2,7 +2,7 @@
 ---
 title: Bulb Comparisons
 date: 2020-08-05 12:18:34
-lastmod: 2022-07-17 11:09:33
+lastmod: 2022-07-17 12:06:34
 categories: ['household']
 draft: false
 ---
@@ -11,13 +11,13 @@ draft: false
 # Bulb Comparisons
 Incandescent, brightness, LED wattage, CFL wattage
 
-40W:	400-500 Lumens		6-7W		8-12W
-60W:	650-850 Lumens		7-10W		13-18W
-100W:	1450-1700 Lumens	14-20W		23-30W
+40W:	400-500 Lumens		6-7W		8-12W  
+60W:	650-850 Lumens		7-10W		13-18W  
+100W:	1450-1700 Lumens	14-20W		23-30W  
 
 Lower wattage numbers are what you normally see.
 
-7 / 13 / 60
+7 / 13 / 60  
 14 / 23 / 100
 
 <!-- #public #household -->

@@ -2,7 +2,7 @@
 ---
 title: Green Onion Pancake
 date: 2017-03-31 11:20:23
-lastmod: 2022-07-17 11:15:35
+lastmod: 2022-07-17 12:22:11
 categories: ['recipe']
 draft: false
 ---
@@ -12,11 +12,11 @@ draft: false
 http://www.thekitchn.com/how-to-make-scallion-pancakes-cooking-lessons-from-the-kitchn-107405
 
 ## Ingredients
-2 1/2 cups white flour (355 grams)
-1 cup warm water
-Oil for the pancakes, such as vegetable, sesame, or shortening
-Coarse kosher salt
-1 bunch scallions
+2 1/2 cups white flour (355 grams)  
+1 cup warm water  
+Oil for the pancakes, such as vegetable, sesame, or shortening  
+Coarse kosher salt  
+1 bunch scallions  
 High smoke point oil for the pan, such as vegetable, canola, or peanut oil
 
 ## Directions
@@ -45,13 +45,13 @@ Cut the pancake into wedges with a pair of kitchen scissors, and serve immediate
 [Green Onion Cake Man - YouTube](https://www.youtube.com/watch?v=D3FTJESc1GY)
 
 ## Ingredients
-4 cup flour
-1 tsp baking powder
-1/4 tsp baking soda
-2 cup water
-1/2 cup oil
-1 tsp sesame oil
-Salt to taste
+4 cup flour  
+1 tsp baking powder  
+1/4 tsp baking soda  
+2 cup water  
+1/2 cup oil  
+1 tsp sesame oil  
+Salt to taste  
 2-3 bunches green onion
 
 ## Directions
@@ -78,10 +78,10 @@ To cook
 https://www.seriouseats.com/recipes/2011/04/extra-flaky-scallion-pancakes-recipe.html
 
 ## Ingredients
-2 cups (~300 grams) flour
-1 cup (250 mL) boiling water
-1/4 cup sesame oil
-2 cups thinly sliced green onions
+2 cups (~300 grams) flour  
+1 cup (250 mL) boiling water  
+1/4 cup sesame oil  
+2 cups thinly sliced green onions  
 Kosher Salt
 
 ## Directions
@@ -103,13 +103,13 @@ Kosher Salt
 
 # Micheal Alternative
 ## Ingredients
-4 cups flour (~640 grams)
-1 tsp baking powder
-1/4 tsp baking soda
-2 cup boiling water (500mL)
-1/2 cup oil
-1 tsp sesame oil
-Coarse Kosher Salt to Taste
+4 cups flour (~640 grams)  
+1 tsp baking powder  
+1/4 tsp baking soda  
+2 cup boiling water (500mL)  
+1/2 cup oil  
+1 tsp sesame oil  
+Coarse Kosher Salt to Taste  
 2 Bunches green onion (chopped)
 
 Oil for pan needs to have high smoke point.

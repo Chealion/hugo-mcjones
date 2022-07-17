@@ -2,7 +2,7 @@
 ---
 title: Pearl vs Loose Leaf
 date: 2021-11-13 17:59:12
-lastmod: 2022-07-17 10:58:28
+lastmod: 2022-07-17 12:15:53
 categories: ['recipe', 'tea']
 draft: false
 ---
@@ -10,6 +10,7 @@ draft: false
 
 # Pearl vs Loose Leaf
 >  these pearls don’t fully unravel after one brew, which means this process can be repeated 2-3 more times. So inherently, you’re receiving more than twice the value per ounce for pearled tea compared to other loose-leaf teas,
+
 https://www.hackberrytea.com/blogs/tea-education/the-costs-benefits-of-pearl-tea
 
 <!-- #public #recipe #tea -->

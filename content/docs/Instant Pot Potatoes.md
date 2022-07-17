@@ -2,7 +2,7 @@
 ---
 title: Instant Pot Potatoes
 date: 2022-07-11 19:04:28
-lastmod: 2022-07-17 10:38:44
+lastmod: 2022-07-17 12:20:31
 categories: ['recipe']
 draft: false
 ---
@@ -11,9 +11,9 @@ draft: false
 # Instant Pot Potatoes
 5 lbs can fit in the 8 quart
 
-Quarter and put with a cup of water. Pressure cook for 15
-Natural release (wait 10 min)
-Drain
+Quarter and put with a cup of water. Pressure cook for 15  
+Natural release (wait 10 min)  
+Drain  
 Mash with butter and milk
 
 <!-- #public #recipe -->

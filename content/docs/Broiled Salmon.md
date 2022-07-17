@@ -2,7 +2,7 @@
 ---
 title: Broiled Salmon
 date: 2017-12-18 20:13:42
-lastmod: 2022-07-17 10:56:55
+lastmod: 2022-07-17 12:20:50
 categories: ['recipe']
 draft: false
 ---
@@ -17,8 +17,8 @@ Switch to broil on HI
 
 Broil salmon until browned (5-7 minutes). If need be, remove after 5 minutes and put on lower rack for 3-4 minutes.
 
-Thermometer temperature:
-Preferred: Remove at 120
+Thermometer temperature:  
+Preferred: Remove at 120  
 Safe: Remove at 140. Cooked at 145
 
 Does great in a toaster oven as well.

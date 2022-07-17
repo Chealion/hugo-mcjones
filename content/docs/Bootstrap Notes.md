@@ -2,7 +2,7 @@
 ---
 title: Bootstrap Notes
 date: 2022-07-14 23:11:36
-lastmod: 2022-07-17 10:14:05
+lastmod: 2022-07-17 12:07:26
 categories: ['bootstrap', 'webdev']
 draft: false
 ---
@@ -30,18 +30,18 @@ https://getbootstrap.com/docs/5.2/examples/cheatsheet/
 Most pertinent notes from:
 https://getbootstrap.com/docs/4.0/utilities/spacing/
 
-m = margin
+m = margin  
 p = padding
 
-t, b, l, r = top, bottom, left, right
+t, b, l, r = top, bottom, left, right  
 x, y = Both left and right, or both top and bottom
 
-0 = eliminate / 0
-1 = spacer * 0.25
-2 = spacer * 0.5
-3 = spacer
-4 = spacer * 1.5
-5 = spacer * 3
+0 = eliminate / 0  
+1 = spacer * 0.25  
+2 = spacer * 0.5  
+3 = spacer  
+4 = spacer * 1.5  
+5 = spacer * 3  
 Auto
 
 Eg.

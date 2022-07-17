@@ -2,7 +2,7 @@
 ---
 title: Pedestrian Infodump
 date: 2022-03-10 08:36:51
-lastmod: 2022-07-17 10:54:02
+lastmod: 2022-07-17 12:14:38
 categories: ['peddown']
 draft: false
 ---
@@ -30,12 +30,12 @@ The report comes (came?) to committee in Decembers where it went to T&T (now kno
 At https://www.calgary.ca/ca/city-clerks/legislative-services/agenda-minutes-search.html  search for “Step Forward” (2016/2017 name) or “Safer Mobility Plan Annual Report” for years since then.
 
 
-General Links:
-Alberta Vehicle Stats: https://www.alberta.ca/collision-vehicle-licence-statistics.aspx
-Alberta Collision Stats: https://open.alberta.ca/publications/0844-7985 (last updated with 2018 stats)
-Calgary Herald / @tshowell 2016: https://calgaryherald.com/news/local-news/cost-of-pedestrian-collisions-too-high-to-ignore-say-calgary-police
-Calgary Traffic Incidents: https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556
-Number of pedestrian incidents visualization based on above: https://data.calgary.ca/Transportation-Transit/Timeline-of-Incidents-involving-pedestrians/qm96-zrf3
+General Links:  
+Alberta Vehicle Stats: https://www.alberta.ca/collision-vehicle-licence-statistics.aspx  
+Alberta Collision Stats: https://open.alberta.ca/publications/0844-7985 (last updated with 2018 stats)  
+Calgary Herald / @tshowell 2016: https://calgaryherald.com/news/local-news/cost-of-pedestrian-collisions-too-high-to-ignore-say-calgary-police  
+Calgary Traffic Incidents: https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556  
+Number of pedestrian incidents visualization based on above: https://data.calgary.ca/Transportation-Transit/Timeline-of-Incidents-involving-pedestrians/qm96-zrf3  
 PedDownYYC’s Code and caveats: https://github.com/chealion/peddown 
 
 <!-- #public #peddown -->

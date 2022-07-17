@@ -2,7 +2,7 @@
 ---
 title: The Star
 date: 2022-05-01 11:40:07
-lastmod: 2022-07-17 10:50:02
+lastmod: 2022-07-17 12:20:01
 categories: ['shortstories']
 draft: false
 ---
@@ -14,8 +14,8 @@ By Arthur C. Clarke
 https://sites.uni.edu/morgans/astro/course/TheStar.pdf
 
 Discovered thanks to a tweet from Bynkii:
-https://twitter.com/bynkii/status/1520601326635433984
-QT’d
+https://twitter.com/bynkii/status/1520601326635433984  
+Was a quote tweet of
 https://twitter.com/bookishseawitch/status/1519692127801860096
 
 Short story that will haunt people. Great story.

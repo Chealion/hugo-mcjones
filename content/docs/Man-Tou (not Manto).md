@@ -2,19 +2,19 @@
 ---
 title: Man-Tou (not Manto)
 date: 2016-12-12 23:52:19
-lastmod: 2022-07-17 11:15:12
+lastmod: 2022-07-17 12:09:06
 categories: ['bread', 'recipe']
 draft: false
 ---
 
 
 # Man-Tou (not Manto)
-1 cup warm milk
-1/4 cup oil
-1 egg, beaten
-1/2 cup warm  water (125 grams)
-1/2 cup sugar (115 grams)
-5 cups flour (875 grams)
+1 cup warm milk  
+1/4 cup oil  
+1 egg, beaten  
+1/2 cup warm  water (125 grams)  
+1/2 cup sugar (115 grams)  
+5 cups flour (875 grams)  
 1 Tbsp yeast (instant)
 
 1. If using regular yeast, mix it with warm water and 1 Tbsp sugar. let sit for 10 min.

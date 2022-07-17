@@ -2,7 +2,7 @@
 ---
 title: Passkey / Webauthn
 date: 2022-06-08 12:20:44
-lastmod: 2022-07-17 10:46:30
+lastmod: 2022-07-17 12:15:28
 categories: ['webauthn']
 draft: false
 ---
@@ -26,16 +26,16 @@ A distinct lack of support at the moment. The most offers for it so far are only
 What does a user require to provide their credentials?
 
 Physical FIDO2-compatible security keys:
-	* Yubikeys - $55 USD
-	* Token2
-	* Feitian - a little less expensive
-	* Google Titan
+* Yubikeys - $55 USD
+* Token2
+* Feitian - a little less expensive
+* Google Titan
 
 Software based:
-	* macOS Ventura (Secure Enclave)
-	* iOS 16 (Secure Enclave)
-	* 1Password 8
-	* Windows ??
+* macOS Ventura (Secure Enclave)
+* iOS 16 (Secure Enclave)
+* 1Password 8
+* Windows ??
 
 ## Resource Links
 Apple - https://support.apple.com/en-us/HT213305

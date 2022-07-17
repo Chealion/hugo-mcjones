@@ -2,25 +2,25 @@
 ---
 title: Easy Crispy Waffles
 date: 2018-03-30 22:39:59
-lastmod: 2022-07-17 11:06:09
+lastmod: 2022-07-17 12:21:19
 categories: ['recipe']
 draft: false
 ---
 
 
 # Easy Crispy Waffles
-Makes ~12 waffles
-Use 1/3 cup
+Makes ~12 waffles  
+Use 1/3 cup  
 Use more flour (300g)
 
 ## Ingredients
-2 c flour ( ~ 300 grams)
-1.5 tsp yeast
-1/2 cup melted butter
-2 cups warm milk
-2 eggs
-2 tsp vanilla extract
-1 tbsp sugar
+2 c flour ( ~ 300 grams)  
+1.5 tsp yeast  
+1/2 cup melted butter  
+2 cups warm milk  
+2 eggs  
+2 tsp vanilla extract  
+1 tbsp sugar  
 1/2 ts salt
 
 ## Directions

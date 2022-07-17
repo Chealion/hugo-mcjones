@@ -2,7 +2,7 @@
 ---
 title: Bharazi
 date: 2020-07-05 12:48:50
-lastmod: 2022-07-17 11:15:00
+lastmod: 2022-07-17 12:21:38
 categories: ['recipe']
 draft: false
 ---
@@ -12,17 +12,17 @@ draft: false
 From the Ismali Community Breakfast
 
 ## Ingredients
-1/4 cup oil
-1/2 cup fresh diced onions
-1/2 cup fresh blended tomatoes
-1/2 tsp garlic paste
-1 Tbsp green chutney (jalapeno and cilantro blended)
-1/4 tsp turmeric powder
-1/2 tsp salt
-1/4 tsp citric acid
-2 cans pigeon peas (drained and rinsed)
-1/2 cup evaporated milk
-1/2 can coconut milk
+1/4 cup oil  
+1/2 cup fresh diced onions  
+1/2 cup fresh blended tomatoes  
+1/2 tsp garlic paste  
+1 Tbsp green chutney (jalapeno and cilantro blended)  
+1/4 tsp turmeric powder  
+1/2 tsp salt  
+1/4 tsp citric acid  
+2 cans pigeon peas (drained and rinsed)  
+1/2 cup evaporated milk  
+1/2 can coconut milk  
 Cilantro to garnish
 
 ## Directions

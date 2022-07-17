@@ -2,7 +2,7 @@
 ---
 title: Toasted Tuna Buns
 date: 2020-07-08 22:34:34
-lastmod: 2022-07-17 11:03:16
+lastmod: 2022-07-17 12:21:04
 categories: ['recipe']
 draft: false
 ---
@@ -10,12 +10,12 @@ draft: false
 
 # Toasted Tuna Buns
 ## Ingredients
-8 stalks celery
-1 medium onion
-3 cans chunked tuna (drained)
-1/2 jar mayo
-1/4 lemon
-1 block marble cheese (grated)
+8 stalks celery  
+1 medium onion  
+3 cans chunked tuna (drained)  
+1/2 jar mayo  
+1/4 lemon  
+1 block marble cheese (grated)  
 Spices to taste
 
 ## Directions

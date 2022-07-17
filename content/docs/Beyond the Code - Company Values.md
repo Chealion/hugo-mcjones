@@ -2,13 +2,13 @@
 ---
 title: Beyond the Code - Company Values
 date: 2022-05-25 22:42:51
-lastmod: 2022-07-17 10:48:38
+lastmod: 2022-07-17 12:00:10
 categories: ['coaching']
 draft: false
 ---
 
 
-# Beyond the Code: Company Values
+# Beyond the Code - Company Values
 8 things from @jlengstorf
 
 1. Set clear expectations first and foremost
