@@ -1,6 +1,7 @@
 ---
 title: Git subtree demo
-date: 587348480.808174
+date: 2019-08-12 18:21:20
+lastmod: 2022-07-10 14:41:33
 categories: ['git', 'snippet', 'git-subtree']
 draft: false
 ---
@@ -91,7 +92,7 @@ git subtree push --prefix tracking-parsers tracking-parsers master
 ```
 
 ## Resources
- [https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree) 
+ [https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 
 <!-- #public #git #snippet #git-subtree -->
 

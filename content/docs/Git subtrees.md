@@ -1,8 +1,8 @@
 
 ---
 title: Git subtrees
-date: 587348480.808174
-lastmod: 1657485693.86309
+date: 2019-08-12 18:21:20
+lastmod: 2022-07-10 14:41:33
 categories: ['git', 'snippet', 'git-subtree']
 draft: false
 ---
@@ -109,6 +109,6 @@ git gc --prune=now
 ## Resources
  [https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree) 
 
-. #public #git #snippet #git-subtree
+<!-- #public #git #snippet #git-subtree -->
 
 <!-- {BearID:48B64C15-6289-47D9-9B96-54BE9DD6B1F4-794-000331C3B620C14A} -->

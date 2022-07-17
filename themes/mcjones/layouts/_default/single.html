@@ -1,6 +1,25 @@
+{{ define "title" }}
+  <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
 {{ define "main" }}
-<div class="content {{if .Site.Params.enable_anchor_link}}{{ "anchor-link-enabled" }}{{ end }}">
-  {{.Content}}
+<div class="d-flex flex-nowrap align-items-right container">
+  {{- partial "sidebar.html" .}}
+  <main class="mx-2 my-0 px-3 text-left">
+    {{ .Content }}
+    <div class="metadata">
+      Last Modified: {{ .Page.Lastmod | time.Format ":date_short" }}<br />
+      Tags:
+      <ul class="list-unstyled fw-normal pb-1 small d-inline-flex" id="taglist">
+      {{ range $category := .Params.Categories }}
+        <li>
+          <a class="text-decoration-none rounded px-2 d-inline-flex" href="/categories/{{ $category }}">{{ $category }}</a>
+        </li>
+      {{ end }}
+      </ul>
+    </div>
+  </main>
 </div>
-</div>
+
 {{ end }}
