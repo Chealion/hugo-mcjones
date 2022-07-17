@@ -169,7 +169,9 @@ def export_markdown():
     for row in c:
         title = row['ZTITLE']
         md_text = row['ZTEXT'].rstrip()
-        creation_date = row['ZCREATIONDATE']
+
+        creation_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZCREATIONDATE'])))
+        modification_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZMODIFICATIONDATE'])))
         modified = row['ZMODIFICATIONDATE']
         uuid = row['ZUNIQUEIDENTIFIER']
         filename = clean_title(title)
@@ -190,7 +192,7 @@ def export_markdown():
 ---
 title: ''' + title + '''
 date: ''' + str(creation_date) + '''
-lastmod: ''' + str(mod_dt) + '''
+lastmod: ''' + str(modification_date) + '''
 categories: ''' + tags + '''
 draft: false
 ---
