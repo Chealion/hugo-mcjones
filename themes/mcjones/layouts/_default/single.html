@@ -8,7 +8,7 @@
   {{- partial "sidebar.html" .}}
   <main class="mx-2 my-0 px-3 text-left">
     {{ .Content }}
-    <div class="metadata">
+    <div class="metadata border-top pt-2">
       Last Modified: {{ .Page.Lastmod | time.Format ":date_short" }}<br />
       Tags:
       <ul class="list-unstyled fw-normal pb-1 small d-inline-flex" id="taglist">

@@ -8,3 +8,8 @@ pre code {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+blockquote {
+    padding-left: 15px;
+    border-left: 3px solid #dee2e6;
+}
