@@ -1,11 +1,13 @@
 {{$currentNode := .}}
-<div class="docs-menu">
-  <h4>{{ .Section | humanize }}</h4>
-  <ul>
-    {{ range where .Site.RegularPages "Section" .Section }}
-    <li class="{{ if eq .File.UniqueID $currentNode.File.UniqueID }}active {{ end }}">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+<aside class="d-flex flex-column flex-shrink-0 px-3 mt-2" style="max-width: 280px;">
+  <ul class="list-unstyled ps-0">
+    <li class="mb-1">
+      <a class="link-dark text-decoration-none" href="/docs">Docs</a>
+        <ul class="list-unstyled fw-normal pb-1 small">
+          {{ range $key, $value := .Site.Taxonomies.categories }}
+          <li><a class="link-dark d-inline-flex text-decoration-none rounded px-2" href="/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+          {{ end }}
+        </ul>
     </li>
-    {{ end }}
   </ul>
-</div>
+</aside>

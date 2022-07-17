@@ -1,8 +1,8 @@
 
 ---
 title: Migrate from Go get to Go Install
-date: 676175867.649487
-lastmod: 1657479138.418981
+date: 2022-06-05 20:37:47
+lastmod: 2022-07-10 12:52:18
 categories: ['golang']
 draft: false
 ---
@@ -23,6 +23,6 @@ The tl;dr is use install instead of get but updating is different.
 
 Instead of `go get -u` you will use the same install command and modify the version tag (or keep with latest)
 
-. #public #golang
+<!-- #public #golang -->
 
 <!-- {BearID:D0A2DCBF-4895-4DBB-9298-077C88CB700E-49872-00002285414AAA31} -->

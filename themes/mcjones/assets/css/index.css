@@ -1,1 +1,10 @@
-/* Bootstrap overrides? */
+/* Bootstrap overrides */
+
+aside {
+    border-right: 0.5px solid #dee2e6;
+}
+
+pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
