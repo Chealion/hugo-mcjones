@@ -1,0 +1,22 @@
+
+---
+title: Cores, CPU and Disk Size from Installer
+date: 2017-04-05 11:17:07
+lastmod: 2022-07-17 11:17:20
+categories: ['snippet', 'macos']
+draft: false
+---
+
+
+# Cores, CPU and Disk Size from Installer
+Go to Terminal and run the following:
+
+```
+sysctl hw.physicalcpu
+sysctl hw.memsize | awk '{ print $2/1024/1024/1024 " GB"}'
+df -h
+```
+
+<!-- #snippet #public #macos -->
+
+<!-- {BearID:9B191F56-7979-4F8C-AEE9-176CE63DBCBD-832-0002A4CD6777FFA0} -->
