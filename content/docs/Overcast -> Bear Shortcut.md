@@ -2,7 +2,7 @@
 ---
 title: "Overcast -> Bear Shortcut"
 date: 2022-08-10 21:55:23
-lastmod: 2022-08-10 21:58:51
+lastmod: 2022-08-10 23:08:28
 categories: ['shortcuts', 'overcast']
 draft: false
 ---
@@ -13,7 +13,7 @@ The shortcut I use to send a particularly good episode to Bear has the following
 
 Take the info from Overcast and put into a new Bear note. I then copy some text to the clipboard and add that text to the Bear note because Shortcuts has some really weird bugs that prevents me from adding it.
 
-It can be checked out at https://mcjones.ca/downloads/Overcast%20To%20Bear%20.shortcut.zip
+It can be checked out at https://mcjones.ca/downloads/Overcast%20to%20Bear.shortcut.zip
 
 <!-- #public #shortcuts #overcast -->
 
