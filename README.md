@@ -11,3 +11,7 @@ git commit -m "Content Update $(date)"
 hugo
 rsync -avzh public/ mcjones.ca:mcjones
 ```
+
+## Images
+
+https://icons.getbootstrap.com/
