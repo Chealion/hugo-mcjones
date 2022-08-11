@@ -1,14 +1,14 @@
 
 ---
-title: "Strong Towns with Ryan Crane"
+title: "Strong Towns - Ryan Crane"
 date: 2022-08-04 12:55:54
-lastmod: 2022-08-10 22:34:27
+lastmod: 2022-08-10 22:58:47
 categories: ['podcast']
 draft: false
 ---
 
 
-# Strong Towns with Ryan Crane 
+# Strong Towns - Ryan Crane 
 Solid run down of safety and engineering. 
 
 I really liked the bit about latent causes versus active causes as a different way of showing systemic vs human causes in safety

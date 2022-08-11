@@ -1,14 +1,14 @@
 
 ---
-title: "Remote Cultures and The Power of Storytelling with Michael Lopp, aka rands"
+title: "Developing Leadership - Michael Loop (rands)"
 date: 2022-07-19 07:50:04
-lastmod: 2022-08-10 22:34:31
+lastmod: 2022-08-10 22:58:44
 categories: ['podcast']
 draft: false
 ---
 
 
-# Remote Cultures and The Power of Storytelling with Michael Lopp, aka rands
+# Developing Leadership - Michael Loop (rands)
 A fantastic look at the power of storytelling to help folks understand why they’re doing the work they do.
 
 ---
