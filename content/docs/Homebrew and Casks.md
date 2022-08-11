@@ -2,7 +2,7 @@
 ---
 title: Homebrew and Casks
 date: 2021-12-24 19:33:03
-lastmod: 2022-07-17 10:57:12
+lastmod: 2022-07-22 22:02:52
 categories: ['List', 'homebrew', 'macos']
 draft: false
 ---
@@ -18,6 +18,8 @@ brew outdated
 brew outdated --cask --greedy
 
 brew upgrade --cask <name> -f
+
+for i in $(brew outdated --cask --greedy | awk '{ print $1 }'); do brew upgrade --cask ${i}; done
 ```
 
 <!-- #public #homebrew #macos -->

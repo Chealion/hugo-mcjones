@@ -2,7 +2,7 @@
 ---
 title: Pedestrian Infodump
 date: 2022-03-10 08:36:51
-lastmod: 2022-07-17 12:14:38
+lastmod: 2022-08-10 21:36:28
 categories: ['peddown']
 draft: false
 ---
@@ -13,15 +13,15 @@ I apologize for the length of the thread - it’s a bit of an info dump and if t
 
 The tl;dr is the Province, the police, and to a much lesser extent the City are doing a poor job at making data open and accessible when it comes to this topic. Contacting 311 or the Police should be great if you want the data and know how to map it. Not so great if you want to understand or share information.
 
-The canonical list lands and lives with @ABTransComm. @CalgaryPolice are the ones who will create the incident details and their system will send it to the provincial database. There is a delay on items depending on an investigation.
+The canonical list lands and lives with [@ABTransComm](https://twitter.com/ABTransComm). [@CalgaryPolice](https://twitter.com/calgarypolice) are the ones who will create the incident details and their system will send it to the provincial database. There is a delay on items depending on an investigation.
 
-The folks at the City who write the pedestrian strategy reports get the information for the year from the police service. This information can be requested via @CalgaryPolice’s “Research Request Form” but is NOT open data.
+The folks at the City who write the pedestrian strategy reports get the information for the year from the police service. This information can be requested via [@CalgaryPolice](https://twitter.com/calgarypolice) ’s “Research Request Form” but is NOT open data.
 
-@yyctransport’s data and the data available at data.calgary.ca ultimately is limited to the folks at the Traffic Management Centre (http://calgary.ca/Transportation/Roads/Pages/Traffic/Traffic-management/Traffic-management.aspx) knowing and recording an incident’s details. They are however primarily focused on traffic flow, so as such many incidents can be missed.
+[@yyctransport](https://twitter.com/yyctransport)’s data and the data available at data.calgary.ca ultimately is limited to the folks at the Traffic Management Centre (http://calgary.ca/Transportation/Roads/Pages/Traffic/Traffic-management/Traffic-management.aspx) knowing and recording an incident’s details. They are however primarily focused on traffic flow, so as such many incidents can be missed.
 
-So this all comes back to - this data is being recorded but ultimately is not being made available. I know both @mattdrance in Edmonton and I have asked for @ABTransComm to add this information to https://open.alberta.ca
+So this all comes back to - this data is being recorded but ultimately is not being made available. I know both [@mattdrance](https://twitter.com/mattdrance) in Edmonton and I have asked for [@ABTransComm](https://twitter.com/ABTransComm) to add this information to https://open.alberta.ca
 
-Ultimately the most information has come whenever someone has FOIP’d this information and got a point in time snapshot from @CalgaryPolice - including Bike Calgary, @tshowell, and others over the years.
+Ultimately the most information has come whenever someone has FOIP’d this information and got a point in time snapshot from [@CalgaryPolice](https://twitter.com/calgarypolice)  - including Bike Calgary, [@tshowell](https://twitter.com/tshowell), and others over the years.
 
 Another source I’ve had to use is hoping numbers you’re wondering about can be found summarized in the Step Forward Reports presented to council. Knowing what report to look for and when it comes to council is another major barrier.
 

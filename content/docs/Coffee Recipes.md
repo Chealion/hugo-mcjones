@@ -2,7 +2,7 @@
 ---
 title: Coffee Recipes
 date: 2016-12-12 23:52:19
-lastmod: 2022-07-17 12:06:23
+lastmod: 2022-08-10 21:40:20
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -11,9 +11,9 @@ draft: false
 # Coffee Recipes
 ## Rules of Thumb
 Base Ratio is 16 g water to 1 g water  
-Chemex 15.6:1  
-Aeropress 13:1  
-V60 17:1
+Chemex - 15.6:1  
+Aeropress - 13:1  
+V60 - 17:1
 
 ## Baratza Settings
 The gotcha is that it's tweakable for your taste and the coffee in question. You have to get good at identifying under (sour, weak, empty) and over (bitter, strong, empty) extraction. If done right, we'll see sweetness, clarity (notes of the coffee are evident), acidity, finish
@@ -160,6 +160,20 @@ At 2:30, press gently all the way
 Sour - grind size too coarse  
 Bitter - grind size too fine
 
+### Love me some acid (Kata Muhel)
+https://aeroprecipe.com/recipes/love-me-some-acid
+
+Inverted  
+Double paper filter  
+20g coffee (medium)  
+230mL water @ 81C
+Soak coffee with 70 grams water
+Swirl for 15 seconds
+Fill remaining water
+At 1:00 mark, put cap on
+Invert at 1:20
+Start plunge at 1:30 to be done around 1:45.
+
 ### More Recipes?
 https://aeroprecipe.com/
 
@@ -237,6 +251,10 @@ https://www.reddit.com/r/Coffee/comments/nnfs3d/iced_coffee_using_hario_switch/
 
 23g coffee (finer than normal)  
 375g total liquid - 125g of ice into your brewing vessel, 250g hot water
+
+Alt for the cubes at home.
+33g coffee
+540g liquid = 180g ice, 360 hot water
 
 Rinse filter + preheat switch over the sink.
 

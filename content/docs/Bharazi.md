@@ -2,14 +2,14 @@
 ---
 title: Bharazi
 date: 2020-07-05 12:48:50
-lastmod: 2022-07-17 12:21:38
+lastmod: 2022-08-10 21:46:06
 categories: ['recipe']
 draft: false
 ---
 
 
 # Bharazi
-From the Ismali Community Breakfast
+From the [Ismali Community Stampede Breakfast](https://ismailimail.blog/category/community-activities/calgary-stampede/)
 
 ## Ingredients
 1/4 cup oil  

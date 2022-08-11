@@ -2,7 +2,7 @@
 ---
 title: Reverse Sear Details
 date: 2018-08-28 20:50:37
-lastmod: 2022-07-17 11:13:52
+lastmod: 2022-08-10 21:44:18
 categories: ['recipe']
 draft: false
 ---
@@ -19,9 +19,9 @@ draft: false
 6. Sear steak/burger/etc. in skillet (~45 seconds to two minuets per side)
 7. Serve
 
-Rare: Pull at 105 (40), done at 120 (49) - 20-25 min in oven
-Medium Rare: Pull at 115 (46), done at 130 (54) - 25-30 min in oven
-Medium: Pull at 125 (52), done at 140 (60) - 30-35 in oven
+Rare: Pull at 105 (40), done at 120 (49) - 20-25 min in oven  
+Medium Rare: Pull at 115 (46), done at 130 (54) - 25-30 min in oven  
+Medium: Pull at 125 (52), done at 140 (60) - 30-35 in oven  
 Medium Well: Pull at 135 (57), done at 150 (66) - 35-40 in oven.
 
 <!-- #recipe #public -->

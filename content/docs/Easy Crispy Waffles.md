@@ -2,13 +2,20 @@
 ---
 title: Easy Crispy Waffles
 date: 2018-03-30 22:39:59
-lastmod: 2022-07-17 12:21:19
+lastmod: 2022-08-10 21:45:22
 categories: ['recipe']
 draft: false
 ---
 
 
 # Easy Crispy Waffles
+Original Source:
+http://crispywaffle.com/?p=110
+
+Other alternatives:
+https://smittenkitchen.com/2013/05/essential-raised-waffles/
+http://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052
+
 Makes ~12 waffles  
 Use 1/3 cup  
 Use more flour (300g)
@@ -32,15 +39,11 @@ Night before:
 5. Add egg/vanilla mixture to main mixture and whisk.
 6. Cover and let sit in fridge overnight or 4 hours on counter
 
-Morning:
+Morning:  
 7. Stir batter to deflate
 8. Make waffles
-Source:
-http://crispywaffle.com/?p=110
 
-Other alternatives:
-https://smittenkitchen.com/2013/05/essential-raised-waffles/
-http://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052
+
 
 <!-- #recipe #public -->
 
