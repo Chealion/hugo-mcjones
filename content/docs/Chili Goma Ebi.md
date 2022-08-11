@@ -1,6 +1,6 @@
 
 ---
-title: Chili Goma Ebi
+title: "Chili Goma Ebi"
 date: 2018-03-01 19:49:48
 lastmod: 2022-07-17 11:14:49
 categories: ['recipe']

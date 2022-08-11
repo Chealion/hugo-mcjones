@@ -1,6 +1,6 @@
 
 ---
-title: Bulb Comparisons
+title: "Bulb Comparisons"
 date: 2020-08-05 12:18:34
 lastmod: 2022-07-17 12:06:34
 categories: ['household']

@@ -1,6 +1,6 @@
 
 ---
-title: Toasted Tuna Buns
+title: "Toasted Tuna Buns"
 date: 2020-07-08 22:34:34
 lastmod: 2022-07-17 12:21:04
 categories: ['recipe']

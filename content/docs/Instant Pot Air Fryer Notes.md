@@ -1,6 +1,6 @@
 
 ---
-title: Instant Pot Air Fryer Notes
+title: "Instant Pot Air Fryer Notes"
 date: 2021-09-11 21:03:37
 lastmod: 2022-07-17 12:11:09
 categories: ['recipe', 'instantpot']

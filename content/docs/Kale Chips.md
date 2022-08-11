@@ -1,6 +1,6 @@
 
 ---
-title: Kale Chips
+title: "Kale Chips"
 date: 2018-10-04 20:06:40
 lastmod: 2022-07-17 11:16:19
 categories: ['recipe']

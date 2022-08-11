@@ -1,6 +1,6 @@
 
 ---
-title: Man-Tou (not Manto)
+title: "Man-Tou (not Manto)"
 date: 2016-12-12 23:52:19
 lastmod: 2022-07-17 12:09:06
 categories: ['bread', 'recipe']

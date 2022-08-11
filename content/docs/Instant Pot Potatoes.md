@@ -1,6 +1,6 @@
 
 ---
-title: Instant Pot Potatoes
+title: "Instant Pot Potatoes"
 date: 2022-07-11 19:04:28
 lastmod: 2022-07-17 12:20:31
 categories: ['recipe']

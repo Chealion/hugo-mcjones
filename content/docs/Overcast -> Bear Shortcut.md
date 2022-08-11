@@ -1,6 +1,6 @@
 
 ---
-title: Overcast -> Bear Shortcut
+title: "Overcast -> Bear Shortcut"
 date: 2022-08-10 21:55:23
 lastmod: 2022-08-10 21:58:51
 categories: ['shortcuts', 'overcast']

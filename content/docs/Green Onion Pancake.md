@@ -1,6 +1,6 @@
 
 ---
-title: Green Onion Pancake
+title: "Green Onion Pancake"
 date: 2017-03-31 11:20:23
 lastmod: 2022-07-17 12:22:11
 categories: ['recipe']

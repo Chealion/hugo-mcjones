@@ -1,6 +1,6 @@
 
 ---
-title: SQL on a CSV file using sqlite
+title: "SQL on a CSV file using sqlite"
 date: 2022-06-21 10:15:19
 lastmod: 2022-07-17 10:43:14
 categories: ['snippet', 'sqlite']

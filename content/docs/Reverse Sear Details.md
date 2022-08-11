@@ -1,6 +1,6 @@
 
 ---
-title: Reverse Sear Details
+title: "Reverse Sear Details"
 date: 2018-08-28 20:50:37
 lastmod: 2022-08-10 21:44:18
 categories: ['recipe']

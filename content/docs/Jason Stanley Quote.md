@@ -1,6 +1,6 @@
 
 ---
-title: Jason Stanley Quote
+title: "Jason Stanley Quote"
 date: 2022-06-18 10:16:45
 lastmod: 2022-08-10 21:41:59
 categories: ['maxfawcett', 'jasonstanley', 'fascism', 'quotes']

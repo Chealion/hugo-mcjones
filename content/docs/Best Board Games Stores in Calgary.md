@@ -1,6 +1,6 @@
 
 ---
-title: Best Board Games Stores in Calgary
+title: "Best Board Games Stores in Calgary"
 date: 2020-11-27 13:57:14
 lastmod: 2022-07-17 11:09:55
 categories: ['calgary']

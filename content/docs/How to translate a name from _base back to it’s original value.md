@@ -1,6 +1,6 @@
 
 ---
-title: How to translate a name from _base back to it’s original value?
+title: "How to translate a name from _base back to it’s original value?"
 date: 2022-05-03 09:54:00
 lastmod: 2022-07-17 10:49:19
 categories: ['openstack', 'nova']

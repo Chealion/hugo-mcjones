@@ -1,6 +1,6 @@
 
 ---
-title: sips
+title: "sips"
 date: 2022-06-21 17:31:27
 lastmod: 2022-07-17 10:38:33
 categories: ['macos']

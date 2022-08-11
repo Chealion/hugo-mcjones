@@ -1,6 +1,6 @@
 
 ---
-title: My General Go To Lightroom Preset
+title: "My General Go To Lightroom Preset"
 date: 2022-06-25 20:56:32
 lastmod: 2022-07-17 10:42:33
 categories: ['lightroom']

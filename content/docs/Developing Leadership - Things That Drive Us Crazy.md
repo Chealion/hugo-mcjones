@@ -1,20 +1,15 @@
 
 ---
-title: Podcast Recommendation: Developing Leadership - Things That Drive Us Crazy
+title: "Developing Leadership - Things That Drive Us Crazy"
 date: 2022-07-30 15:17:23
-lastmod: 2022-08-10 20:25:53
+lastmod: 2022-08-10 22:13:44
 categories: ['podcast']
 draft: false
 ---
 
 
-# Podcast Recommendation: Developing Leadership - Things That Drive Us Crazy
-# Developing Leadership - Episode 15 | Things That Drive Us Crazy in Software Engineering Leadership
-https://overcast.fm/+xOJ1gRD-4
-https://podcast.developingleadership.co/e/episode-15-things-that-drive-us-crazy-in-software-engineering-leadership/
-
-## What I liked: 
-
+# Developing Leadership - Things That Drive Us Crazy
+### What I liked: 
 Quotes / Points:
 “Philosophy and the soul of the alignment tool”
 “Draw the owl. You know it’s going to be messy going to get to be s draw the owl”
@@ -22,6 +17,13 @@ Need to understand what the alignment tool is supposed to be doing.
 
 14:53
 Never act like you have the answer. “Our goals are to achieve this. We’re going to try this way of doing it because we need to optimize x, y, and z to achieve these goals and this will get us there. And if it doesn’t work, we throw it out”
+
+**Episode Title**: Developing Leadership - Episode 15 | Things That Drive Us Crazy in Software Engineering Leadership
+
+https://overcast.fm/+xOJ1gRD-4  
+https://podcast.developingleadership.co/e/episode-15-things-that-drive-us-crazy-in-software-engineering-leadership/
+
+
 
 <!-- #public #podcast -->
 

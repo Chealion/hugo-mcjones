@@ -190,7 +190,7 @@ def export_markdown():
             ## Add Hugo Metadata block
             hugo_block = '''
 ---
-title: ''' + title + '''
+title: "''' + title + '''"
 date: ''' + str(creation_date) + '''
 lastmod: ''' + str(modification_date) + '''
 categories: ''' + tags + '''

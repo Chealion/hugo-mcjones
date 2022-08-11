@@ -1,6 +1,6 @@
 
 ---
-title: Cores, CPU and Disk Size from Installer
+title: "Cores, CPU and Disk Size from Installer"
 date: 2017-04-05 11:17:07
 lastmod: 2022-07-17 11:17:20
 categories: ['snippet', 'macos']

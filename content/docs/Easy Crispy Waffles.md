@@ -1,6 +1,6 @@
 
 ---
-title: Easy Crispy Waffles
+title: "Easy Crispy Waffles"
 date: 2018-03-30 22:39:59
 lastmod: 2022-08-10 21:45:22
 categories: ['recipe']

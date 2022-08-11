@@ -1,6 +1,6 @@
 
 ---
-title: The Star
+title: "The Star"
 date: 2022-05-01 11:40:07
 lastmod: 2022-07-17 12:20:01
 categories: ['shortstories']

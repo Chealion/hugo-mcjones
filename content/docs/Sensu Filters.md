@@ -1,6 +1,6 @@
 
 ---
-title: Sensu Filters
+title: "Sensu Filters"
 date: 2022-08-10 19:42:09
 lastmod: 2022-08-10 20:25:04
 categories: ['Passes', '1.', '2.', '3.', 'sensu', 'puppet']

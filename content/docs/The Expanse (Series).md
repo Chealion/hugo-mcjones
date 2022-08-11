@@ -1,6 +1,6 @@
 
 ---
-title: The Expanse (Series)
+title: "The Expanse (Series)"
 date: 2018-11-23 22:39:42
 lastmod: 2022-08-10 21:38:36
 categories: ['book']

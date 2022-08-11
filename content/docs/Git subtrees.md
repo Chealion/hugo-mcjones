@@ -1,6 +1,6 @@
 
 ---
-title: Git subtrees
+title: "Git subtrees"
 date: 2019-08-12 18:21:20
 lastmod: 2022-07-17 10:24:14
 categories: ['git', 'snippet']

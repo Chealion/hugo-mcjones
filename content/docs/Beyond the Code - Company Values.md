@@ -1,6 +1,6 @@
 
 ---
-title: Beyond the Code - Company Values
+title: "Beyond the Code - Company Values"
 date: 2022-05-25 22:42:51
 lastmod: 2022-07-17 12:00:10
 categories: ['coaching']

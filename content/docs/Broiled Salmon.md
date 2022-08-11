@@ -1,6 +1,6 @@
 
 ---
-title: Broiled Salmon
+title: "Broiled Salmon"
 date: 2017-12-18 20:13:42
 lastmod: 2022-07-17 12:20:50
 categories: ['recipe']

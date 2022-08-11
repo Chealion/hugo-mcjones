@@ -1,6 +1,6 @@
 
 ---
-title: Testing Sensu Checks
+title: "Testing Sensu Checks"
 date: 2020-04-01 15:02:59
 lastmod: 2022-08-10 19:23:57
 categories: ['sensu']

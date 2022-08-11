@@ -1,6 +1,6 @@
 
 ---
-title: Pedestrian Infodump
+title: "Pedestrian Infodump"
 date: 2022-03-10 08:36:51
 lastmod: 2022-08-10 21:36:28
 categories: ['peddown']

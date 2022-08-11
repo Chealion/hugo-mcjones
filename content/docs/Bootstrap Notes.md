@@ -1,6 +1,6 @@
 
 ---
-title: Bootstrap Notes
+title: "Bootstrap Notes"
 date: 2022-07-14 23:11:36
 lastmod: 2022-07-17 12:07:26
 categories: ['bootstrap', 'webdev']

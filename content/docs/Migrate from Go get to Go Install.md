@@ -1,6 +1,6 @@
 
 ---
-title: Migrate from Go get to Go Install
+title: "Migrate from Go get to Go Install"
 date: 2022-06-05 20:37:47
 lastmod: 2022-07-10 12:52:18
 categories: ['golang']

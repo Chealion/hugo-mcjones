@@ -1,6 +1,6 @@
 
 ---
-title: Use dsh in parallel
+title: "Use dsh in parallel"
 date: 2022-07-04 19:34:05
 lastmod: 2022-07-17 10:41:11
 categories: ['snippet', 'dsh']

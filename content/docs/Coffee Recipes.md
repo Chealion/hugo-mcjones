@@ -1,6 +1,6 @@
 
 ---
-title: Coffee Recipes
+title: "Coffee Recipes"
 date: 2016-12-12 23:52:19
 lastmod: 2022-08-10 21:40:20
 categories: ['recipe', 'coffee']
