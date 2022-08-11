@@ -2,5 +2,6 @@ baseURL = 'https://mcjones.ca'
 languageCode = 'en-ca'
 title = 'mcjones.ca'
 theme = 'mcjones'
+rssLimit = 50
 
 [params]
