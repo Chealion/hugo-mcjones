@@ -2,7 +2,7 @@
 ---
 title: "Easy Crispy Waffles"
 date: 2018-03-30 22:39:59
-lastmod: 2022-08-10 21:45:22
+lastmod: 2022-10-03 22:18:56
 categories: ['recipe']
 draft: false
 ---
@@ -13,7 +13,7 @@ Original Source:
 http://crispywaffle.com/?p=110
 
 Other alternatives:
-https://smittenkitchen.com/2013/05/essential-raised-waffles/
+https://smittenkitchen.com/2013/05/essential-raised-waffles/  
 http://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052
 
 Makes ~12 waffles  

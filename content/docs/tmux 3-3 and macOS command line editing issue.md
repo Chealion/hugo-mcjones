@@ -2,7 +2,7 @@
 ---
 title: "tmux 3.3 and macOS command line editing issue"
 date: 2022-06-05 20:58:56
-lastmod: 2022-07-10 12:53:06
+lastmod: 2022-10-03 22:20:13
 categories: ['tmux', 'macos']
 draft: false
 ---
@@ -16,7 +16,8 @@ micheal@~ % echo $TERM
 tmux-256color
 ```
 
-https://github.com/tmux/tmux/issues/3203 / https://github.com/Homebrew/homebrew-core/issues/102748
+https://github.com/tmux/tmux/issues/3203  
+https://github.com/Homebrew/homebrew-core/issues/102748
 
 The tl;dr is that the first release of tmux 3.3 on Homebrew had a bad default-terminal set for using it with macOS. This has been fixed by setting the following in .tmux.conf:
 

@@ -2,7 +2,7 @@
 ---
 title: "Strong Towns - Ryan Crane"
 date: 2022-08-04 12:55:54
-lastmod: 2022-08-10 22:58:47
+lastmod: 2022-10-03 22:41:35
 categories: ['podcast']
 draft: false
 ---

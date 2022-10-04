@@ -2,7 +2,7 @@
 ---
 title: "Passkey / Webauthn"
 date: 2022-06-08 12:20:44
-lastmod: 2022-07-17 12:15:28
+lastmod: 2022-10-03 22:19:16
 categories: ['webauthn']
 draft: false
 ---
@@ -11,7 +11,7 @@ draft: false
 # Passkey / Webauthn
 WebAuthn is public key cryptography but more widespread and available via the FIDO (Fast IDentity Online) alliance.
 
-https://fidoalliance.org/how-fido-works/
+https://fidoalliance.org/how-fido-works/  
 https://caniuse.com/?search=webauthn
 
 ## Services
