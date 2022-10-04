@@ -19,7 +19,7 @@
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages.ByLastmod.Reverse }}
         <li class="">
-            <a class="text-decoration-none rounded px-2" href="{{.Permalink}}">{{.Title}}</a>
+          <a class="text-decoration-none rounded px-2" href="{{.Permalink}}">{{.Title}}</a>
         </li>
     {{ end }}
     </ul>

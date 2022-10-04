@@ -1,20 +1,44 @@
 /* Bootstrap overrides */
 
 aside {
-    border-right: 0.5px solid #dee2e6;
+  border-right: 0.5px solid #dee2e6;
 }
 
 pre code {
-    white-space: pre-wrap;
-    word-wrap: break-word;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background: #eee;
+  display: block;
 }
 
 blockquote {
-    padding-left: 15px;
-    border-left: 3px solid #dee2e6;
+  padding-left: 15px;
+  border-left: 3px solid #dee2e6;
 }
 
 h1 {
-    border-bottom: 1px solid rgba(200, 200, 200, .6);
-    padding-bottom: 2px;
+  border-bottom: 1px solid rgba(200, 200, 200, .6);
+  padding-bottom: 2px;
 }
+
+/* Table of Contents */
+#TableOfContents {
+  border: 1px solid #000;
+  padding: 5px 10px;
+  margin-top: 50px;
+  float: right;
+  width: 25%;
+  background: #fff;
+}
+
+#TableOfContents ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#TableOfContents li {
+  margin: 0 0 0 10px;
+  padding: 0;
+} 
+

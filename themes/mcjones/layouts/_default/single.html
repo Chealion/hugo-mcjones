@@ -6,10 +6,14 @@
 {{ define "main" }}
 <div class="d-flex flex-nowrap align-items-right container">
   {{- partial "sidebar.html" .}}
-  <main class="mx-2 my-0 px-3 text-left">
+  <main class="mx-2 my-0 px-3 text-left flex-grow-1">
+    {{ if (gt .WordCount 400 ) }}
+    {{ .TableOfContents }}
+    {{ end }}
     {{ .Content }}
     <div class="metadata border-top pt-2">
       Last Modified: {{ .Page.Lastmod | time.Format ":date_short" }}<br />
+      Word Count: {{ .WordCount}}<br />
       Tags:
       <ul class="list-unstyled fw-normal pb-1 small d-inline-flex" id="taglist">
       {{ range $category := .Params.Categories }}
