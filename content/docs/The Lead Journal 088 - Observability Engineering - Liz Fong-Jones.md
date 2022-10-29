@@ -2,8 +2,8 @@
 ---
 title: "The Lead Journal 088 - Observability Engineering - Liz Fong-Jones"
 date: 2022-08-27 16:37:46
-lastmod: 2022-10-03 22:41:05
-categories: ['88', 'podcast']
+lastmod: 2022-10-13 11:36:07
+categories: ['podcast']
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
 First principles of debugging?
 
 ---
-###### Tech Lead Journal - #88 - Observability Engineering - Liz Fong-Jones
+###### Tech Lead Journal - 088 - Observability Engineering - Liz Fong-Jones
 
 https://overcast.fm/+fKlw4ytDM
 

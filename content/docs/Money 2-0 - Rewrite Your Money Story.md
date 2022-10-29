@@ -1,14 +1,14 @@
 
 ---
-title: "Money 2.0: Rewrite Your Money Story"
+title: "Money 2.0 - Rewrite Your Money Story"
 date: 2022-08-12 12:18:37
-lastmod: 2022-10-03 22:38:28
+lastmod: 2022-10-03 22:48:08
 categories: ['podcast']
 draft: false
 ---
 
 
-# Money 2.0: Rewrite Your Money Story
+# Money 2.0 - Rewrite Your Money Story
 Looking through how views and reactions to money are formed and passed down. The whole section about “money scripts” is a good explanation.
 
 ---

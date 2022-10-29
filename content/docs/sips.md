@@ -2,7 +2,7 @@
 ---
 title: "sips"
 date: 2022-06-21 17:31:27
-lastmod: 2022-07-17 10:38:33
+lastmod: 2022-10-28 22:41:56
 categories: ['macos']
 draft: false
 ---
@@ -21,10 +21,35 @@ sips -g pixelHieght test.png
 sips -p YYY YYY test.png -o square.png
 ```
 
-## Square to 16x10
+## Whatever  to 16x10 
+This is my go to command when downloading new images from the Webb Telescope.
+
 ```
 sips Hubble_Deep_Field_SMACS0723.png -Z 1600x1600 -p 1600 3840 -o test.png
 ```
+
+This doesn’t always work as expected (eg. Sips-300 with Ventura. If so, the `-Z` values need to be tweaked.
+
+1. Find ratio of image (width/height)
+2. If greater than 2.4 (3840/1600) -  divide the height by the ratio.
+3. If less than 2.4 - divide the width by the ratio. Use that for -Z:
+
+```
+sips TarantulaNebula.png -Z 2766x2766 -p 1600 3840 -o TarantulaNebula_NIR.png
+```
+
+## Crop to 16x10
+
+```
+sips SomeTallImage.png -Z 3840x3840 -p 1600 3840 --cropOffset 635 -800 -o test.png
+```
+
+The offsets (x,y) in pixels require quite a bit of tweaking based on the image being resized to the longest side being 3840.
+
+### James Webb Telescope
+https://webbtelescope.org/resource-gallery/images
+
+The fact this page does not have an RSS feed maddens me.
 
 ## Common flags
 `-i` - add icon in Finder

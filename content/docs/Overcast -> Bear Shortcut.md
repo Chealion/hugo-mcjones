@@ -2,8 +2,8 @@
 ---
 title: "Overcast -> Bear Shortcut"
 date: 2022-08-10 21:55:23
-lastmod: 2022-08-10 23:08:28
-categories: ['shortcuts', 'overcast']
+lastmod: 2022-10-13 11:52:46
+categories: ['shortcuts', 'overcast', 'bearapp']
 draft: false
 ---
 
@@ -15,6 +15,6 @@ Take the info from Overcast and put into a new Bear note. I then copy some text 
 
 It can be checked out at https://mcjones.ca/downloads/Overcast%20to%20Bear.shortcut.zip
 
-<!-- #public #shortcuts #overcast -->
+<!-- #public #shortcuts #overcast #bearapp -->
 
 <!-- {BearID:577C2F56-FD9F-41CC-A36C-4F883323D703-51307-00002380DF702979} -->
