@@ -2,8 +2,8 @@
 ---
 title: "Evi Nemeth"
 date: 2022-06-14 20:30:31
-lastmod: 2022-08-10 21:41:29
-categories: ['quotes', 'evinemeth']
+lastmod: 2023-01-06 20:56:12
+categories: ['quotes', 'evi-nemeth']
 draft: false
 ---
 
@@ -24,6 +24,6 @@ It’s impossible to encapsulate all of Evi’s wisdom here, but these tenets ha
 [From Unix and Linux System Administration Handbook 5th Edition.](https://books.google.ca/books?id=f7M1DwAAQBAJ&pg=PT44&lpg=PT44)
 
 
-<!-- #public #quotes #evinemeth -->
+<!-- #public #quotes #evi-nemeth -->
 
 <!-- {BearID:89084BCA-AC39-4EDA-9DC0-9B05E22FE43D-90177-00001D19EB2700C8} -->

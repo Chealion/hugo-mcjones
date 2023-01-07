@@ -2,8 +2,8 @@
 ---
 title: "Instant Pot Pork Tenderloin Bah Ku Teh"
 date: 2021-10-31 20:24:18
-lastmod: 2022-07-17 12:12:01
-categories: ['recipe', 'instantpot']
+lastmod: 2023-01-06 20:56:31
+categories: ['recipe', 'instant-pot']
 draft: false
 ---
 
@@ -48,6 +48,6 @@ Designed to be modifiable
 10. When time is down, let naturally release pressure (~5 minutes) and then release any left over temperature
 11. Confirm tenderloin is at least 145 F (63 C). If not, close lid and wait 2 minutes.
 
-<!-- #recipe #public #instantpot -->
+<!-- #recipe #public #instant-pot -->
 
 <!-- {BearID:4413C35B-AAB7-4DA0-BFE8-845D747EECC3-1207-00015D9FD34DDD3A} -->

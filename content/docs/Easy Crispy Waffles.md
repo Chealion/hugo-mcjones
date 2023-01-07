@@ -2,7 +2,7 @@
 ---
 title: "Easy Crispy Waffles"
 date: 2018-03-30 22:39:59
-lastmod: 2022-10-03 22:18:56
+lastmod: 2022-12-26 09:30:07
 categories: ['recipe']
 draft: false
 ---
@@ -42,8 +42,6 @@ Night before:
 Morning:  
 7. Stir batter to deflate
 8. Make waffles
-
-
 
 <!-- #recipe #public -->
 

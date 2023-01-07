@@ -2,8 +2,8 @@
 ---
 title: "Instant Pot Pork Tenderloin"
 date: 2020-01-04 13:16:59
-lastmod: 2022-07-17 12:11:40
-categories: ['instantpot', 'recipe']
+lastmod: 2023-01-06 20:56:38
+categories: ['instant-pot', 'recipe']
 draft: false
 ---
 
@@ -50,6 +50,6 @@ Highly recommend 5 spice and ginger powder
 ## Roast
 If doing a pork roast - pressure cook for 15 min per pound
 
-<!-- #public #instantpot #recipe -->
+<!-- #public #instant-pot #recipe -->
 
 <!-- {BearID:A1BFF276-8CC8-46DC-81C0-DF40AEF8BE53-509-0000C6A028A9C8ED} -->
