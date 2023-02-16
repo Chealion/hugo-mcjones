@@ -2,8 +2,8 @@
 ---
 title: "Creating Bear URLs"
 date: 2022-10-13 11:51:33
-lastmod: 2023-01-06 20:24:50
-categories: ['bearapp']
+lastmod: 2023-01-29 21:32:33
+categories: ['bear-app']
 draft: false
 ---
 
@@ -22,6 +22,6 @@ https://bear.app/xurlbuilder/create/
 bear://x-callback-url/create?title=Title&tags=tag1%2Ctag2&type=html&new_window=yes&edit=yes&url=https%3A%2F%2Furl_here&text=Some%20body%20text
 ```
 
-<!-- #public #bearapp -->
+<!-- #public #bear-app -->
 
 <!-- {BearID:B19E12C0-E629-430D-B2B9-CF8D26BF0682-970-00000519AC987BF4} -->

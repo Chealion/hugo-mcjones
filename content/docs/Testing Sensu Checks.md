@@ -2,7 +2,7 @@
 ---
 title: "Testing Sensu Checks"
 date: 2020-04-01 15:02:59
-lastmod: 2022-08-10 19:23:57
+lastmod: 2023-02-08 22:48:22
 categories: ['sensu']
 draft: false
 ---
@@ -15,7 +15,13 @@ sudo -u sensu <check command>
 ```
 
 It is easier to cd into the dynamic asset cache folder first:
-`cd /var/cache/sensu/sensu-agent/???` - you’ll need 
+`cd /var/cache/sensu/sensu-agent/???` .
+
+If using the Ruby runtime:
+
+```
+[ root@sensu-proxy /var/cache/sensu/sensu-agent/ff3ba13e1a20f89eaac7613fc2c072a8a355918dbaf158b8d1565ebf02d066f3382dde872c1d80002ded762d8a3a860ccce20410b8dedb47b69fd7038e918dde/bin ] # ./ruby /var/cache/sensu/sensu-agent/75f212aab3255c5862ea84b83951097bd1ad41963714e0f5bbafd5404556b962091d5c95790b3e5f10ac9a728838887f16d84af33e4956bd2265c77d61fbda54/bin/check-dns.rb -s 199.116.232.2 -d google.ca
+```
 
 ## Testing Filters/Handlers
 ```
