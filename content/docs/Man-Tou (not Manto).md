@@ -23,6 +23,7 @@ draft: false
 4. Let rise in oiled bowl, covered in a warm place for about 1-1.5 hours until doubled in size.
 5. Punch dough down, Divide into 2. Knead each portion until air bubbles are gone and texture is smooth. (Dough should be white) 
 6. Roll out into a tube and cut into desired size (eg. 5cm diameter, 5cm tall) and let rise ~30 minutes.
+
 Steam for 12 minutes (Bun on parchment paper works best)
 In Instant Pot: Steam button for 6 minutes
 

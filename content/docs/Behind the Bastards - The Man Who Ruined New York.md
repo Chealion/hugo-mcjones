@@ -11,7 +11,7 @@ draft: false
 # Behind the Bastards - The Man Who Ruined New York
 A fantastic look at just how Robert Moses wielded his soft power as the head of parks to redline and destroy so much of the public good in New York.
 
----
+- - -
 ###### Behind the Bastards - The Man Who Ruined New York
 
 Part 1:

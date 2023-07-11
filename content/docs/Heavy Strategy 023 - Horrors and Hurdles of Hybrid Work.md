@@ -11,7 +11,7 @@ draft: false
 # Heavy Strategy 023 - Horrors and Hurdles of Hybrid Work
 A fun look at how hybrid doesn’t solve much, but the alternatives are worse.
 
----
+- - -
 ###### Heavy Strategy - HS 023 Horrors and Hurdles of Hybrid Work
 
 https://overcast.fm/+kr1aZchks  

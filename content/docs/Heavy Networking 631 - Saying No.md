@@ -11,7 +11,7 @@ draft: false
 # Heavy Networking 631 - Saying No
 Why saying no is maturity. This is a conversation sparked by the guest’s blog post [No is a complete sentence](https://networkingnerd.net/2022/03/18/no-is-a-complete-sentence/)
 
----
+- - -
 ###### The Fat Pipe Of The Packet Pushers Podcasts - Heavy Networking 631: Saying No
 
 https://overcast.fm/+KN3L1v97I  

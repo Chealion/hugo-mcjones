@@ -20,7 +20,7 @@ On Ownership & Alignment - points to Team Topologies.
 
 Manager’s responsibility is coaching.
 
----
+- - -
 ###### Tech Lead Journal - 102 - Building Inspired & Empowered Product Teams - Marty Cagan
 
 https://overcast.fm/+fKlxlKhOk  

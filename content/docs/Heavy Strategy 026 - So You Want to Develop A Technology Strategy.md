@@ -13,7 +13,7 @@ At 15:21-15:45 Johna’s excellent summation is awesome.
 
 > these are the technology principles we have all agreed to because and the reason we have agreed to them […] because they align with our business. Because we have done the work that says these are the technology principles that enable the business drivers we’ve captured.
 
----
+- - -
 ###### Heavy Strategy - HS 026 So You Want to Develop A Technology Strategy ?
 
 https://overcast.fm/+kr1Y_KWys  

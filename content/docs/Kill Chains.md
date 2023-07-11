@@ -16,15 +16,20 @@ draft: false
 The steps a cyberattack always ends up taking
 
 1. Reconnaissance
-	Email Addresses, info
+
+   Email Addresses, info
 2. Weaponization
-	Exploit creation
+
+   Exploit creation
 3. Delivery
-	Phishing, USB stick, etc.
+
+   Phishing, USB stick, etc.
 4. Exploitation
-	Exploit vulnerability
+
+   Exploit vulnerability
 5. Installation
-	Install malware
+
+   Install malware
 6. Command and Control
 7. Actions on Objectives
 

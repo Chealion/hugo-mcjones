@@ -17,15 +17,15 @@ Part 2 - around 29 minutes:
 
 > The damage that’s done is born of the misunderstanding, the flat out ignorance on the part of the general public where they’re still stuck in the smart, stupid dichotomy in terms of ranking minds. It’s such a crude and misleading metric
 
----
+- - -
 ###### Ideas - Myth of Normal
 
 Part One:
-	https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15909379-myth-normal-part-one  
-	https://overcast.fm/+cQxv97M
+https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15909379-myth-normal-part-one  
+https://overcast.fm/+cQxv97M
 Part Two:
-	https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15911449-myth-normal-part-two  
-	https://overcast.fm/+cTl67HE
+https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15911449-myth-normal-part-two  
+https://overcast.fm/+cTl67HE
 
 <!-- #public #podcast #cbc-ideas -->
 

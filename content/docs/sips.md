@@ -31,7 +31,8 @@ sips Hubble_Deep_Field_SMACS0723.png -Z 1600x1600 -p 1600 3840 -o test.png
 This doesn’t always work as expected (eg. Sips-300 with Ventura. If so, the `-Z` values need to be tweaked.
 
 1. Find ratio of image (width/height)
-	eg. 9474/4654 = 2.035
+
+   eg. 9474/4654 = 2.035
 2. If greater than 2.4 (3840/1600) -  multiply 1600 by the ratio. To use for Z (1600*2.035 = 3256)
 3. If ratio is less than 2.4 - multiply 3840 by the ratio. To use for Z (3840*2.035 = 7814)
 

@@ -2,7 +2,7 @@
 ---
 title: "tcpdump snippets"
 date: 2023-03-13 11:53:11
-lastmod: 2023-03-13 11:54:00
+lastmod: 2023-07-11 10:56:17
 categories: ['tcpdump', 'snippet']
 draft: false
 ---
@@ -13,6 +13,11 @@ draft: false
 ## Watch IPv6 RAs
 ```
 tcpdump -vvvv -ttt icmp6 and 'ip6[40] = 134'
+```
+
+## All the v6 traffic
+```
+tcpdump -i <interface> -vv ip6
 ```
 
 <!-- #public #tcpdump #snippet -->

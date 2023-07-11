@@ -11,7 +11,7 @@ draft: false
 # Money 2.0 - Rewrite Your Money Story
 Looking through how views and reactions to money are formed and passed down. The whole section about “money scripts” is a good explanation.
 
----
+- - -
 ###### Hidden Brain - Money 2.0: Rewrite Your Money Story
 
 https://overcast.fm/+1WhNU8nR8  

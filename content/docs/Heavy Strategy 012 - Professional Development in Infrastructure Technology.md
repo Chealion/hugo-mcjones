@@ -12,7 +12,7 @@ draft: false
 
 The 33 minute mark about PMs and Process was particularly good
 
----
+- - -
 ###### Heavy Strategy - Heavy Strategy 012: Professional Development in Infrastructure Technology
 
 https://overcast.fm/+kr1aU2dwg

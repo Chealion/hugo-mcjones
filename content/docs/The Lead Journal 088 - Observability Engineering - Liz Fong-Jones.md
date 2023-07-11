@@ -13,7 +13,7 @@ draft: false
 26 min mark -
 First principles of debugging?
 
----
+- - -
 ###### Tech Lead Journal - 088 - Observability Engineering - Liz Fong-Jones
 
 https://overcast.fm/+fKlw4ytDM

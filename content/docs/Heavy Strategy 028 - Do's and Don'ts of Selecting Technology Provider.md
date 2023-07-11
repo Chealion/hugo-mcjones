@@ -14,7 +14,7 @@ draft: false
 * ITIL does not deal with “living things” or rapid revolutionary change.
 * Scorecards or one sheets of pros/cons to try and avoid falling in love with a product. They are not perfect - it’s the review process that matters more.
 
----
+- - -
 ###### Heavy Strategy - HS 028 – Do’s and Don’ts of Selecting Technology Provider
 
 https://overcast.fm/+kr1ZIucEU  

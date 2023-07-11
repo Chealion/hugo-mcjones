@@ -11,7 +11,7 @@ draft: false
 # CBC Ideas - The Authoritarian Personality
 A fantastic run through what and how the authoritarian personality is back in vogue in the past decade.
 
----
+- - -
 
 https://overcast.fm/+cRwBfTs  
 https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15904668-the-authoritarian-personality

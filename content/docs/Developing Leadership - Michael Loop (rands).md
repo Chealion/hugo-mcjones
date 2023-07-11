@@ -11,7 +11,7 @@ draft: false
 # Developing Leadership - Michael Loop (rands)
 A fantastic look at the power of storytelling to help folks understand why they’re doing the work they do.
 
----
+- - -
 ###### Developing Leadership - Episode 11 - Remote Cultures & The Power of Storytelling with Michael Lopp, aka “rands”
 
 https://overcast.fm/+xOJ3QuZiY  

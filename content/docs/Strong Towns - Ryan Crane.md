@@ -13,7 +13,7 @@ Solid run down of safety and engineering.
 
 I really liked the bit about latent causes versus active causes as a different way of showing systemic vs human causes in safety
 
----
+- - -
 ###### The Strong Towns Podcast - Ryan Crane Malpractice and Accountability in Engineering - A Surgeon’s Take
 
 https://overcast.fm/+qpp1zxIxs  

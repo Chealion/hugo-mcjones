@@ -10,13 +10,13 @@ draft: false
 
 # Best Board Games Stores in Calgary
 * The Sentry Box
-	* Sunalta
+  * Sunalta
 * Games People Play
-	* North Hill Mall
+  * North Hill Mall
 * ShoeBox Games
-	* 509 McKnight Blvd NE
+  * 509 McKnight Blvd NE
 * Discovery Hut
-	* Chinook
+  * Chinook
 
 <!-- #public #calgary -->
 

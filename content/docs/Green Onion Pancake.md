@@ -39,7 +39,7 @@ High smoke point oil for the pan, such as vegetable, canola, or peanut oil
 
 Cut the pancake into wedges with a pair of kitchen scissors, and serve immediately with soy sauce or another dipping sauce.
 
----
+- - -
 
 # Edmonton Derivative
 [Green Onion Cake Man - YouTube](https://www.youtube.com/watch?v=D3FTJESc1GY)
@@ -99,7 +99,7 @@ Kosher Salt
 12. Repeat 5-11 with the remaining balls
 13. Grill pancakes ~2 minutes per side
 
-----
+- - -
 
 # Micheal Alternative
 ## Ingredients

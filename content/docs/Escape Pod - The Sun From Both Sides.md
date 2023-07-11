@@ -13,7 +13,7 @@ By R.S.A Garcia
 
 A companion novella called Philia, Eros, Storge, Agápe, Pragma was released later and gives an awesome look at the Kairi background while this one had focused on the Valcenian
 
----
+- - -
 ###### Escape Pod: The Sun From Both Sides
 
 Part 1: https://escapepod.org/2020/11/05/escape-pod-757-the-sun-from-both-sides-part-1-of-3/  

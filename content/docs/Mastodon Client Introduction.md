@@ -71,6 +71,7 @@ pip install Mastodon.py
 
 * `create_app` is used to register an application and save creds
 * The credentials file is:
+
 ```
 client_id/key
 client_secret

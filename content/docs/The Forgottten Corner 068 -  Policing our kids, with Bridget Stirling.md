@@ -11,7 +11,7 @@ draft: false
 # The Forgottten Corner 068 -  Policing our kids, with Bridget Stirling
 The school resource officer program sounds good until you look at the data and… it’s awful. Why do we insist on thinking it’s great to put untrained officers into roles they have no business being in?
 
----
+- - -
 ###### The Forgotten Corner - Episode 68: Policing our kids, with Bridget Stirling
 
 https://overcast.fm/+aZ46xsxko  

@@ -17,7 +17,7 @@ Need to understand what the alignment tool is supposed to be doing.
 14:53
 Never act like you have the answer. “Our goals are to achieve this. We’re going to try this way of doing it because we need to optimize x, y, and z to achieve these goals and this will get us there. And if it doesn’t work, we throw it out”
 
----
+- - -
 ###### Developing Leadership - Episode 15 | Things That Drive Us Crazy in Software Engineering Leadership
 
 https://overcast.fm/+xOJ1gRD-4  
