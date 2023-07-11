@@ -2,7 +2,7 @@
 ---
 title: "Sourdough"
 date: 2016-12-12 23:48:53
-lastmod: 2022-08-10 21:39:39
+lastmod: 2023-03-21 22:59:07
 categories: ['recipe', 'bread']
 draft: false
 ---
@@ -11,12 +11,18 @@ draft: false
 # Sourdough
 The Sourdough recipe I’ve used since ~2016.
 
-Near exact except from Kitchn: http://www.thekitchn.com/how-to-make-sourdough-bread-224367
+Slightly modified from Kitchn: http://www.thekitchn.com/how-to-make-sourdough-bread-224367
 
-For the leaven:
-1 tablespoon active sourdough starter
-75 grams (1/2 cup) all-purpose flour or bread flour
-75 grams (1/3 cup) water
+2 x 430g loafs
+69.1% hydration
+~ hours
+Overnight or ~9 hours
+
+## Levain
+75g flour
+75g water
+100g starter (1 Tbsp is orig - 15g or 10%?)
+8-12 hours
 
 For the dough:
 1 tablespoon salt

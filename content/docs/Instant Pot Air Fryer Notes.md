@@ -2,8 +2,8 @@
 ---
 title: "Instant Pot Air Fryer Notes"
 date: 2021-09-11 21:03:37
-lastmod: 2022-07-17 12:11:09
-categories: ['recipe', 'instantpot']
+lastmod: 2023-04-05 17:56:25
+categories: ['recipe', 'instant-pot']
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Single layer 400 F - 8-12 min
 Defrosted first.
 
 ## Bacon
-400 F - 15 min. Stir with tongs every 3-5 min
+400 F - 15-20 min. Stir with tongs every 3-5 min
 
 ## Croquettes
 Frozen: 400F - 15 min. Flip halfway  
@@ -39,6 +39,6 @@ Cook to defrost and then move to top to crisp:
 * 20-25 minutes in basket at 400F
 * Stir at the 10, 15, and 20 min marks
 
-<!-- #public #recipe #instantpot -->
+<!-- #public #recipe #instant-pot -->
 
 <!-- {BearID:4548592C-B9B9-455D-81C6-2D9396D0FAB1-62551-000040E5DB1D7633} -->

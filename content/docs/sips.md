@@ -2,7 +2,7 @@
 ---
 title: "sips"
 date: 2022-06-21 17:31:27
-lastmod: 2022-10-28 22:41:56
+lastmod: 2023-04-09 23:54:01
 categories: ['macos']
 draft: false
 ---
@@ -16,7 +16,7 @@ Take a non-square image and “square it” - often for avatars and such.
 
 ```
 sips -g pixelWidth test.png
-sips -g pixelHieght test.png
+sips -g pixelHeight test.png
 # Set YYY to the max of the values above
 sips -p YYY YYY test.png -o square.png
 ```
@@ -31,11 +31,12 @@ sips Hubble_Deep_Field_SMACS0723.png -Z 1600x1600 -p 1600 3840 -o test.png
 This doesn’t always work as expected (eg. Sips-300 with Ventura. If so, the `-Z` values need to be tweaked.
 
 1. Find ratio of image (width/height)
-2. If greater than 2.4 (3840/1600) -  divide the height by the ratio.
-3. If less than 2.4 - divide the width by the ratio. Use that for -Z:
+	eg. 9474/4654 = 2.035
+2. If greater than 2.4 (3840/1600) -  multiply 1600 by the ratio. To use for Z (1600*2.035 = 3256)
+3. If ratio is less than 2.4 - multiply 3840 by the ratio. To use for Z (3840*2.035 = 7814)
 
 ```
-sips TarantulaNebula.png -Z 2766x2766 -p 1600 3840 -o TarantulaNebula_NIR.png
+sips MyImage.png -Z 7814x7814 -p 1600 3840 -o MyImage_CONVERT.png
 ```
 
 ## Crop to 16x10
