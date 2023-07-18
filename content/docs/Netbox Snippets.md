@@ -2,7 +2,11 @@
 ---
 title: "Netbox Snippets"
 date: 2023-07-14 13:50:37
+<<<<<<< HEAD
 lastmod: 2023-07-17 12:49:02
+=======
+lastmod: 2023-07-18 00:20:43
+>>>>>>> f8fddcc (Content Update Tue 18 Jul 2023 00:19:54 MDT)
 categories: ['snippet', 'netbox']
 draft: false
 ---
@@ -41,9 +45,9 @@ query {
 curl -g \
 -X POST \
 -H "Content-Type: application/json" \
--H "Authorization: Token 271fcec91fbcf3cc2654e72ed2a0af9db9e7eda8" \
+-H "Authorization: Token TOKEN" \
 -d '{"query":"query { ip_address_list (vrf_id: "3") { address dns_name description } }"}' \
-https://netbox.cybera.ca/graphql
+https://netbox.example/graphql
 ```
 
 ## Munging Netbox Data to CSV
