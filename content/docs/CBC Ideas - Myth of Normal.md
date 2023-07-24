@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas - Myth of Normal"
 date: 2022-08-12 12:19:07
-lastmod: 2023-01-06 20:26:54
-categories: ['podcast', 'cbc-ideas']
+lastmod: 2023-07-23 22:01:55
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -27,6 +27,6 @@ Part Two:
 https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15911449-myth-normal-part-two  
 https://overcast.fm/+cTl67HE
 
-<!-- #public #podcast #cbc-ideas -->
+<!-- #public #podcast #CBC Ideas# -->
 
 <!-- {BearID:94066AA5-38B8-40FA-B7CB-933A37B8E433-32977-000006C1D4EEC973} -->

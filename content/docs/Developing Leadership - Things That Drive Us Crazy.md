@@ -2,8 +2,8 @@
 ---
 title: "Developing Leadership - Things That Drive Us Crazy"
 date: 2022-07-30 15:17:23
-lastmod: 2022-08-10 22:35:21
-categories: ['podcast']
+lastmod: 2023-07-23 21:59:34
+categories: ['podcast', 'developing leadership']
 draft: false
 ---
 
@@ -25,6 +25,6 @@ https://podcast.developingleadership.co/e/episode-15-things-that-drive-us-crazy-
 
 
 
-<!-- #public #podcast -->
+<!-- #public #podcast #developing leadership# -->
 
 <!-- {BearID:78186886-6913-4814-8A85-B933503F8014-77991-00000D0B65DD4A18} -->

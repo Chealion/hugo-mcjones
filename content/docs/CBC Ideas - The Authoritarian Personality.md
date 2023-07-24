@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas - The Authoritarian Personality"
 date: 2022-07-19 07:50:35
-lastmod: 2023-01-06 20:26:47
-categories: ['podcast', 'cbc-ideas']
+lastmod: 2023-07-23 22:01:46
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -16,6 +16,6 @@ A fantastic run through what and how the authoritarian personality is back in vo
 https://overcast.fm/+cRwBfTs  
 https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15904668-the-authoritarian-personality
 
-<!-- #public #podcast #cbc-ideas -->
+<!-- #public #podcast #CBC Ideas# -->
 
 <!-- {BearID:93C15AE4-22A4-485B-9FB0-CB375BE67989-54386-000012B26C67C02A} -->

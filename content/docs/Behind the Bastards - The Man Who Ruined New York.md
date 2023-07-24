@@ -2,8 +2,8 @@
 ---
 title: "Behind the Bastards - The Man Who Ruined New York"
 date: 2022-10-30 16:44:50
-lastmod: 2023-01-06 20:30:45
-categories: ['podcast', 'behind-the-bastards']
+lastmod: 2023-07-23 22:02:18
+categories: ['podcast', 'Behind The Bastards']
 draft: false
 ---
 
@@ -22,6 +22,6 @@ Part 2:
 https://overcast.fm/+4cUN2CbH0  
 https://www.iheart.com/podcast/105-behind-the-bastards-29236323/episode/part-two-the-man-who-ruined-99138608/
 
-<!-- #public #podcast #behind-the-bastards -->
+<!-- #public #podcast #Behind The Bastards# -->
 
 <!-- {BearID:3CA8C9FD-D199-4B5E-9F35-2B78830ED38C-4436-000002DDBD26FDE4} -->

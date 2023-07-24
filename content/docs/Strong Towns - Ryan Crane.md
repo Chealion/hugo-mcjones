@@ -2,8 +2,8 @@
 ---
 title: "Strong Towns - Ryan Crane"
 date: 2022-08-04 12:55:54
-lastmod: 2022-10-03 22:41:35
-categories: ['podcast']
+lastmod: 2023-07-23 21:59:52
+categories: ['podcast', 'strong towns']
 draft: false
 ---
 
@@ -19,6 +19,6 @@ I really liked the bit about latent causes versus active causes as a different w
 https://overcast.fm/+qpp1zxIxs  
 https://podcast.strongtowns.org/e/ryan-crane-malpractice-and-accountability-in-engineering-a-surgeon-s-take/
 
-<!-- #public #podcast -->
+<!-- #public #podcast #strong towns# -->
 
 <!-- {BearID:EE420233-D878-4060-AE02-FD283C5D2282-16385-0000130750278366} -->

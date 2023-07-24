@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas -  The Future of Democracy"
 date: 2022-10-28 15:41:47
-lastmod: 2023-01-06 20:29:16
-categories: ['podcast', 'cbc-ideas']
+lastmod: 2023-07-23 22:02:08
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -17,6 +17,6 @@ Touches very nicely that we didn’t get into this with a single cause and we ar
 https://overcast.fm/+cQhSp44  
 https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/15938847-the-new-world-disorder-or-the-future-democracy
 
-<!-- #public #podcast #cbc-ideas -->
+<!-- #public #podcast #CBC Ideas# -->
 
 <!-- {BearID:64EFA076-C027-4E08-B243-8A3D809546AC-1324-000000BAD1813BDF} -->
