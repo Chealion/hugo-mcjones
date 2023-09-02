@@ -2,7 +2,7 @@
 ---
 title: "Git Snippets"
 date: 2023-07-10 21:42:05
-lastmod: 2023-07-10 21:43:58
+lastmod: 2023-08-28 15:47:13
 categories: ['snippet', 'git']
 draft: false
 ---
@@ -16,10 +16,27 @@ git clean -df
 
 `-n` is a dry run
 
+## Add files already deleted
+```
+git add -u .
+```
+
+## Add files already deleted AND new files
+```
+git add -A
+```
+
 ## Switching default upstream repo
 ```
 git pull <upstream>
 git pull --set-upstream origin main
+```
+
+## Updating a fork
+```
+git remote add upstream <upstream_url>
+git fetch upstream
+git merge <tag or branch name>
 ```
 
 <!-- #public #snippet #git -->
