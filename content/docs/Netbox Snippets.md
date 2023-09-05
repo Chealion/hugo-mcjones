@@ -2,11 +2,7 @@
 ---
 title: "Netbox Snippets"
 date: 2023-07-14 13:50:37
-<<<<<<< HEAD
-lastmod: 2023-07-17 12:49:02
-=======
 lastmod: 2023-07-18 00:20:43
->>>>>>> f8fddcc (Content Update Tue 18 Jul 2023 00:19:54 MDT)
 categories: ['snippet', 'netbox']
 draft: false
 ---

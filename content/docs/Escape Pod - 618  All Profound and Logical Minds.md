@@ -1,0 +1,23 @@
+
+---
+title: "Escape Pod - 618  All Profound and Logical Minds"
+date: 2023-01-07 22:54:31
+lastmod: 2023-09-04 19:46:21
+categories: ['podcast', 'Escape Pod']
+draft: false
+---
+
+
+# Escape Pod - 618  All Profound and Logical Minds
+
+No Notes recorded
+
+- - -
+###### Escape Pod - Escape Pod 618: All Profound and Logical Minds (Artemis Rising)
+
+https://overcast.fm/+GJrpjAQJk  
+http://escapepod.org/2018/03/08/escape-pod-618-profound-logical-minds-artemis-rising/
+
+<!-- #public #podcast #Escape Pod# -->
+
+<!-- {BearID:371D9C5C-C0E6-4954-BC0D-9A80AB71ED68-28016-00002D97D36F65C1} -->
