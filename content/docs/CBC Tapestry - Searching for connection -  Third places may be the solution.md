@@ -1,14 +1,14 @@
 
 ---
-title: "CBC Tapestry - Searching for connection-  Third places may be the solution"
+title: "CBC Tapestry - Searching for connection -  Third places may be the solution"
 date: 2023-05-01 17:44:22
-lastmod: 2023-09-04 19:31:53
+lastmod: 2023-09-13 09:38:32
 categories: ['podcast', 'CBC Tapestry']
 draft: false
 ---
 
 
-# CBC Tapestry - Searching for connection-  Third places may be the solution
+# CBC Tapestry - Searching for connection -  Third places may be the solution
 27:40 - Summarizes the gotcha of how our North American individualistic drive with motor vehicles has created such of a debt in social fabric. This has helped cultivate and nurturing the loneliness issues we have now and the extremism that feeds off of it.
 
 37:25 - Small but powerful and tangible way to revert the angsty energy young people have. We can make a difference locally. Those are the little steps we need to make better spaces.

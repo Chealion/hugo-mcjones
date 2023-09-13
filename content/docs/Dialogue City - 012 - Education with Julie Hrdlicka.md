@@ -2,8 +2,8 @@
 ---
 title: "Dialogue City - 012 - Education with Julie Hrdlicka"
 date: 2023-01-07 22:54:40
-lastmod: 2023-07-24 00:00:32
-categories: ['012', 'podcast', 'dialogue-city']
+lastmod: 2023-09-13 09:37:51
+categories: ['podcast', 'dialogue-city']
 draft: false
 ---
 
@@ -12,7 +12,7 @@ draft: false
 
 No notes recorded
 - - -
-###### Dialogue City - Episode #012: Education with Julie Hrdlicka
+###### Dialogue City - Episode 012: Education with Julie Hrdlicka
 
 https://overcast.fm/+LEXIgyDd4  
 https://soundcloud.com/user-626701659/episode-012-education-with-julie-hrdlicka
