@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes"
 date: 2016-12-12 23:52:19
-lastmod: 2022-08-10 21:40:20
+lastmod: 2023-11-04 19:01:05
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -24,8 +24,10 @@ Kone - 18
 Chemex - 20  
 Work Chemex - 24
 
-## Japanese Style Iced Coffee Rules of Thumb
-To accommodate the melting ice, use a hot water to coffee ratio
+## Japanese Style Iced Coffee
+
+### Rule of Thumb
+To accommodate the melting ice, use a hot water to coffee ratio:  
 Chemex (ice in Chemex) 12:1  
 Aeropress 10:1  
 V60 13:1  
@@ -33,7 +35,7 @@ Kone 11:1
 
 Grind finer than you would normally for hot.
 
-### 8 oz
+### Eight Ounce Coffee
 53g coffee  
 (Roughly 1/3rd ice, 2/3 ice on the 15:1)  
 235 grams ice  
@@ -226,8 +228,25 @@ When done with weight, stir one way and then the other to get grounds off side
 Allow to drain and then give the brewer one last swirl
 
 ## Hario Switch
-The advantage is you can use immersion AND pour through as you want.
+The advantage is you can use immersion AND pour through as you want and has become my daily driver at home - especially using a mix of immersion and pour over / pulse
 
+### My Go To
+This process mimics the 4:6 method by splitting the pours into roughly 4 “pulses”/stages.
+
+30g coffee
+450g water
+
+Fill with 100g water and let bloom for 30 seconds.
+Fill to 150g water and let sit for an another 30 seconds.
+Open and let pour down.
+Close and add 100g more water (250g total)
+Open and let pour down.
+Close and add 100g more water (350g total)
+Open and let pour down.
+Close and add 100g more water (450g total)
+Open and let pour down.
+
+### Generic 
 16g coffee  
 50g water, bloom for 30 seconds  
 210g water (240 total)  
@@ -235,7 +254,7 @@ Let immerse 2 min. Hit switch at 2:30 and drain
 
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
-## 8oz
+### Eight Ounce Coffee
 20g coffee  
 60g water, let steep 1 minute  
 Drain  
@@ -269,9 +288,7 @@ Swirl vessel after full drawn down.
 50 g water, bloom for 30 seconds  
 210g water (240 total)  
 Let brew for 90 seconds, hit switch  
-Pour slowly the next 260g as normal for a v60.
-
-
+Pour slowly the next 260g as normal for a v60
 ## Random Coffee Notes
 Beans are 28% by weight water soluble. 
 

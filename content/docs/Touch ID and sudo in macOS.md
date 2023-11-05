@@ -2,8 +2,8 @@
 ---
 title: "Touch ID and sudo in macOS"
 date: 2023-08-21 17:38:28
-lastmod: 2023-09-11 16:28:27
-categories: ['Below', 'macos', 'snippet', 'sudo', 'touchid']
+lastmod: 2023-09-26 12:14:22
+categories: ['macos', 'snippet', 'sudo', 'touchid']
 draft: false
 ---
 
@@ -22,8 +22,6 @@ auth       sufficient     pam_tid.so\
 ## Post Sonoma
 ```
 sudo cp /etc/pam.d/sudo_local.template /etc/pam.d/sudo_local
-
-<!-- #Below needs to be tested -->
 sudo sed -i '' 's/#auth/auth/g' /etc/pam.d/sudo_local
 ```
 

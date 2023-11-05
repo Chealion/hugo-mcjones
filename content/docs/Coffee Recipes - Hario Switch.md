@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes - Hario Switch"
 date: 2023-01-08 00:21:16
-lastmod: 2023-01-08 11:20:41
+lastmod: 2023-11-04 18:51:52
 categories: ['coffee', 'hario-switch']
 draft: false
 ---
@@ -47,8 +47,6 @@ https://youtu.be/4wMyaw0FoZs
 
 ## Hoffmann
 https://youtu.be/QjIvN8mlK9Y
-
-
 
 <!-- #coffee #public #hario-switch -->
 

@@ -2,7 +2,7 @@
 ---
 title: "Random X to openstack CLI translations"
 date: 2018-02-07 11:46:34
-lastmod: 2023-07-19 14:39:49
+lastmod: 2023-09-14 12:27:32
 categories: ['snippet', 'openstack']
 draft: false
 ---
@@ -25,6 +25,17 @@ keystone token-get
 openstack token issue
 ```
 
+## Neutron
+```
+neutron l3-agent-list-hosting-router
+openstack network agent list --long --router 
+
+neutron dhcp-agent-list-hosting-net
+openstack network agent list --long --network
+
+neutron router-list-on-l3-agent
+oepnstack router list --long --agents
+```
 ## Nova
 
 ```

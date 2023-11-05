@@ -2,7 +2,7 @@
 ---
 title: "Testing Sensu Checks"
 date: 2020-04-01 15:02:59
-lastmod: 2023-02-08 22:48:22
+lastmod: 2023-10-03 14:46:51
 categories: ['sensu']
 draft: false
 ---
@@ -65,6 +65,16 @@ http://127.0.0.1:3031/events
 Jun 30 19:42:39 dair-hnl-sensu-01 sensu-backend[15708]: {"component":"pipelined","error":"ReferenceError: 'honolulu' is not defined","level":"error","msg":"error executing JS","time":"2020-06-30T19:42:39-06:00"}
 ```
 
+
+## Manually Triggering/Testing a Handler
+
+```
+cd /var/cache/sensu/sensu-backend
+find . -name 'sensu-email-handler'
+cd <HASH FROM ABOVE>/bin
+
+sensuctl event info ENTITY CHECK --format json | ./sensu-email-handler -f sensu@dair-atir.canarie.ca -t dair-sysadmins@cybera.ca -s smtp.cybera.ca  -i
+```
 ## Other Resources
 https://docs.sensu.io/sensu-go/latest/operations/maintain-sensu/troubleshoot/#manually-execute-a-handler
 
