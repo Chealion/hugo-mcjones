@@ -18,8 +18,8 @@
   <ul class="list-unstyled pb-1">
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages.ByLastmod.Reverse }}
-        <li class="">
-          <a class="text-decoration-none rounded px-2" href="{{.Permalink}}">{{.Title}}</a>
+        <li class="px-2">
+          <a class="text-decoration-none" href="{{.Permalink}}">{{.Title}}</a>
         </li>
     {{ end }}
     </ul>
