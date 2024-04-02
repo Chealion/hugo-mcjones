@@ -2,7 +2,7 @@
 ---
 title: "Best Board Games Stores in Calgary"
 date: 2020-11-27 13:57:14
-lastmod: 2022-07-17 11:09:55
+lastmod: 2023-12-03 11:24:18
 categories: ['calgary']
 draft: false
 ---
@@ -17,6 +17,8 @@ draft: false
   * 509 McKnight Blvd NE
 * Discovery Hut
   * Chinook
+
+If you have to go online - thank you folks on Reddit: https://www.reddit.com/r/bgdealscanada/comments/jlib40/canadian_boardgame_stores/
 
 <!-- #public #calgary -->
 

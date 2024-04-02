@@ -2,7 +2,7 @@
 ---
 title: "Random X to openstack CLI translations"
 date: 2018-02-07 11:46:34
-lastmod: 2023-09-14 12:27:32
+lastmod: 2023-11-29 17:01:20
 categories: ['snippet', 'openstack']
 draft: false
 ---
@@ -35,6 +35,9 @@ openstack network agent list --long --network
 
 neutron router-list-on-l3-agent
 oepnstack router list --long --agents
+
+neutron agent-list
+openstack network agent list
 ```
 ## Nova
 
@@ -61,6 +64,11 @@ openstack server event list
 ```
 nova reset-state
 openstack server set --state
+```
+
+```
+nova service-list
+openstack compute service list
 ```
 ## Swift
 

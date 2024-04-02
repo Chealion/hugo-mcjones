@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes"
 date: 2016-12-12 23:52:19
-lastmod: 2023-11-04 19:01:05
+lastmod: 2023-11-19 11:58:14
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -91,6 +91,7 @@ Cap and press air out
 Flip at 1:00  
 Press for 30 seconds  
 Fill mug with 100g
+https://aeroprecipe.com/recipes/the-stubby
 
 ### Jeremy Moore (US Champ 2014)
 Standard  

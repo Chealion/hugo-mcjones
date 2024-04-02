@@ -2,7 +2,7 @@
 ---
 title: "Firefox / Chrome Setting Management"
 date: 2023-10-13 11:48:38
-lastmod: 2023-10-15 23:31:04
+lastmod: 2024-01-17 11:36:09
 categories: ['firefox', 'chrome', 'macos', 'mdm', 'profile']
 draft: false
 ---
@@ -80,6 +80,7 @@ Profile:
 https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin:-configuration#trustedsitedirectives-1
 
 THANK YOU MAC ADMINS Slack. Now if only it wasn’t a walled garden for this.
+
 https://macadmins.slack.com/archives/C5ACP4TUZ/p1677592077914009  
 https://community.jamf.com/t5/jamf-pro/ublock-origin-trusted/m-p/295762#M262076
 
