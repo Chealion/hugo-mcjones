@@ -2,7 +2,7 @@
 ---
 title: "IPv6 Buzz - 010 - Understanding And Troubleshooting IPv6 With Wireshark"
 date: 2023-01-07 22:54:48
-lastmod: 2023-11-04 22:39:48
+lastmod: 2024-04-02 00:02:08
 categories: ['podcast', 'IPv6 Buzz']
 draft: false
 ---
@@ -15,7 +15,7 @@ No notes recorded
 - - -
 ###### IPv6 Buzz - Packet Pushers - IPv6 Buzz 010: Understanding And Troubleshooting IPv6 With Wireshark
 
-https://overcast.fm/+OPh71H2c4
+https://overcast.fm/+OPh71H2c4  
 https://packetpushers.net/podcast/ipv6-buzz-010-understanding-and-troubleshooting-ipv6-with-wireshark/
 
 <!-- #public #podcast #IPv6 Buzz# -->

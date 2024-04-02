@@ -2,7 +2,7 @@
 ---
 title: "Heavy Strategy - 020 - Are Operational and Technical Debt Complementary?"
 date: 2023-01-07 22:55:02
-lastmod: 2023-11-04 22:31:16
+lastmod: 2024-04-02 00:01:46
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---
@@ -16,7 +16,7 @@ No notes recorded
 - - -
 ###### Heavy Strategy - HS020 Are Operational and Technical Debt Complementary
 
-https://overcast.fm/+kr1aLjZcI
+https://overcast.fm/+kr1aLjZcI  
 https://feeds.packetpushers.net/link/22503/15222353/hs020-are-operational-and-technical-debt-complementary
 
 <!-- #public #podcast #heavy strategy# -->

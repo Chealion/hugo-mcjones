@@ -2,7 +2,7 @@
 ---
 title: "MacDevOpsYVR - Remote distributed workflows for video editing with Seth Goldin"
 date: 2023-01-18 09:52:59
-lastmod: 2023-11-04 23:00:21
+lastmod: 2024-04-01 23:49:28
 categories: ['podcast', 'MacDevOpsYVR']
 draft: false
 ---
@@ -16,7 +16,7 @@ Otherwise an enjoyable look at workflows thinking about remote.
 - - -
 ###### MacDevOpsYVR podcast - Remote distributed workflows for video editing with Seth Goldin
 
-https://overcast.fm/+Yg7LBMfRM
+https://overcast.fm/+Yg7LBMfRM  
 https://mdopod.com/remote-distributed-workflows-for-video-editing-with-seth-goldin/
 
 <!-- #public #podcast #MacDevOpsYVR -->

@@ -1,14 +1,14 @@
 
 ---
-title: "O11ycast - Ep. #59, Learning From Incidents with Laura Maguire of Jeli"
+title: "O11ycast - Ep. 59, Learning From Incidents with Laura Maguire of Jeli"
 date: 2023-09-24 11:19:57
-lastmod: 2023-09-24 20:42:55
-categories: ['59', '59', 'draft', 'podcast', 'O11ycast', 'O11ycast']
+lastmod: 2024-04-02 00:00:03
+categories: ['podcast', 'O11ycast', 'O11ycast']
 draft: false
 ---
 
 
-# O11ycast - Ep. #59, Learning From Incidents with Laura Maguire of Jeli
+# O11ycast - Ep. 59, Learning From Incidents with Laura Maguire of Jeli
 Line of representation (1:45) - STELLA report to look at the below the line (software) and above the line (human)
 
 Learning from Incidents (7:50) - learning from safety practitioners and other industries (health care, aviation, etc.) on how to support work.
@@ -33,15 +33,13 @@ The importance of sharing and looking at how to improve responses
 
 Dashboards and wiki pages can jokingly be referred to as gravestones - they exist or get updated only after issues or incidents occur.
 
-
-
 ---
-###### O11ycast - Ep. #59, Learning From Incidents with Laura Maguire of Jeli
+###### O11ycast - Ep. 59, Learning From Incidents with Laura Maguire of Jeli
 
-https://overcast.fm/+0GHxsvyBQ
+https://overcast.fm/+0GHxsvyBQ  
+https://dev.to/o11ycast/ep-59-learning-from-incidents-with-laura-maguire-of-jeli
 
 <!-- #public -->
-<!-- #draft -->
 <!-- #podcast -->
 <!-- #O11ycast# -->
 

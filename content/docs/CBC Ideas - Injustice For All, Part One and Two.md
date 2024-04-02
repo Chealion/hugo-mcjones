@@ -2,7 +2,7 @@
 ---
 title: "CBC Ideas - Injustice For All, Part One and Two"
 date: 2023-10-08 13:29:36
-lastmod: 2023-11-04 22:28:37
+lastmod: 2024-04-02 00:01:32
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
@@ -29,9 +29,10 @@ Having access to courts does not mean access to justice.
 
 15:50 - Severe punitive policies does not actually sufficiently deter crime.
 
-35 minute mark - a succinct summary that the lack of investment in legal aid is intentional. It’s not about fiscal conservatism but from a critical race srandpoint this exists maintain certain types of inequality.
+35 minute mark - a succinct summary that the lack of investment in legal aid is intentional. It’s not about fiscal conservatism but from a critical race standpoint this exists maintain certain types of inequality.
 
 It’s more than $100,000 per prisoner to incarcerate them in Canada.
+
 ---
 ###### CBC Ideas - Injustice For All Part One
 https://www.cbc.ca/player/play/2195592771631  
