@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 97 - Personal Kanban and Collaboration Equation - Jim Benson"
 date: 2023-01-07 22:55:01
-lastmod: 2024-04-17 22:03:36
-categories: ['97', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-04-21 22:12:50
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 No notes recorded
 
 - - -
-###### Tech Lead Journal - #97 - Personal Kanban & Collaboration Equation - Jim Benson
+###### Tech Lead Journal - 97 - Personal Kanban & Collaboration Equation - Jim Benson
 
 https://overcast.fm/+fKlwxqfOQ  
 https://techleadjournal.dev/episodes/97/

@@ -2,7 +2,7 @@
 ---
 title: "Random X to openstack CLI translations"
 date: 2018-02-07 11:46:34
-lastmod: 2023-11-29 17:01:20
+lastmod: 2024-04-17 23:13:13
 categories: ['snippet', 'openstack']
 draft: false
 ---
@@ -90,6 +90,11 @@ openstack object create
 ```
 swift download
 openstack object save
+```
+
+```
+swift stat
+openstack object store account show
 ```
 
 NOTE: tempurl is not in the openstackcli.

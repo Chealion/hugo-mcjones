@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 142 - The Power of Leadership Principles and Positive Leadership - Michael Foss"
 date: 2024-01-31 08:47:09
-lastmod: 2024-04-17 22:00:51
-categories: ['142', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-04-21 22:12:56
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -25,7 +25,7 @@ One successful approach is starting with good and then work backwards to get it
 
 
 ---
-###### Tech Lead Journal - #142 - The Power of Leadership Principles and Positive Leadership - Michael Foss
+###### Tech Lead Journal - 142 - The Power of Leadership Principles and Positive Leadership - Michael Foss
 
 https://overcast.fm/+fKlxzZK8g  
 https://techleadjournal.dev/episodes/142/

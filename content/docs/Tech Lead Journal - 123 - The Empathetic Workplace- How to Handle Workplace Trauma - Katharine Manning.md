@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 123 - The Empathetic Workplace: How to Handle Workplace Trauma - Katharine Manning"
 date: 2023-07-12 17:15:47
-lastmod: 2023-07-23 23:32:42
-categories: ['123', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-04-21 22:13:01
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 The LASER method is good to have learnt
 
 ---
-###### Tech Lead Journal - #123 - The Empathetic Workplace: How to Handle Workplace Trauma - Katharine Manning
+###### Tech Lead Journal - 123 - The Empathetic Workplace: How to Handle Workplace Trauma - Katharine Manning
 
 https://overcast.fm/+fKlzRtCI4  
 https://techleadjournal.dev/episodes/123/

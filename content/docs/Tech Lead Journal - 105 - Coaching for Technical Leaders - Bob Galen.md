@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 105 - Coaching for Technical Leaders - Bob Galen"
 date: 2023-01-20 15:14:20
-lastmod: 2024-04-17 22:02:48
-categories: ['105', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-04-21 22:12:27
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -41,7 +41,7 @@ Nothing mentioned seems to say if they’re different or if it is a different te
 Create your own percent rule - you should help your team more than direct/provide a solution. Something I am bad at.
 
 - - -
-###### Tech Lead Journal - #105 - Coaching for Technical Leaders - Bob Galen
+###### Tech Lead Journal - 105 - Coaching for Technical Leaders - Bob Galen
 
 https://overcast.fm/+fKlw8V8-Q  
 https://techleadjournal.dev/episodes/105/

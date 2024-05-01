@@ -1,14 +1,14 @@
 
 ---
-title: "Day Two Cloud 203 - Becoming An SRE - It is More Than Just Software Skills"
+title: "Day Two Cloud - 203 - Becoming An SRE - It is More Than Just Software Skills"
 date: 2024-01-22 08:50:54
-lastmod: 2024-04-11 22:36:45
-categories: ['podcast', 'Day Two Cloud']
+lastmod: 2024-04-21 22:09:14
+categories: ['podcast', 'Day Two Cloud', 'packet pushers']
 draft: false
 ---
 
 
-# Day Two Cloud 203 - Becoming An SRE - It is More Than Just Software Skills
+# Day Two Cloud - 203 - Becoming An SRE - It is More Than Just Software Skills
 
 * SRE is using software engineering skills with operations.
 * SRE is also a propagandist role - part of your job is to effect culture change on a team to use SRE like approaches.
@@ -24,5 +24,6 @@ https://packetpushers.net/podcasts/day-two-cloud/d2c203-becoming-an-sre-its-more
 <!-- #public -->
 <!-- #podcast -->
 <!-- #Day Two Cloud# -->
+<!-- #packet pushers# -->
 
 <!-- {BearID:294BFDF3-7CFE-41BE-9105-53F81B638DD1} -->

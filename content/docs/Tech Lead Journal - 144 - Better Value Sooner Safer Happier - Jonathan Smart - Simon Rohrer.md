@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 144 - Better Value Sooner Safer Happier - Jonathan Smart & Simon Rohrer"
 date: 2024-02-17 19:21:47
-lastmod: 2024-04-17 22:23:45
-categories: ['144', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-04-21 22:12:40
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -28,7 +28,7 @@ Psychological Safety
 Emergent Mindset - acknowledging the future is not knowable and to have hypothesis and test. 
 
 ---
-###### Tech Lead Journal - #144 - Better Value Sooner Safer Happier - Jonathan Smart & Simon Rohrer
+###### Tech Lead Journal - 144 - Better Value Sooner Safer Happier - Jonathan Smart & Simon Rohrer
 
 https://overcast.fm/+fKlzoCOoM  
 https://techleadjournal.dev/episodes/144/
