@@ -15,3 +15,10 @@ rsync -avzh public/ mcjones.ca:mcjones
 ## Images
 
 https://icons.getbootstrap.com/
+
+## Themes
+
+Custom theme using [bootstrap](https://getbootstrap.com/)
+
+* Bootstrap added in `layouts/partials/head.html`
+* Custom css in `assets/css/index.css`
