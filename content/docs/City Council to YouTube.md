@@ -2,7 +2,7 @@
 ---
 title: "City Council to YouTube"
 date: 2024-04-17 13:16:02
-lastmod: 2024-04-30 19:03:42
+lastmod: 2024-05-02 22:21:15
 categories: ['yyccc', 'ffmpeg', 'snippet', 'calgary']
 draft: false
 ---
@@ -44,6 +44,12 @@ ffmpeg -re -i https://lin12.isilive.ca/live/calgarycc/live/chunklist.m3u8 -c:v c
 
 ```
 ffmpeg -re -i test30seconds.mp4 -c:v copy -c:a copy -strict -2 -flags +global_header -bufsize 3000k -f flv "rtmp://a.rtmp.youtube.com/live2/STREAM_KEY"
+```
+
+## Downloading a previous day’s stream
+Don’t use ffmpeg since we aren’t needing to copy/transcode. `youtube-dl` is great.
+```
+youtube-dl -f 0 --hls-prefer-native https://vod.isilive.ca/nospace/hls/calgary/Council-_-Primary_Public-_-Hearing-_-Meeting-_-of-_-Council_2024-05-02-11-21.mp4/index.m3u8
 ```
 
 ## Notes from trying this
