@@ -3,8 +3,12 @@
 # bear_export_sync.py
 # Developed with Visual Studio Code with MS Python Extension.
 
+import objc
+from AppKit import NSWorkspace, NSWorkspaceOpenConfiguration, NSURL
+
 '''
 # Markdown export from Bear sqlite database
+# This is modified to export Hugo notes as forks from https://raw.githubusercontent.com/andymatuschak/Bear-Markdown-Export/39e8c133066a79f5ca8210845cffd7cbbccee7c8/bear_export_sync.py (July 2023)
 Version 1.4, 2020-01-11
 modified by: github/andymatuschak, andy_matuschak@twitter
 original author: github/rovest, rorves@twitter
@@ -34,7 +38,7 @@ Then exporting Markdown from Bear sqlite db.
 * Export can now be restricted to a list of spesific tags: `limit_export_to_tags = ['bear/github', 'writings']`
 or leave list empty for all notes: `limit_export_to_tags = []`
 * Can export and link to images in common image repository
-* Or export as textbundles with images included
+* Or export as textbundles with images included 
 '''
 
 make_tag_folders = True  # Exports to folders using first tag only, if `multi_tag_folders = False`
@@ -45,14 +49,15 @@ hide_tags_in_comment_block = True  # Hide tags in HTML comments: `<!-- #mytag --
 # The following two lists are more or less mutually exclusive, so use only one of them.
 # (You can use both if you have some nested tags where that makes sense)
 # Also, they only work if `make_tag_folders = True`.
-#only_export_these_tags = []  # Leave this list empty for all notes! See below for sample
+# only_export_these_tags = []  # Leave this list empty for all notes! See below for sample
+# only_export_these_tags = ['bear/github', 'writings'] 
 only_export_these_tags = ['public']
 
 export_as_textbundles = False  # Exports as Textbundles with images included
 export_as_hybrids = True  # Exports as .textbundle only if images included, otherwise as .md
                           # Only used if `export_as_textbundles = True`
-export_image_repository = True  # Export all notes as md but link images to
-                                 # a common repository exported to: `assets_path`
+export_image_repository = True  # Export all notes as md but link images to 
+                                 # a common repository exported to: `assets_path` 
                                  # Only used if `export_as_textbundles = False`
 
 import os
@@ -86,12 +91,12 @@ parsed_args = vars(parser.parse_args())
 
 set_logging_on = True
 
-# NOTE! if 'BearNotes' is left blank, all other files in my_sync_service will be deleted!!
+# NOTE! if 'BearNotes' is left blank, all other files in my_sync_service will be deleted!! 
 export_path = parsed_args.get("out")
 no_export_tags = parsed_args.get("excludeTag")  # If a tag in note matches one in this list, it will not be exported.
 
 # NOTE! "export_path" is used for sync-back to Bear, so don't change this variable name!
-multi_export = [(export_path, True)]  # only one folder output here.
+multi_export = [(export_path, True)]  # only one folder output here. 
 # Use if you want export to severa places like: Dropbox and OneDrive, etc. See below
 # Sample for multi folder export:
 # export_path_aux1 = os.path.join(HOME, 'OneDrive', 'BearNotes')
@@ -170,9 +175,11 @@ def export_markdown():
         title = row['ZTITLE']
         md_text = row['ZTEXT'].rstrip()
 
+        # MJ: Hugo needs better dates
         creation_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZCREATIONDATE'])))
         modification_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZMODIFICATIONDATE'])))
-        modified = row['ZMODIFICATIONDATE']
+        #creation_date = row['ZCREATIONDATE']
+        #modified = row['ZMODIFICATIONDATE']
         uuid = row['ZUNIQUEIDENTIFIER']
         filename = clean_title(title)
         file_list = []
@@ -183,11 +190,11 @@ def export_markdown():
         if file_list:
             mod_dt = dt_conv(modified)
             md_text = hide_tags(md_text)
-            #MJ: Extra Tags
+            # MJ: Extra Tags
             tags = extract_tags(md_text)
             md_text += '\n\n<!-- {BearID:' + uuid + '} -->\n'
 
-            ## Add Hugo Metadata block
+            ## MJ: Add Hugo Metadata block
             hugo_block = '''
 ---
 title: "''' + title + '''"
@@ -356,7 +363,6 @@ def write_time_stamp():
     write_file(sync_ts_file_temp, "Markdown from Bear written at: " +
                datetime.datetime.now().strftime("%Y-%m-%d at %H:%M:%S"), 0)
 
-
 def extract_tags(md_text):
     pattern1 = r'(?<!\S)\#([.\w\/\-]+)[ \n]?(?!([\/ \w]+\w[#]))'
     pattern2 = r'(?<![\S])\#([^ \d][.\w\/ ]+?)\#([ \n]|$)'
@@ -389,15 +395,15 @@ def restore_tags(md_text):
     # if hide_tags_in_comment_block:
     md_text =  re.sub(r'(\n)<!--[ \t]*(\#[^\s#].*?) -->', r'\1\2', md_text)
     # else:
-    md_text =  re.sub(r'(\n)\.[ \t]*(\#[^\s#]+)', r'\1\2', md_text)
+    md_text =  re.sub(r'(\n)\.[ \t]*((\#[^\s#]+(\s|$))+)', r'\1\2', md_text)
     return md_text
 
 
 def clean_title(title):
-    title = title[:256].strip()
+    title = title[:225].strip()
     if title == "":
         title = "Untitled"
-    title = re.sub(r'[/\\*?$@!^&\|~:\.]', r'-', title)
+    title = re.sub(r'[\/\\:]', r'-', title)
     title = re.sub(r'-$', r'', title)
     return title.strip()
 
@@ -432,7 +438,7 @@ def dt_conv(dtnum):
 
 
 def date_time_conv(dtnum):
-    newnum = dt_conv(dtnum)
+    newnum = dt_conv(dtnum) 
     dtdate = datetime.datetime.fromtimestamp(newnum)
     #print(newnum, dtdate)
     return dtdate.strftime(' - %Y-%m-%d_%H%M')
@@ -440,7 +446,7 @@ def date_time_conv(dtnum):
 
 def time_stamp_ts(ts):
     dtdate = datetime.datetime.fromtimestamp(ts)
-    return dtdate.strftime('%Y-%m-%d at %H:%M')
+    return dtdate.strftime('%Y-%m-%d at %H:%M') 
 
 
 def date_conv(dtnum):
@@ -462,7 +468,7 @@ def delete_old_temp_files():
 
 def rsync_files_from_temp():
     # Moves markdown files to new folder using rsync:
-    # This is a very important step!
+    # This is a very important step! 
     # By first exporting all Bear notes to an emptied temp folder,
     # rsync will only update destination if modified or size have changed.
     # So only changed notes will be synced by Dropbox or OneDrive destinations.
@@ -475,6 +481,7 @@ def rsync_files_from_temp():
         if delete:
             subprocess.call(['rsync', '-r', '-t', '-E', '--delete',
                              '--exclude', 'BearImages/',
+                             '--exclude', '.obsidian/',
                              '--exclude', '.Ulysses*',
                              '--exclude', '*.Ulysses_Public_Filter',
                              temp_path + "/", dest_path])
@@ -517,7 +524,7 @@ def sync_md_updates():
     if updates_found:
         # Give Bear time to process updates:
         time.sleep(3)
-        # Check again, just in case new updates synced from remote (OneDrive/Dropbox)
+        # Check again, just in case new updates synced from remote (OneDrive/Dropbox) 
         # during this process!
         # The logic is not 100% fool proof, but should be close to 99.99%
         sync_md_updates() # Recursive call
@@ -592,7 +599,7 @@ def update_bear_note(md_text, md_file, ts, ts_last_export):
             link_original = 'bear://x-callback-url/open-note?id=' + uuid
             message = '::Sync conflict! External update: ' + time_stamp_ts(ts) + '::'
             message += '\n[Click here to see original Bear note](' + link_original + ')'
-            x_create = 'bear://x-callback-url/create?show_window=no&open_note=no'
+            x_create = 'bear://x-callback-url/create?show_window=no&open_note=no' 
             bear_x_callback(x_create, md_text, message, '')
         else:
             # Regular external update
@@ -605,22 +612,22 @@ def update_bear_note(md_text, md_file, ts, ts_last_export):
             # subprocess.call(["open", x_trash])
             # time.sleep(.2)
     else:
-        # New external md Note, since no Bear uuid found in text:
-        # message = '::New external Note - ' + time_stamp_ts(ts) + '::'
+        # New external md Note, since no Bear uuid found in text: 
+        # message = '::New external Note - ' + time_stamp_ts(ts) + '::' 
         md_text = get_tag_from_path(md_text, md_file, export_path)
-        x_create = 'bear://x-callback-url/create?show_window=no'
+        x_create = 'bear://x-callback-url/create?show_window=no' 
         bear_x_callback(x_create, md_text, '', '')
     return
 
 
-def get_tag_from_path(md_text, md_file, root_path, inbox_for_root=True, extra_tag=''):
+def get_tag_from_path(md_text, md_file, root_path, inbox_for_root=False, extra_tag=''):
     # extra_tag should be passed as '#tag' or '#space tag#'
     path = md_file.replace(root_path, '')[1:]
     sub_path = os.path.split(path)[0]
     tags = []
     if '.textbundle' in sub_path:
         sub_path = os.path.split(sub_path)[0]
-    if sub_path == '':
+    if sub_path == '': 
         if inbox_for_root:
             tag = '#.inbox'
         else:
@@ -652,6 +659,9 @@ def get_file_tags(md_file):
         return []
 
 
+open_config = NSWorkspaceOpenConfiguration.alloc().init()
+open_config.setActivates_(False)
+
 def bear_x_callback(x_command, md_text, message, orig_title):
     if message != '':
         lines = md_text.splitlines()
@@ -665,7 +675,8 @@ def bear_x_callback(x_command, md_text, message, orig_title):
         else:
             md_text = '\n'.join(lines[1:])
     x_command_text = x_command + '&text=' + urllib.parse.quote(md_text)
-    subprocess.call(["open", "-g", x_command_text])
+    url = NSURL.URLWithString_(x_command_text)
+    NSWorkspace.sharedWorkspace().openURL_configuration_completionHandler_(url, open_config, None)
     time.sleep(.2)
 
 
@@ -703,7 +714,7 @@ def backup_bear_note(uuid):
         filename = clean_title(title) + dtdate.strftime(' - %Y-%m-%d_%H%M')
         if not os.path.exists(sync_backup):
             os.makedirs(sync_backup)
-        file_part = os.path.join(sync_backup, filename)
+        file_part = os.path.join(sync_backup, filename) 
         # This is a Bear text file, not exactly markdown.
         backup_file = file_part + ".txt"
         count = 2
