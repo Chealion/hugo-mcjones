@@ -1,14 +1,14 @@
 
 ---
-title: "How to translate a name from _base back to it’s original value?"
+title: "How to translate a name from _base back to it's original value?"
 date: 2022-05-03 09:54:00
-lastmod: 2022-07-17 10:49:19
+lastmod: 2024-06-23 13:19:20
 categories: ['openstack', 'nova']
 draft: false
 ---
 
 
-# How to translate a name from _base back to it’s original value?
+# How to translate a name from _base back to it's original value?
 Can we or is it a one way hash?
 
 ```

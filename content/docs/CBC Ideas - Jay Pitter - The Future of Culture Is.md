@@ -1,14 +1,14 @@
 
 ---
-title: "CBC Ideas - Jay Pitter - The Future of Culture Is..."
+title: "CBC Ideas - Jay Pitter - The Future of Culture Is"
 date: 2023-11-30 08:54:22
-lastmod: 2024-04-17 21:57:50
+lastmod: 2024-06-23 13:31:24
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
 
-# CBC Ideas - Jay Pitter - The Future of Culture Is...
+# CBC Ideas - Jay Pitter - The Future of Culture Is
 No notes recorded
 
 ---

@@ -2,8 +2,8 @@
 ---
 title: "Escape Pod - 911 - Driftwood in the Sea of Time"
 date: 2024-05-12 10:54:24
-lastmod: 2024-05-12 10:57:04
-categories: ['draft', 'podcast', 'Escape Pod']
+lastmod: 2024-06-23 13:29:28
+categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
@@ -16,10 +16,9 @@ What is more human? The hubris that leads to time paradoxes, or the fact we can 
 ###### Escape Pod - Escape Pod 911: Driftwood in the Sea of Time
 
 https://overcast.fm/+GJrplZadc  
-
+https://escapepod.org/2023/10/19/escape-pod-911-driftwood-in-the-sea-of-time/
 
 <!-- #public -->
-<!-- #draft -->
 <!-- #podcast -->
 <!-- #Escape Pod# -->
 
