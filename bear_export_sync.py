@@ -178,9 +178,9 @@ def export_markdown():
             title = row['ZTITLE']
             md_text = row['ZTEXT'].rstrip()
 
-            # MJ: Hugo needs better dates
-            creation_hugo_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZCREATIONDATE'])))
-            modification_hugo_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZMODIFICATIONDATE'])))
+            # MJ: Turn the dates from timestamps into Python datetime objects. Will be used to output in ISO8601 format.
+            creation_hugo_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZCREATIONDATE'])), tz=datetime.timezone.utc)
+            modification_hugo_date = datetime.datetime.fromtimestamp(int(dt_conv(row['ZMODIFICATIONDATE'])), tz=datetime.timezone.utc)
             creation_date = row['ZCREATIONDATE']
             modified = row['ZMODIFICATIONDATE']
             uuid = row['ZUNIQUEIDENTIFIER']
@@ -204,12 +204,12 @@ def export_markdown():
                 tags = extract_tags(md_text)
                 md_text += '\n\n<!-- {BearID:' + uuid + '} -->\n'
 
-                ## MJ: Add Hugo Metadata block
+                ## MJ: Add Hugo Metadata block with ISO8601 dates
                 hugo_block = '''
 ---
 title: "''' + title + '''"
-date: ''' + str(creation_hugo_date) + '''
-lastmod: ''' + str(modification_hugo_date) + '''
+date: ''' + creation_hugo_date.strftime("%Y-%m-%dT%H:%M:%SZ") + '''
+lastmod: ''' + modification_hugo_date.strftime("%Y-%m-%dT%H:%M:%SZ") + '''
 categories: ''' + tags + '''
 draft: false
 ---
