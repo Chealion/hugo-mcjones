@@ -5,3 +5,6 @@ theme = 'mcjones'
 rssLimit = 50
 
 [params]
+[params.author]
+  email = "chealion@chealion.ca"
+  name = "Micheal Jones"
