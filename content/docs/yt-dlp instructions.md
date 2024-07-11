@@ -1,8 +1,8 @@
 
 ---
 title: "yt-dlp instructions"
-date: 2018-03-01 14:02:01
-lastmod: 2023-10-30 21:58:11
+date: 2018-03-01T21:02:01Z
+lastmod: 2023-10-31T03:58:11Z
 categories: ['snippet']
 draft: false
 ---

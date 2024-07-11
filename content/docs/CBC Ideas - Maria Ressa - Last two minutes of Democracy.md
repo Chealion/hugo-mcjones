@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Maria Ressa - Last two minutes of Democracy"
-date: 2023-04-01 12:22:43
-lastmod: 2023-09-04 18:53:12
+date: 2023-04-01T18:22:43Z
+lastmod: 2023-09-05T00:53:12Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

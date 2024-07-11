@@ -1,8 +1,8 @@
 
 ---
 title: "Bootstrap Notes"
-date: 2022-07-14 23:11:36
-lastmod: 2022-07-17 12:07:26
+date: 2022-07-15T05:11:36Z
+lastmod: 2022-07-17T18:07:26Z
 categories: ['bootstrap', 'webdev']
 draft: false
 ---

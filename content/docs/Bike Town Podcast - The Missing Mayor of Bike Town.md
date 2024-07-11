@@ -1,8 +1,8 @@
 
 ---
 title: "Bike Town Podcast - The Missing Mayor of Bike Town"
-date: 2023-01-07 22:54:32
-lastmod: 2023-09-04 18:49:43
+date: 2023-01-08T05:54:32Z
+lastmod: 2023-09-05T00:49:43Z
 categories: ['podcast', 'bike town']
 draft: false
 ---

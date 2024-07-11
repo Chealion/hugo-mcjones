@@ -1,8 +1,8 @@
 
 ---
 title: "Hidden Brain - Playing Favorites"
-date: 2023-01-07 22:55:07
-lastmod: 2023-11-04 22:35:29
+date: 2023-01-08T05:55:07Z
+lastmod: 2023-11-05T04:35:29Z
 categories: ['podcast', 'hidden brain']
 draft: false
 ---

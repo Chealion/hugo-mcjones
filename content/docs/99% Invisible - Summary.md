@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - Summary"
-date: 2023-09-01 22:58:49
-lastmod: 2023-09-01 22:59:29
+date: 2023-09-02T04:58:49Z
+lastmod: 2023-09-02T04:59:29Z
 categories: ['podcast']
 draft: false
 ---

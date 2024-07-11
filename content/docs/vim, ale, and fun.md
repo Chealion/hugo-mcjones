@@ -1,8 +1,8 @@
 
 ---
 title: "vim, ale, and fun"
-date: 2024-04-11 21:43:54
-lastmod: 2024-04-11 21:45:31
+date: 2024-04-12T03:43:54Z
+lastmod: 2024-04-12T03:45:31Z
 categories: ['vim', 'ale']
 draft: false
 ---

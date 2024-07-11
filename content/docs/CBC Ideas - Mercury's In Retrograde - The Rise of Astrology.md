@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Mercury's In Retrograde - The Rise of Astrology"
-date: 2023-08-30 16:52:34
-lastmod: 2023-11-05 01:01:22
+date: 2023-08-30T22:52:34Z
+lastmod: 2023-11-05T07:01:22Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

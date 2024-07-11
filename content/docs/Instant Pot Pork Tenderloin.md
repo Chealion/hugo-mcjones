@@ -1,8 +1,8 @@
 
 ---
 title: "Instant Pot Pork Tenderloin"
-date: 2020-01-04 13:16:59
-lastmod: 2023-01-06 20:56:38
+date: 2020-01-04T20:16:59Z
+lastmod: 2023-01-07T03:56:38Z
 categories: ['instant-pot', 'recipe']
 draft: false
 ---

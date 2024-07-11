@@ -1,8 +1,8 @@
 
 ---
 title: "IPv6 Subnet Tips"
-date: 2024-04-11 21:59:11
-lastmod: 2024-04-11 22:04:08
+date: 2024-04-12T03:59:11Z
+lastmod: 2024-04-12T04:04:08Z
 categories: ['ipv6', 'snippet']
 draft: false
 ---

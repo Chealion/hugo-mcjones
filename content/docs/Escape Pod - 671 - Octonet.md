@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 671 - Octonet"
-date: 2023-01-08 00:54:29
-lastmod: 2024-07-10 19:51:03
+date: 2023-01-08T05:54:29Z
+lastmod: 2024-07-10T23:51:03Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

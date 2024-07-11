@@ -1,8 +1,8 @@
 
 ---
 title: "The Expanse (Series)"
-date: 2018-11-23 22:39:42
-lastmod: 2022-08-10 21:38:36
+date: 2018-11-24T05:39:42Z
+lastmod: 2022-08-11T03:38:36Z
 categories: ['book']
 draft: false
 ---

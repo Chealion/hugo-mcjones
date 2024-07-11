@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - The Divided Dial"
-date: 2023-04-26 19:37:31
-lastmod: 2023-09-03 23:04:59
+date: 2023-04-27T01:37:31Z
+lastmod: 2023-09-04T05:04:59Z
 categories: ['podcast']
 draft: false
 ---

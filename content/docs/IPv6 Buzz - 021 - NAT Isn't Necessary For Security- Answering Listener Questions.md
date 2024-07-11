@@ -1,8 +1,8 @@
 
 ---
 title: "IPv6 Buzz - 021 - NAT Isn't Necessary For Security: Answering Listener Questions"
-date: 2023-01-07 22:54:48
-lastmod: 2024-04-02 00:02:57
+date: 2023-01-08T05:54:48Z
+lastmod: 2024-04-02T06:02:57Z
 categories: ['podcast', 'IPv6 Buzz']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - Missing the Bus"
-date: 2023-01-07 22:55:05
-lastmod: 2023-09-03 23:02:22
+date: 2023-01-08T05:55:05Z
+lastmod: 2023-09-04T05:02:22Z
 categories: ['podcast']
 draft: false
 ---

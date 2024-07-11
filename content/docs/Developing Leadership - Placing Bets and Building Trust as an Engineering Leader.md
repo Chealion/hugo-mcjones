@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - Placing Bets and Building Trust as an Engineering Leader"
-date: 2023-07-14 12:43:24
-lastmod: 2023-09-04 19:42:28
+date: 2023-07-14T18:43:24Z
+lastmod: 2023-09-05T01:42:28Z
 categories: ['podcast', 'developing leadership']
 draft: false
 ---

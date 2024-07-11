@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - CBC Massey Lecture - Look At That Device In Your Hand"
-date: 2023-01-07 22:54:21
-lastmod: 2023-09-04 19:21:20
+date: 2023-01-08T05:54:21Z
+lastmod: 2023-09-05T01:21:20Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

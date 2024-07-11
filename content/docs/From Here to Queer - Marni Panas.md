@@ -1,8 +1,8 @@
 
 ---
 title: "From Here to Queer - Marni Panas"
-date: 2024-01-15 08:33:14
-lastmod: 2024-04-01 23:37:16
+date: 2024-01-15T15:33:14Z
+lastmod: 2024-04-02T05:37:16Z
 categories: ['podcast', 'From Here to Queer']
 draft: false
 ---

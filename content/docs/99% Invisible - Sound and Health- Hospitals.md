@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - Sound and Health: Hospitals"
-date: 2023-01-07 22:55:05
-lastmod: 2023-07-23 22:58:17
+date: 2023-01-08T05:55:05Z
+lastmod: 2023-07-24T04:58:17Z
 categories: ['podcast']
 draft: false
 ---

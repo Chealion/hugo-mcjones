@@ -1,8 +1,8 @@
 
 ---
 title: "Bulb Comparisons"
-date: 2020-08-05 12:18:34
-lastmod: 2022-07-17 12:06:34
+date: 2020-08-05T18:18:34Z
+lastmod: 2022-07-17T18:06:34Z
 categories: ['household']
 draft: false
 ---

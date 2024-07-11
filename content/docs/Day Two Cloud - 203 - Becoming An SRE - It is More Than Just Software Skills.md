@@ -1,8 +1,8 @@
 
 ---
 title: "Day Two Cloud - 203 - Becoming An SRE - It is More Than Just Software Skills"
-date: 2024-01-22 08:50:54
-lastmod: 2024-04-21 22:09:14
+date: 2024-01-22T15:50:54Z
+lastmod: 2024-04-22T04:09:14Z
 categories: ['podcast', 'Day Two Cloud', 'packet pushers']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The Coffee Chronicles"
-date: 2023-01-07 22:54:20
-lastmod: 2023-09-04 19:16:53
+date: 2023-01-08T05:54:20Z
+lastmod: 2023-09-05T01:16:53Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - The Nesara Cult and Qanon's Origins"
-date: 2023-01-07 22:55:10
-lastmod: 2023-09-04 18:48:12
+date: 2023-01-08T05:55:10Z
+lastmod: 2023-09-05T00:48:12Z
 categories: ['podcast', 'behind the bastards']
 draft: false
 ---

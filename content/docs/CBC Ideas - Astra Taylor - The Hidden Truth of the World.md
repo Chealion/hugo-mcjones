@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Astra Taylor - The Hidden Truth of the World"
-date: 2024-03-12 08:19:14
-lastmod: 2024-04-01 23:39:40
+date: 2024-03-12T14:19:14Z
+lastmod: 2024-04-02T05:39:40Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

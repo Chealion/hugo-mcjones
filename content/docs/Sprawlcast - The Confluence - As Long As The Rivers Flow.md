@@ -1,8 +1,8 @@
 
 ---
 title: "Sprawlcast - The Confluence - As Long As The Rivers Flow"
-date: 2023-04-16 15:30:37
-lastmod: 2024-04-01 23:30:32
+date: 2023-04-16T21:30:37Z
+lastmod: 2024-04-02T05:30:32Z
 categories: ['podcast', 'sprawlcast']
 draft: false
 ---

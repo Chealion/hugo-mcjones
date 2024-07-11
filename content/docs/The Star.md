@@ -1,8 +1,8 @@
 
 ---
 title: "The Star"
-date: 2022-05-01 11:40:07
-lastmod: 2023-01-06 20:26:06
+date: 2022-05-01T17:40:07Z
+lastmod: 2023-01-07T03:26:06Z
 categories: ['short-stories']
 draft: false
 ---

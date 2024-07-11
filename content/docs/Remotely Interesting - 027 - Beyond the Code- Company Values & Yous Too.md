@@ -1,8 +1,8 @@
 
 ---
 title: "Remotely Interesting - 027 - Beyond the Code: Company Values & Yous Too"
-date: 2023-01-07 22:55:01
-lastmod: 2024-04-11 22:44:05
+date: 2023-01-08T05:55:01Z
+lastmod: 2024-04-12T04:44:05Z
 categories: ['podcast', 'Remotely Interesting']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Firefox / Chrome Setting Management"
-date: 2023-10-13 11:48:38
-lastmod: 2024-01-17 11:36:09
+date: 2023-10-13T17:48:38Z
+lastmod: 2024-01-17T18:36:09Z
 categories: ['firefox', 'chrome', 'macos', 'mdm', 'profile']
 draft: false
 ---

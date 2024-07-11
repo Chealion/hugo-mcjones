@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 56 - Opinions on Opinions with Kris Nova"
-date: 2023-03-15 08:37:52
-lastmod: 2024-04-02 00:00:50
+date: 2023-03-15T14:37:52Z
+lastmod: 2024-04-02T06:00:50Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

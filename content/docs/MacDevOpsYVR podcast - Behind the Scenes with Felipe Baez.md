@@ -1,8 +1,8 @@
 
 ---
 title: "MacDevOpsYVR podcast - Behind the Scenes with Felipe Baez"
-date: 2023-01-07 22:54:59
-lastmod: 2024-06-23 13:15:34
+date: 2023-01-08T05:54:59Z
+lastmod: 2024-06-23T19:15:34Z
 categories: ['podcast', 'MacDevOpsYVR']
 draft: false
 ---

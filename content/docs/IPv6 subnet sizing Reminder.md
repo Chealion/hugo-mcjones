@@ -1,8 +1,8 @@
 
 ---
 title: "IPv6 subnet sizing Reminder"
-date: 2024-06-16 12:42:36
-lastmod: 2024-06-23 11:23:28
+date: 2024-06-16T18:42:36Z
+lastmod: 2024-06-23T17:23:28Z
 categories: ['ipv6']
 draft: false
 ---

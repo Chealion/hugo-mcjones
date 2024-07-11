@@ -1,8 +1,8 @@
 
 ---
 title: "Colour Code - The Most Visible Minority"
-date: 2023-01-07 22:55:04
-lastmod: 2023-09-04 19:36:03
+date: 2023-01-08T05:55:04Z
+lastmod: 2023-09-05T01:36:03Z
 categories: ['podcast', 'Colour Code']
 draft: false
 ---

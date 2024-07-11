@@ -1,8 +1,8 @@
 
 ---
 title: "My General Go To Lightroom Preset"
-date: 2022-06-25 20:56:32
-lastmod: 2022-07-17 10:42:33
+date: 2022-06-26T02:56:32Z
+lastmod: 2022-07-17T16:42:33Z
 categories: ['lightroom']
 draft: false
 ---

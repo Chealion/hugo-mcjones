@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 666 - This Wine - Dark Feeling That Isn't The Blues"
-date: 2023-01-08 00:54:30
-lastmod: 2024-07-10 19:52:33
+date: 2023-01-08T05:54:30Z
+lastmod: 2024-07-10T23:52:33Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

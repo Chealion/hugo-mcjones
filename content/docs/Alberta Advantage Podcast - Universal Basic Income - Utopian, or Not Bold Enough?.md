@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Universal Basic Income - Utopian, or Not Bold Enough?"
-date: 2023-01-07 22:54:35
-lastmod: 2023-09-03 23:13:25
+date: 2023-01-08T05:54:35Z
+lastmod: 2023-09-04T05:13:25Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

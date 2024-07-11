@@ -1,8 +1,8 @@
 
 ---
 title: "Pip / Virtual Environment Basics"
-date: 2023-02-21 19:31:27
-lastmod: 2023-02-21 19:41:32
+date: 2023-02-22T02:31:27Z
+lastmod: 2023-02-22T02:41:32Z
 categories: ['dev', 'python']
 draft: false
 ---

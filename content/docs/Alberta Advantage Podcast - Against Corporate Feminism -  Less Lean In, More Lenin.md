@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Against Corporate Feminism -  Less Lean In, More Lenin"
-date: 2023-01-07 22:54:35
-lastmod: 2023-09-03 23:15:51
+date: 2023-01-08T05:54:35Z
+lastmod: 2023-09-04T05:15:51Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

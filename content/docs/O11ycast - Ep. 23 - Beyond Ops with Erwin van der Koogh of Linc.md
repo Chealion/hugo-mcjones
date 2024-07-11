@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 23 - Beyond Ops with Erwin van der Koogh of Linc"
-date: 2023-01-07 22:55:07
-lastmod: 2024-06-23 13:12:33
+date: 2023-01-08T05:55:07Z
+lastmod: 2024-06-23T19:12:33Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

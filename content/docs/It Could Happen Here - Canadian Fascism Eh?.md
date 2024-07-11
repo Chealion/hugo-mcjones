@@ -1,8 +1,8 @@
 
 ---
 title: "It Could Happen Here - Canadian Fascism Eh?"
-date: 2023-01-07 22:55:12
-lastmod: 2023-01-07 23:02:48
+date: 2023-01-08T05:55:12Z
+lastmod: 2023-01-08T06:02:48Z
 categories: ['podcast', 'It Could Happen Here']
 draft: false
 ---

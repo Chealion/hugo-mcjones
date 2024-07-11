@@ -1,8 +1,8 @@
 
 ---
 title: "Overcast -> Bear Shortcut"
-date: 2022-08-10 21:55:23
-lastmod: 2023-01-29 21:32:28
+date: 2022-08-11T03:55:23Z
+lastmod: 2023-01-30T04:32:28Z
 categories: ['shortcuts', 'overcast', 'bear-app']
 draft: false
 ---

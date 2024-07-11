@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - CBC Massey Lecture 5 - Shifting Power"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:10:18
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:10:18Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

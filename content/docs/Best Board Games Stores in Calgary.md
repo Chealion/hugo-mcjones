@@ -1,8 +1,8 @@
 
 ---
 title: "Best Board Games Stores in Calgary"
-date: 2020-11-27 13:57:14
-lastmod: 2023-12-03 11:24:18
+date: 2020-11-27T20:57:14Z
+lastmod: 2023-12-03T18:24:18Z
 categories: ['calgary']
 draft: false
 ---

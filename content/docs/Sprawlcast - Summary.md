@@ -1,8 +1,8 @@
 
 ---
 title: "Sprawlcast - Summary"
-date: 2023-09-01 22:54:56
-lastmod: 2023-09-01 22:57:15
+date: 2023-09-02T04:54:56Z
+lastmod: 2023-09-02T04:57:15Z
 categories: ['podcast', 'sprawlcast']
 draft: false
 ---

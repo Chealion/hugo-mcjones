@@ -1,8 +1,8 @@
 
 ---
 title: "Homebrew and Casks"
-date: 2021-12-24 19:33:03
-lastmod: 2022-07-22 22:02:52
+date: 2021-12-25T02:33:03Z
+lastmod: 2022-07-23T04:02:52Z
 categories: ['List', 'homebrew', 'macos']
 draft: false
 ---

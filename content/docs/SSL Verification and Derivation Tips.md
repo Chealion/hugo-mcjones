@@ -1,8 +1,8 @@
 
 ---
 title: "SSL Verification and Derivation Tips"
-date: 2023-07-17 10:24:13
-lastmod: 2023-07-17 10:37:14
+date: 2023-07-17T16:24:13Z
+lastmod: 2023-07-17T16:37:14Z
 categories: ['snippet', 'ssl', 'tls']
 draft: false
 ---

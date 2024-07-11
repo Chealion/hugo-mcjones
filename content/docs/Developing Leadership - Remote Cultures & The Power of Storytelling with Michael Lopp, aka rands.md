@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - Remote Cultures & The Power of Storytelling with Michael Lopp, aka rands"
-date: 2023-01-07 22:55:04
-lastmod: 2023-09-04 19:44:14
+date: 2023-01-08T05:55:04Z
+lastmod: 2023-09-05T01:44:14Z
 categories: ['podcast', 'Developing Leadership']
 draft: false
 ---

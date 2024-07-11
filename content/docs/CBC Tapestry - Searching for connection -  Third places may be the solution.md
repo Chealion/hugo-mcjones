@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Tapestry - Searching for connection -  Third places may be the solution"
-date: 2023-05-01 17:44:22
-lastmod: 2023-09-13 09:38:32
+date: 2023-05-01T23:44:22Z
+lastmod: 2023-09-13T15:38:32Z
 categories: ['podcast', 'CBC Tapestry']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 705-707 - Rule of Three"
-date: 2023-01-08 00:54:29
-lastmod: 2024-07-10 19:48:13
+date: 2023-01-08T05:54:29Z
+lastmod: 2024-07-10T23:48:13Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

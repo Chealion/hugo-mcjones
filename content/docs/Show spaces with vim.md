@@ -1,8 +1,8 @@
 
 ---
 title: "Show spaces with vim"
-date: 2022-08-30 15:36:45
-lastmod: 2022-08-30 15:38:36
+date: 2022-08-30T21:36:45Z
+lastmod: 2022-08-30T21:38:36Z
 categories: ['vim', 'snippet']
 draft: false
 ---

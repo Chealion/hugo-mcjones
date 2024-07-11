@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 21 - Learning Systems with Jessica Kerr"
-date: 2023-01-07 22:55:07
-lastmod: 2024-04-11 22:42:14
+date: 2023-01-08T05:55:07Z
+lastmod: 2024-04-12T04:42:14Z
 categories: ['draft', 'podcast', 'o11ycast']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Make debate great again - How bad political argument is undermining democracy"
-date: 2023-01-07 22:54:23
-lastmod: 2023-09-04 19:03:18
+date: 2023-01-08T05:54:23Z
+lastmod: 2023-09-05T01:03:18Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

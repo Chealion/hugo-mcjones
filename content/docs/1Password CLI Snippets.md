@@ -1,8 +1,8 @@
 
 ---
 title: "1Password CLI Snippets"
-date: 2024-04-01 22:07:13
-lastmod: 2024-04-01 22:15:24
+date: 2024-04-02T04:07:13Z
+lastmod: 2024-04-02T04:15:24Z
 categories: ['snippet']
 draft: false
 ---

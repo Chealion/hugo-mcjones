@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - How algorithms create a digital underclass"
-date: 2023-01-07 22:54:23
-lastmod: 2023-09-04 19:02:47
+date: 2023-01-08T05:54:23Z
+lastmod: 2023-09-05T01:02:47Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

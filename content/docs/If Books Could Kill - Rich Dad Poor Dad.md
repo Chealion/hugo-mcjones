@@ -1,8 +1,8 @@
 
 ---
 title: "If Books Could Kill - Rich Dad Poor Dad"
-date: 2023-09-13 16:13:21
-lastmod: 2023-11-04 22:49:46
+date: 2023-09-13T22:13:21Z
+lastmod: 2023-11-05T04:49:46Z
 categories: ['podcast', 'If Books Could Kill']
 draft: false
 ---

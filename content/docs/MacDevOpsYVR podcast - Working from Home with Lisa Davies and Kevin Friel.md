@@ -1,8 +1,8 @@
 
 ---
 title: "MacDevOpsYVR podcast - Working from Home with Lisa Davies and Kevin Friel"
-date: 2023-01-07 22:54:59
-lastmod: 2023-09-04 20:01:36
+date: 2023-01-08T05:54:59Z
+lastmod: 2023-09-05T02:01:36Z
 categories: ['podcast', 'MacDevOpsYVR']
 draft: false
 ---

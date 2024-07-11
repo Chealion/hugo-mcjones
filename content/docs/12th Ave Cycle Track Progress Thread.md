@@ -1,8 +1,8 @@
 
 ---
 title: "12th Ave Cycle Track Progress Thread"
-date: 2021-09-09 11:18:23
-lastmod: 2022-07-17 11:01:15
+date: 2021-09-09T17:18:23Z
+lastmod: 2022-07-17T17:01:15Z
 categories: ['sunalta']
 draft: false
 ---

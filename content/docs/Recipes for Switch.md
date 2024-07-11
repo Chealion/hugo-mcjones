@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for Switch"
-date: 2023-01-08 00:21:16
-lastmod: 2024-06-23 11:25:54
+date: 2023-01-08T07:21:16Z
+lastmod: 2024-06-26T04:25:49Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -129,6 +129,21 @@ Swirl vessel after full drawn down.
 Let brew for 90 seconds, hit switch  
 Pour slowly the next 260g as normal for a v60
 
+CoffeeChronicler
+https://coffeechronicler.com/hario-switch/
+
+1:15 ratio  
+20g coffee  
+300g water
+
+Pour 150g with switch open
+At 00:45 - Close switch, and pour rest of water
+Wait until 02:00 and then open.
+
+For a sweeter version - close at 00:25
+
+Should take 02:45-03:15 total
+
 # Switch with Mugen Hack
 ## Background
 I learned about using the Hario Mugen instead of the standard V60 cone with the Hario Switch from [CoffeeGeek](https://coffeegeek.com/guides/howtos/hario-mugen-switch-brewer-hack-how-to/).
@@ -150,18 +165,6 @@ Standard V60 grind
 7. Swirl
 8. At 02:15 - open
 
-## CoffeeChronicler
-https://coffeechronicler.com/hario-switch/
-
-1:15 ratio  
-20g coffee  
-300g water
-
-Pour 150g with switch open
-At 00:45 - Close switch, and pour rest of water
-Wait until 02:00 and then open.
-
-Should take 02:45-03:15 total
 ## CoffeeGeek Recipe
 1:20 ratio  
 15g coffee  
@@ -176,6 +179,10 @@ Should take 02:45-03:15 total
 7. Let draw down
 
 Total time around 4 minutes
+
+## Other
+Coffee Chronicler recommends same recipe as regular switch set up. Maybe a touch coarser grind
+
 
 <!-- #coffee #public #hario-switch #recipe -->
 

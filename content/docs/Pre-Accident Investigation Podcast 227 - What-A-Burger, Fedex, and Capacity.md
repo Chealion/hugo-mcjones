@@ -1,8 +1,8 @@
 
 ---
 title: "Pre-Accident Investigation Podcast 227 - What-A-Burger, Fedex, and Capacity"
-date: 2023-08-22 22:52:56
-lastmod: 2023-09-04 20:04:05
+date: 2023-08-23T04:52:56Z
+lastmod: 2023-09-05T02:04:05Z
 categories: ['podcast', 'Pre']
 draft: false
 ---

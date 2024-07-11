@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - Summary"
-date: 2023-09-01 23:03:24
-lastmod: 2023-09-01 23:05:27
+date: 2023-09-02T05:03:24Z
+lastmod: 2023-09-02T05:05:27Z
 categories: ['podcast', 'developing leadership']
 draft: false
 ---

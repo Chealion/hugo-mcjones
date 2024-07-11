@@ -1,8 +1,8 @@
 
 ---
 title: "It Could Happen Here - The War on Trans People: Part 1, Evangelicals & Gay Marriage"
-date: 2023-01-07 22:55:11
-lastmod: 2023-11-05 01:10:13
+date: 2023-01-08T05:55:11Z
+lastmod: 2023-11-05T07:10:13Z
 categories: ['podcast', 'It Could Happen Here']
 draft: false
 ---

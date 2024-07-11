@@ -1,8 +1,8 @@
 
 ---
 title: "Hidden Brain - In The Heat Of The Moment"
-date: 2023-01-07 22:55:08
-lastmod: 2023-11-04 22:34:06
+date: 2023-01-08T05:55:08Z
+lastmod: 2023-11-05T04:34:06Z
 categories: ['podcast', 'hidden brain']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Reverse Sear Details"
-date: 2018-08-28 20:50:37
-lastmod: 2022-08-10 21:44:18
+date: 2018-08-29T02:50:37Z
+lastmod: 2022-08-11T03:44:18Z
 categories: ['recipe']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Transforming Justice"
-date: 2023-05-28 10:47:09
-lastmod: 2023-07-23 23:32:16
+date: 2023-05-28T16:47:09Z
+lastmod: 2023-07-24T05:32:16Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

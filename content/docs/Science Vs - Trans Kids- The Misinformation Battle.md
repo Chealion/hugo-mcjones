@@ -1,8 +1,8 @@
 
 ---
 title: "Science Vs - Trans Kids: The Misinformation Battle"
-date: 2023-01-07 22:54:56
-lastmod: 2024-04-11 22:45:07
+date: 2023-01-08T05:54:56Z
+lastmod: 2024-04-12T04:45:07Z
 categories: ['podcast', 'Science Vs']
 draft: false
 ---

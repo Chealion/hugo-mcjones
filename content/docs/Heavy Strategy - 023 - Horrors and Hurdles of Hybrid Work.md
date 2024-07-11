@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Strategy - 023 - Horrors and Hurdles of Hybrid Work"
-date: 2022-09-03 16:18:54
-lastmod: 2023-07-23 22:02:31
+date: 2022-09-03T22:18:54Z
+lastmod: 2023-07-24T04:02:31Z
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---

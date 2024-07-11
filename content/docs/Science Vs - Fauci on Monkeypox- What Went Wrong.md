@@ -1,8 +1,8 @@
 
 ---
 title: "Science Vs - Fauci on Monkeypox: What Went Wrong"
-date: 2023-01-07 22:54:56
-lastmod: 2024-04-11 22:44:48
+date: 2023-01-08T05:54:56Z
+lastmod: 2024-04-12T04:44:48Z
 categories: ['podcast', 'Science Vs']
 draft: false
 ---

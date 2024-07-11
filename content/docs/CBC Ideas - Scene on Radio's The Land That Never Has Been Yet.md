@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Scene on Radio's The Land That Never Has Been Yet"
-date: 2023-03-26 12:17:10
-lastmod: 2023-09-04 19:53:30
+date: 2023-03-26T18:17:10Z
+lastmod: 2023-09-05T01:53:30Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

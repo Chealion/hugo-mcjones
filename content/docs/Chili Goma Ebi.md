@@ -1,8 +1,8 @@
 
 ---
 title: "Chili Goma Ebi"
-date: 2018-03-01 19:49:48
-lastmod: 2022-07-17 11:14:49
+date: 2018-03-02T02:49:48Z
+lastmod: 2022-07-17T17:14:49Z
 categories: ['recipe']
 draft: false
 ---

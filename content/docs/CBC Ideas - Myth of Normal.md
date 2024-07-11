@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Myth of Normal"
-date: 2022-08-12 12:19:07
-lastmod: 2023-07-23 22:01:55
+date: 2022-08-12T18:19:07Z
+lastmod: 2023-07-24T04:01:55Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

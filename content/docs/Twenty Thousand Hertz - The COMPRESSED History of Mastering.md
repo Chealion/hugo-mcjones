@@ -1,8 +1,8 @@
 
 ---
 title: "Twenty Thousand Hertz - The COMPRESSED History of Mastering"
-date: 2023-01-07 22:54:33
-lastmod: 2023-07-23 23:49:53
+date: 2023-01-08T05:54:33Z
+lastmod: 2023-07-24T05:49:53Z
 categories: ['podcast', 'Twenty Thousand Hertz']
 draft: false
 ---

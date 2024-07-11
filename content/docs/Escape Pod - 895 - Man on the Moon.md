@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 895 - Man on the Moon"
-date: 2024-01-07 23:20:59
-lastmod: 2024-07-10 19:53:24
+date: 2024-01-08T04:20:59Z
+lastmod: 2024-07-10T23:53:24Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

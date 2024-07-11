@@ -1,8 +1,8 @@
 
 ---
 title: "Chrome Kiosk Mode and Revolving Tabs"
-date: 2022-07-28 14:07:56
-lastmod: 2022-07-28 14:10:25
+date: 2022-07-28T20:07:56Z
+lastmod: 2022-07-28T20:10:25Z
 categories: ['chrome']
 draft: false
 ---

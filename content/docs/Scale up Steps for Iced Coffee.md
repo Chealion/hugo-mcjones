@@ -1,8 +1,8 @@
 
 ---
 title: "Scale up Steps for Iced Coffee"
-date: 2022-06-11 14:30:49
-lastmod: 2022-08-10 21:44:33
+date: 2022-06-11T20:30:49Z
+lastmod: 2022-08-11T03:44:33Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

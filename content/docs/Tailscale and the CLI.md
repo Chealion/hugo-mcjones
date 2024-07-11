@@ -1,8 +1,8 @@
 
 ---
 title: "Tailscale and the CLI"
-date: 2023-01-06 20:19:09
-lastmod: 2023-01-06 20:23:01
+date: 2023-01-07T03:19:09Z
+lastmod: 2023-01-07T03:23:01Z
 categories: ['tailscale']
 draft: false
 ---

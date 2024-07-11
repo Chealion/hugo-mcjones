@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 750 - The Anatomy of Miracles"
-date: 2023-01-08 00:54:28
-lastmod: 2024-07-10 19:42:51
+date: 2023-01-08T05:54:28Z
+lastmod: 2024-07-10T23:42:51Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

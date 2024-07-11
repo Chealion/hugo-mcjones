@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Taken In - Exploring Credulity"
-date: 2023-10-03 20:42:32
-lastmod: 2023-11-04 22:40:46
+date: 2023-10-04T02:42:32Z
+lastmod: 2023-11-05T04:40:46Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

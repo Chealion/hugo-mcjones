@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The North Star: Canada and the Civil War Plots Against Lincoln by Julian Sher"
-date: 2024-03-18 18:32:02
-lastmod: 2024-04-01 23:45:12
+date: 2024-03-19T00:32:02Z
+lastmod: 2024-04-02T05:45:12Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

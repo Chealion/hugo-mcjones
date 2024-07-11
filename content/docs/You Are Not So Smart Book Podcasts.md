@@ -1,8 +1,8 @@
 
 ---
 title: "You Are Not So Smart Book Podcasts"
-date: 2023-08-05 15:02:59
-lastmod: 2023-10-05 11:00:14
+date: 2023-08-05T21:02:59Z
+lastmod: 2023-10-05T17:00:14Z
 categories: ['podcast', 'you are not so smart']
 draft: false
 ---

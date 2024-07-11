@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 138 - Building Application Security Program - Derek Fisher"
-date: 2023-12-31 15:11:45
-lastmod: 2024-04-21 22:12:36
+date: 2023-12-31T22:11:45Z
+lastmod: 2024-04-22T04:12:36Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

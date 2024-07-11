@@ -1,8 +1,8 @@
 
 ---
 title: "Datanauts - 123 - Security Without Firewalls"
-date: 2023-01-07 22:54:34
-lastmod: 2023-07-23 23:36:17
+date: 2023-01-08T05:54:34Z
+lastmod: 2023-07-24T05:36:17Z
 categories: ['podcast', 'datanauts', 'datanauts']
 draft: false
 ---

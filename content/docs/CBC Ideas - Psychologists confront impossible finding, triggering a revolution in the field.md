@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Psychologists confront impossible finding, triggering a revolution in the field"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:09:47
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:09:47Z
 categories: ['draft', 'podcast', 'CBC Ideas']
 draft: false
 ---

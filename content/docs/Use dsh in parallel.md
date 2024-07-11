@@ -1,8 +1,8 @@
 
 ---
 title: "Use dsh in parallel"
-date: 2022-07-04 19:34:05
-lastmod: 2022-07-17 10:41:11
+date: 2022-07-05T01:34:05Z
+lastmod: 2022-07-17T16:41:11Z
 categories: ['snippet', 'dsh']
 draft: false
 ---

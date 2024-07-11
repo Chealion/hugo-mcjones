@@ -1,8 +1,8 @@
 
 ---
 title: "Pink Tax Podcast - Episode 38 - Monopoly Money & Monarchs"
-date: 2023-01-07 22:55:04
-lastmod: 2024-04-01 23:53:15
+date: 2023-01-08T05:55:04Z
+lastmod: 2024-04-02T05:53:15Z
 categories: ['podcast', 'pink tax']
 draft: false
 ---

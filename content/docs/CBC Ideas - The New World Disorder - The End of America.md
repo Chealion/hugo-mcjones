@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The New World Disorder - The End of America"
-date: 2023-02-06 17:04:46
-lastmod: 2023-07-23 23:23:39
+date: 2023-02-07T00:04:46Z
+lastmod: 2023-07-24T05:23:39Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

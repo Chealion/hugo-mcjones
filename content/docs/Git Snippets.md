@@ -1,8 +1,8 @@
 
 ---
 title: "Git Snippets"
-date: 2023-07-10 21:42:05
-lastmod: 2023-08-28 15:47:13
+date: 2023-07-11T03:42:05Z
+lastmod: 2023-08-28T21:47:13Z
 categories: ['snippet', 'git']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "IPv6 Buzz 130 - Routing With Link-Local Addresses"
-date: 2023-11-13 15:29:28
-lastmod: 2024-04-11 22:39:44
+date: 2023-11-13T22:29:28Z
+lastmod: 2024-04-12T04:39:44Z
 categories: ['podcast', 'IPv6 Buzz']
 draft: false
 ---

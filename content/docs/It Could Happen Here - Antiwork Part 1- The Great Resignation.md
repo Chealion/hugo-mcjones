@@ -1,8 +1,8 @@
 
 ---
 title: "It Could Happen Here - Antiwork Part 1: The Great Resignation"
-date: 2023-01-07 22:55:12
-lastmod: 2023-11-05 01:09:29
+date: 2023-01-08T05:55:12Z
+lastmod: 2023-11-05T07:09:29Z
 categories: ['podcast', 'It Could Happen Here']
 draft: false
 ---

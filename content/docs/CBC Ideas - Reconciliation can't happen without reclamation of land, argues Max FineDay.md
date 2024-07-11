@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Reconciliation can't happen without reclamation of land, argues Max FineDay"
-date: 2023-01-07 22:54:23
-lastmod: 2023-09-04 19:05:09
+date: 2023-01-08T05:54:23Z
+lastmod: 2023-09-05T01:05:09Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Greek Yogurt (Instant Pot)"
-date: 2018-12-23 14:30:25
-lastmod: 2022-07-17 11:15:47
+date: 2018-12-23T21:30:25Z
+lastmod: 2022-07-17T17:15:47Z
 categories: ['recipe']
 draft: false
 ---

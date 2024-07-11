@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 98 - Professional Agile Leadership With Empiricism, Catalytic Leadership, and Self-Management for Agility - Kurt Bittner"
-date: 2023-01-07 22:55:01
-lastmod: 2024-04-21 22:12:48
+date: 2023-01-08T05:55:01Z
+lastmod: 2024-04-22T04:12:48Z
 categories: ['podcast', 'tech lead journal']
 draft: false
 ---

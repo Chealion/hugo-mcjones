@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Quirks and Quarks - Summary"
-date: 2023-09-01 23:25:09
-lastmod: 2023-09-01 23:25:55
+date: 2023-09-02T05:25:09Z
+lastmod: 2023-09-02T05:25:55Z
 categories: ['podcast', 'CBC Quirks and Quarks']
 draft: false
 ---

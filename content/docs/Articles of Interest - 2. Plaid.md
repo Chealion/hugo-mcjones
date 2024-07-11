@@ -1,8 +1,8 @@
 
 ---
 title: "Articles of Interest - 2. Plaid"
-date: 2023-01-07 22:54:53
-lastmod: 2023-09-03 23:10:36
+date: 2023-01-08T05:54:53Z
+lastmod: 2023-09-04T05:10:36Z
 categories: ['podcast', 'articles of interest']
 draft: false
 ---

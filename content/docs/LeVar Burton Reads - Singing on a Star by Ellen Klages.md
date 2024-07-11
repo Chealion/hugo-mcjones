@@ -1,8 +1,8 @@
 
 ---
 title: "LeVar Burton Reads - Singing on a Star by Ellen Klages"
-date: 2023-01-07 22:55:08
-lastmod: 2023-11-05 01:05:36
+date: 2023-01-08T05:55:08Z
+lastmod: 2023-11-05T07:05:36Z
 categories: ['podcast', 'LeVar Burton Reads']
 draft: false
 ---

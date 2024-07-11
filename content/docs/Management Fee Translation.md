@@ -1,8 +1,8 @@
 
 ---
 title: "Management Fee Translation"
-date: 2024-02-26 18:45:06
-lastmod: 2024-02-26 18:51:55
+date: 2024-02-27T01:45:06Z
+lastmod: 2024-02-27T01:51:55Z
 categories: ['management-fees', 'finance']
 draft: false
 ---

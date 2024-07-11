@@ -1,8 +1,8 @@
 
 ---
 title: "Governor Francis Sargent"
-date: 2024-04-17 19:41:40
-lastmod: 2024-04-17 19:44:40
+date: 2024-04-18T01:41:40Z
+lastmod: 2024-04-18T01:44:40Z
 categories: ['quotes']
 draft: false
 ---

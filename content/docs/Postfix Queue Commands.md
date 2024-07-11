@@ -1,8 +1,8 @@
 
 ---
 title: "Postfix Queue Commands"
-date: 2024-02-24 20:30:04
-lastmod: 2024-02-24 20:31:13
+date: 2024-02-25T03:30:04Z
+lastmod: 2024-02-25T03:31:13Z
 categories: ['postfix', 'snippet']
 draft: false
 ---

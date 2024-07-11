@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Global Trumpism -  Bailouts, Brexit and battling climate change"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:07:24
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:07:24Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

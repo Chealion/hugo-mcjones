@@ -1,8 +1,8 @@
 
 ---
 title: "Performance Mantras"
-date: 2023-05-31 11:23:05
-lastmod: 2023-05-31 11:24:06
+date: 2023-05-31T17:23:05Z
+lastmod: 2023-05-31T17:24:06Z
 categories: ['performance']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - The Politics of Statues"
-date: 2023-01-07 22:54:36
-lastmod: 2023-07-23 23:05:01
+date: 2023-01-08T05:54:36Z
+lastmod: 2023-07-24T05:05:01Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

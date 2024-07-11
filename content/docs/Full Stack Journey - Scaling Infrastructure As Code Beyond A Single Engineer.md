@@ -1,8 +1,8 @@
 
 ---
 title: "Full Stack Journey - Scaling Infrastructure As Code Beyond A Single Engineer"
-date: 2023-01-07 22:54:33
-lastmod: 2023-09-04 19:45:31
+date: 2023-01-08T05:54:33Z
+lastmod: 2023-09-05T01:45:31Z
 categories: ['podcast', 'Full Stack Journey']
 draft: false
 ---

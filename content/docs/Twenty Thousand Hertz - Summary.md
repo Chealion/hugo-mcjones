@@ -1,8 +1,8 @@
 
 ---
 title: "Twenty Thousand Hertz - Summary"
-date: 2023-09-03 22:58:05
-lastmod: 2023-09-03 22:59:04
+date: 2023-09-04T04:58:05Z
+lastmod: 2023-09-04T04:59:04Z
 categories: ['podcast', 'Twenty Thousand Hertz']
 draft: false
 ---

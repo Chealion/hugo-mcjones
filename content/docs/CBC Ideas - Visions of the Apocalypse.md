@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Visions of the Apocalypse"
-date: 2023-01-07 22:54:21
-lastmod: 2023-09-04 19:20:21
+date: 2023-01-08T05:54:21Z
+lastmod: 2023-09-05T01:20:21Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

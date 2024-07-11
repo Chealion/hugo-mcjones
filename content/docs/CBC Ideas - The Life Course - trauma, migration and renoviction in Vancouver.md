@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The Life Course - trauma, migration and renoviction in Vancouver"
-date: 2023-01-07 22:54:25
-lastmod: 2023-09-04 18:56:25
+date: 2023-01-08T05:54:25Z
+lastmod: 2023-09-05T00:56:25Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

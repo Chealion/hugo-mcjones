@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 29 - A Guide to Technical Writing and Content Creation - Helen Scott"
-date: 2023-01-07 22:55:01
-lastmod: 2024-04-21 22:12:34
+date: 2023-01-08T05:55:01Z
+lastmod: 2024-04-22T04:12:34Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

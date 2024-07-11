@@ -1,8 +1,8 @@
 
 ---
 title: "Walkcast - 9 - Failure: How one family has lost faith with Edmonton's Vision Zero campaign"
-date: 2023-01-07 22:54:33
-lastmod: 2023-11-05 01:01:57
+date: 2023-01-08T05:54:33Z
+lastmod: 2023-11-05T07:01:57Z
 categories: ['podcast', 'walkcast']
 draft: false
 ---

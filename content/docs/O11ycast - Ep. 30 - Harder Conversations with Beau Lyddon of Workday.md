@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 30 - Harder Conversations with Beau Lyddon of Workday"
-date: 2023-01-07 22:55:06
-lastmod: 2024-04-11 22:43:08
+date: 2023-01-08T05:55:06Z
+lastmod: 2024-04-12T04:43:08Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

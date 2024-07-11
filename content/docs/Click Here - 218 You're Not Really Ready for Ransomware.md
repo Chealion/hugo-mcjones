@@ -1,8 +1,8 @@
 
 ---
 title: "Click Here - 218 You're Not Really Ready for Ransomware"
-date: 2023-01-07 22:55:03
-lastmod: 2023-09-04 19:35:22
+date: 2023-01-08T05:55:03Z
+lastmod: 2023-09-05T01:35:22Z
 categories: ['podcast', 'Click Here']
 draft: false
 ---

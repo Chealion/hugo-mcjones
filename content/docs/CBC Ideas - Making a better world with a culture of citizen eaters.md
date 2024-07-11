@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Making a better world with a culture of citizen eaters"
-date: 2023-01-07 22:54:25
-lastmod: 2023-07-23 23:45:18
+date: 2023-01-08T05:54:25Z
+lastmod: 2023-07-24T05:45:18Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Does the deep state exist?"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:05:29
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:05:29Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

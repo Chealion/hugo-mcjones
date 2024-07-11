@@ -1,8 +1,8 @@
 
 ---
 title: "systemd and DNS"
-date: 2023-07-30 22:21:54
-lastmod: 2023-07-30 23:14:17
+date: 2023-07-31T04:21:54Z
+lastmod: 2023-07-31T05:14:17Z
 categories: ['systemd', 'snippet']
 draft: false
 ---

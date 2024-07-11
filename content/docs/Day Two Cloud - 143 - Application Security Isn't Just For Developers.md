@@ -1,8 +1,8 @@
 
 ---
 title: "Day Two Cloud - 143 - Application Security Isn't Just For Developers"
-date: 2023-01-07 22:54:34
-lastmod: 2024-04-20 14:42:29
+date: 2023-01-08T05:54:34Z
+lastmod: 2024-04-20T20:42:29Z
 categories: ['podcast', 'day two cloud', 'packet pushers']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Dialogue City - 009 - Kelly Dowdell and Communication"
-date: 2023-01-07 22:54:40
-lastmod: 2023-09-13 09:37:54
+date: 2023-01-08T05:54:40Z
+lastmod: 2023-09-13T15:37:54Z
 categories: ['podcast', 'dialogue-city']
 draft: false
 ---

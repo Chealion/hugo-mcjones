@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Injustice For All, Part One and Two"
-date: 2023-10-08 13:29:36
-lastmod: 2024-04-02 00:01:32
+date: 2023-10-08T19:29:36Z
+lastmod: 2024-04-02T06:01:32Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

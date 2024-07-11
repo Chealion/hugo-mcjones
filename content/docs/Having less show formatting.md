@@ -1,8 +1,8 @@
 
 ---
 title: "Having less show formatting"
-date: 2023-11-29 16:52:35
-lastmod: 2023-11-29 16:53:29
+date: 2023-11-29T23:52:35Z
+lastmod: 2023-11-29T23:53:29Z
 categories: ['linux', 'snippet']
 draft: false
 ---

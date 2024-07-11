@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Strategy - 020 - Are Operational and Technical Debt Complementary?"
-date: 2023-01-07 22:55:02
-lastmod: 2024-04-02 00:01:46
+date: 2023-01-08T05:55:02Z
+lastmod: 2024-04-02T06:01:46Z
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---

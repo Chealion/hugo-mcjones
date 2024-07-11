@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 25 - Reliability First with Amy Tobey of Blameless"
-date: 2023-01-07 22:55:06
-lastmod: 2024-04-11 22:50:21
+date: 2023-01-08T05:55:06Z
+lastmod: 2024-04-12T04:50:21Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

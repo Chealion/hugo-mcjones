@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - De Fiets Is Niets"
-date: 2023-09-09 11:41:27
-lastmod: 2024-04-02 00:01:08
+date: 2023-09-09T17:41:27Z
+lastmod: 2024-04-02T06:01:08Z
 categories: ['podcast']
 draft: false
 ---

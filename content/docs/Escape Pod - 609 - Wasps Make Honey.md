@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 609 - Wasps Make Honey"
-date: 2023-01-08 00:54:31
-lastmod: 2024-07-10 19:47:25
+date: 2023-01-08T05:54:31Z
+lastmod: 2024-07-10T23:47:25Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

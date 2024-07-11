@@ -1,8 +1,8 @@
 
 ---
 title: "Pre-Accident Investigation Podcast 456 - Waiting, Complexity, and People - A Greatest Hits Podcast"
-date: 2023-08-31 17:16:39
-lastmod: 2023-09-04 20:03:18
+date: 2023-08-31T23:16:39Z
+lastmod: 2023-09-05T02:03:18Z
 categories: ['podcast', 'Pre']
 draft: false
 ---

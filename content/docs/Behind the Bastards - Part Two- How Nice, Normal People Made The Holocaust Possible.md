@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - Part Two: How Nice, Normal People Made The Holocaust Possible"
-date: 2023-01-07 22:55:10
-lastmod: 2023-09-04 18:33:04
+date: 2023-01-08T05:55:10Z
+lastmod: 2023-09-05T00:33:04Z
 categories: ['podcast', 'behind the bastards']
 draft: false
 ---

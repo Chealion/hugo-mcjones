@@ -1,8 +1,8 @@
 
 ---
 title: "sips"
-date: 2022-06-21 17:31:27
-lastmod: 2023-04-09 23:54:01
+date: 2022-06-21T23:31:27Z
+lastmod: 2023-04-10T05:54:01Z
 categories: ['macos']
 draft: false
 ---

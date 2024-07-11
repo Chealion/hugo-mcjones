@@ -1,8 +1,8 @@
 
 ---
 title: "Kale Chips"
-date: 2018-10-04 20:06:40
-lastmod: 2022-07-17 11:16:19
+date: 2018-10-05T02:06:40Z
+lastmod: 2022-07-17T17:16:19Z
 categories: ['recipe']
 draft: false
 ---

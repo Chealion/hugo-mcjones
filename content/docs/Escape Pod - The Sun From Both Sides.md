@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - The Sun From Both Sides"
-date: 2022-08-18 12:42:13
-lastmod: 2024-07-10 19:52:11
+date: 2022-08-18T16:42:13Z
+lastmod: 2024-07-10T23:52:11Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Instant Pot Air Fryer Notes"
-date: 2021-09-11 21:03:37
-lastmod: 2023-04-05 17:56:25
+date: 2021-09-12T03:03:37Z
+lastmod: 2023-04-05T23:56:25Z
 categories: ['recipe', 'instant-pot']
 draft: false
 ---

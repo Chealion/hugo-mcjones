@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for Japanese Style Iced Coffee"
-date: 2024-06-23 10:21:52
-lastmod: 2024-06-23 10:23:03
+date: 2024-06-23T16:21:52Z
+lastmod: 2024-06-23T16:23:03Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

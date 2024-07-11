@@ -1,8 +1,8 @@
 
 ---
 title: "Coffee Recipes"
-date: 2016-12-12 23:52:19
-lastmod: 2024-06-23 10:30:19
+date: 2016-12-13T06:52:19Z
+lastmod: 2024-06-23T19:42:44Z
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -23,13 +23,13 @@ Kone - 16
 Chemex - 20  
 Work Chemex - 24
 
-## [[Recipes for Japanese Style Iced Coffee]]
-## [[Recipes for Kone]]
-## [[Recipes for Chemex]]
-## [[Recipes for AeroPress]]
-## [[Recipes for V60]]
-## [[Recipes for Mugen]]
-## [[Recipes for Switch]]
+## [Recipes for Japanese Iced Coffee](https://mcjones.ca/docs/recipes-for-japanese-style-iced-coffee/)
+## [Recipes for Kone](https://mcjones.ca/docs/recipes-for-kone/)
+## [Recipes for Chemex](https://mcjones.ca/docs/recipes-for-chemex/)
+## [Recipes for AeroPress](https://mcjones.ca/docs/recipes-for-aeropress/)
+## [Recipes for V60](https://mcjones.ca/docs/recipes-for-v60/)
+## [Recipes for Mugen](https://mcjones.ca/docs/recipes-for-mugen/)
+## [Recipes for Switch](https://mcjones.ca/docs/recipes-for-switch/)
 ## Random Coffee Notes
 Beans are 28% by weight water soluble.
 

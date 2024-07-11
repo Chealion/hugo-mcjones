@@ -1,8 +1,8 @@
 
 ---
 title: "LeVar Burton Reads - Furry Night by Joan Aiken"
-date: 2023-01-07 22:55:09
-lastmod: 2023-11-05 01:06:05
+date: 2023-01-08T05:55:09Z
+lastmod: 2023-11-05T07:06:05Z
 categories: ['podcast', 'LeVar Burton Reads']
 draft: false
 ---

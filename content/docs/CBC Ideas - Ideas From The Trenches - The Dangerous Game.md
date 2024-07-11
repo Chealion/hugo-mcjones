@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Ideas From The Trenches - The Dangerous Game"
-date: 2017-01-04 19:00:49
-lastmod: 2023-09-04 19:13:20
+date: 2017-01-05T02:00:49Z
+lastmod: 2023-09-05T01:13:20Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

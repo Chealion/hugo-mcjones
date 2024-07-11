@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - In Defence of Democracy - Naheed Nenshi"
-date: 2023-05-01 16:56:54
-lastmod: 2023-09-04 19:12:16
+date: 2023-05-01T22:56:54Z
+lastmod: 2023-09-05T01:12:16Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

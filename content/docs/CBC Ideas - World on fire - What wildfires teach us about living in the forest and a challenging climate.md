@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - World on fire - What wildfires teach us about living in the forest and a challenging climate"
-date: 2023-01-07 22:54:25
-lastmod: 2023-09-04 18:57:19
+date: 2023-01-08T05:54:25Z
+lastmod: 2023-09-05T00:57:19Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

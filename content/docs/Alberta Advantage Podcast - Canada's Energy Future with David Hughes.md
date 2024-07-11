@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Canada's Energy Future with David Hughes"
-date: 2023-01-07 22:54:38
-lastmod: 2023-09-04 19:56:42
+date: 2023-01-08T05:54:38Z
+lastmod: 2023-09-05T01:56:42Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

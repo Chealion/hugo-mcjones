@@ -1,8 +1,8 @@
 
 ---
 title: "Evi Nemeth"
-date: 2022-06-14 20:30:31
-lastmod: 2023-01-06 20:56:12
+date: 2022-06-15T02:30:31Z
+lastmod: 2023-01-07T03:56:12Z
 categories: ['quotes', 'evi-nemeth']
 draft: false
 ---

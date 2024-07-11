@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - Why Kidnapping Conspiracy Theories Are Everywhere (Part One and Two)"
-date: 2024-01-21 16:38:12
-lastmod: 2024-04-17 22:11:57
+date: 2024-01-21T23:38:12Z
+lastmod: 2024-04-18T04:11:57Z
 categories: ['podcast', 'Behind the Bastards']
 draft: false
 ---

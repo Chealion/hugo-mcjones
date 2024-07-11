@@ -1,8 +1,8 @@
 
 ---
 title: "Sourdough"
-date: 2016-12-12 23:48:53
-lastmod: 2023-03-21 22:59:07
+date: 2016-12-13T06:48:53Z
+lastmod: 2023-03-22T04:59:07Z
 categories: ['recipe', 'bread']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "LeVar Burton Reads - A Fable with Slips of White Paper Spilling from the Pockets by Kevin Brockmeier"
-date: 2023-01-07 22:55:09
-lastmod: 2023-11-05 01:06:00
+date: 2023-01-08T05:55:09Z
+lastmod: 2023-11-05T07:06:00Z
 categories: ['draft', 'podcast', 'LeVar Burton Reads']
 draft: false
 ---

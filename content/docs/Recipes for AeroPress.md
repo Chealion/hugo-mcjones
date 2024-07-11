@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for AeroPress"
-date: 2024-06-23 10:24:20
-lastmod: 2024-06-23 11:27:55
+date: 2024-06-23T16:24:20Z
+lastmod: 2024-06-23T17:27:55Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

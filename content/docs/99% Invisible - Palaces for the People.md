@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - Palaces for the People"
-date: 2023-01-07 22:55:06
-lastmod: 2023-09-03 23:02:56
+date: 2023-01-08T05:55:06Z
+lastmod: 2023-09-04T05:02:56Z
 categories: ['podcast']
 draft: false
 ---

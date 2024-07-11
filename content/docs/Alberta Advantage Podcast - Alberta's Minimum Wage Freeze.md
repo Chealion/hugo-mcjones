@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Alberta's Minimum Wage Freeze"
-date: 2023-01-07 22:54:38
-lastmod: 2023-09-03 23:14:53
+date: 2023-01-08T05:54:38Z
+lastmod: 2023-09-04T05:14:53Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

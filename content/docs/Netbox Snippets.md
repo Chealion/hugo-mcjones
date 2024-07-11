@@ -1,8 +1,8 @@
 
 ---
 title: "Netbox Snippets"
-date: 2023-07-14 13:50:37
-lastmod: 2023-07-18 00:20:43
+date: 2023-07-14T19:50:37Z
+lastmod: 2023-07-18T06:20:43Z
 categories: ['snippet', 'netbox']
 draft: false
 ---

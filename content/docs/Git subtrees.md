@@ -1,8 +1,8 @@
 
 ---
 title: "Git subtrees"
-date: 2019-08-12 18:21:20
-lastmod: 2022-07-17 10:24:14
+date: 2019-08-13T00:21:20Z
+lastmod: 2022-07-17T16:24:14Z
 categories: ['git', 'snippet']
 draft: false
 ---

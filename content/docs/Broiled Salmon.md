@@ -1,8 +1,8 @@
 
 ---
 title: "Broiled Salmon"
-date: 2017-12-18 20:13:42
-lastmod: 2022-07-17 12:20:50
+date: 2017-12-19T03:13:42Z
+lastmod: 2022-07-17T18:20:50Z
 categories: ['recipe']
 draft: false
 ---

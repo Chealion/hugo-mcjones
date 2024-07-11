@@ -1,8 +1,8 @@
 
 ---
 title: "Jumping Around with Vim"
-date: 2023-10-26 23:13:20
-lastmod: 2023-10-26 23:17:05
+date: 2023-10-27T05:13:20Z
+lastmod: 2023-10-27T05:17:05Z
 categories: ['vim', 'snippet']
 draft: false
 ---

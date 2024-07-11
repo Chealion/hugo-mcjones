@@ -1,8 +1,8 @@
 
 ---
 title: "Pedestrian Infodump"
-date: 2022-03-10 08:36:51
-lastmod: 2022-08-10 21:36:28
+date: 2022-03-10T15:36:51Z
+lastmod: 2022-08-11T03:36:28Z
 categories: ['peddown']
 draft: false
 ---

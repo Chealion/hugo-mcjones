@@ -1,8 +1,8 @@
 
 ---
 title: "Bike Town Podcast - Doug the Bicycle Man"
-date: 2023-01-07 22:54:32
-lastmod: 2023-09-04 18:49:22
+date: 2023-01-08T05:54:32Z
+lastmod: 2023-09-05T00:49:22Z
 categories: ['podcast', 'bike town']
 draft: false
 ---

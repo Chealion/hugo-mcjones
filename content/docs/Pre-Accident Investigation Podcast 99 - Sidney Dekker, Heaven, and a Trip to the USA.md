@@ -1,8 +1,8 @@
 
 ---
 title: "Pre-Accident Investigation Podcast 99 - Sidney Dekker, Heaven, and a Trip to the USA"
-date: 2017-01-06 19:26:56
-lastmod: 2023-09-04 20:03:37
+date: 2017-01-07T02:26:56Z
+lastmod: 2023-09-05T02:03:37Z
 categories: ['podcast', 'Pre']
 draft: false
 ---

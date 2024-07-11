@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - How to Hire Engineers and Build Inclusive Teams with Dana Lawson from Netlify"
-date: 2023-01-07 22:55:04
-lastmod: 2023-09-04 19:43:58
+date: 2023-01-08T05:55:04Z
+lastmod: 2023-09-05T01:43:58Z
 categories: ['podcast', 'Developing Leadership']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "SQL on a CSV file using sqlite"
-date: 2022-06-21 10:15:19
-lastmod: 2022-07-17 10:43:14
+date: 2022-06-21T16:15:19Z
+lastmod: 2022-07-17T16:43:14Z
 categories: ['snippet', 'sqlite']
 draft: false
 ---

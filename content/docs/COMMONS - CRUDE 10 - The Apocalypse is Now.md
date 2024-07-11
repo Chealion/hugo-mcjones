@@ -1,8 +1,8 @@
 
 ---
 title: "COMMONS - CRUDE 10 - The Apocalypse is Now"
-date: 2023-01-07 22:55:12
-lastmod: 2023-09-04 19:33:26
+date: 2023-01-08T05:55:12Z
+lastmod: 2023-09-05T01:33:26Z
 categories: ['podcast', 'commons']
 draft: false
 ---

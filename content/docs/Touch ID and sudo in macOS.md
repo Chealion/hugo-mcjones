@@ -1,8 +1,8 @@
 
 ---
 title: "Touch ID and sudo in macOS"
-date: 2023-08-21 17:38:28
-lastmod: 2023-09-26 12:14:22
+date: 2023-08-21T23:38:28Z
+lastmod: 2023-09-26T18:14:22Z
 categories: ['macos', 'snippet', 'sudo', 'touchid']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "LeVar Burton Reads - LIVE in Brooklyn: Playing Nice with God's Bowling Ball by N.K. Jemisin"
-date: 2023-01-07 22:55:08
-lastmod: 2023-11-05 01:05:32
+date: 2023-01-08T05:55:08Z
+lastmod: 2023-11-05T07:05:32Z
 categories: ['podcast', 'LeVar Burton Reads']
 draft: false
 ---

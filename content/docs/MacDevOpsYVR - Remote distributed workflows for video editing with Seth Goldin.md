@@ -1,8 +1,8 @@
 
 ---
 title: "MacDevOpsYVR - Remote distributed workflows for video editing with Seth Goldin"
-date: 2023-01-18 09:52:59
-lastmod: 2024-04-01 23:49:28
+date: 2023-01-18T16:52:59Z
+lastmod: 2024-04-02T05:49:28Z
 categories: ['podcast', 'MacDevOpsYVR']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The Dark Side of Charisma: Molly Worthen"
-date: 2024-04-17 08:54:09
-lastmod: 2024-04-17 22:23:11
+date: 2024-04-17T14:54:09Z
+lastmod: 2024-04-18T04:23:11Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - How The First Police Went From Gangsters, To An Army For The Rich"
-date: 2023-01-07 22:55:11
-lastmod: 2023-09-04 18:39:21
+date: 2023-01-08T05:55:11Z
+lastmod: 2023-09-05T00:39:21Z
 categories: ['podcast', 'behind the bastards']
 draft: false
 ---

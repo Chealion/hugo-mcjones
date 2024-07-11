@@ -1,8 +1,8 @@
 
 ---
 title: "Using Llama2 with VS Code"
-date: 2023-08-29 22:08:02
-lastmod: 2023-08-30 17:07:47
+date: 2023-08-30T04:08:02Z
+lastmod: 2023-08-30T23:07:47Z
 categories: ['snippet', 'codellama']
 draft: false
 ---

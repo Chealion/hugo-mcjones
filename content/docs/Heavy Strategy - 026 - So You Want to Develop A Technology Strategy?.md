@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Strategy - 026 - So You Want to Develop A Technology Strategy?"
-date: 2022-10-13 21:14:36
-lastmod: 2023-11-04 22:30:48
+date: 2022-10-14T03:14:36Z
+lastmod: 2023-11-05T04:30:48Z
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The Long Conversation - Why public broadcasting is more crucial than ever"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:11:13
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:11:13Z
 categories: ['draft', 'podcast', 'CBC Ideas']
 draft: false
 ---

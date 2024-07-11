@@ -1,8 +1,8 @@
 
 ---
 title: "It Could Happen Here - Neoliberalism Part 4: This is What Democracy Looks Like"
-date: 2023-01-07 22:55:11
-lastmod: 2023-11-05 01:09:40
+date: 2023-01-08T05:55:11Z
+lastmod: 2023-11-05T07:09:40Z
 categories: ['podcast', 'It Could Happen Here']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "The Gray Area with Sean Illing - The new crisis of masculinity"
-date: 2024-02-11 13:33:58
-lastmod: 2024-02-13 09:11:35
+date: 2024-02-11T20:33:58Z
+lastmod: 2024-02-13T16:11:35Z
 categories: ['podcast', 'The Gray Area with Sean Illing']
 draft: false
 ---

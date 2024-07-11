@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - MINI-EP: Reading Mouseland"
-date: 2023-01-07 22:54:38
-lastmod: 2023-07-23 23:08:35
+date: 2023-01-08T05:54:38Z
+lastmod: 2023-07-24T05:08:35Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

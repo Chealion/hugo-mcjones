@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Summary"
-date: 2023-09-01 23:22:53
-lastmod: 2023-09-01 23:25:07
+date: 2023-09-02T05:22:53Z
+lastmod: 2023-09-02T05:25:07Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

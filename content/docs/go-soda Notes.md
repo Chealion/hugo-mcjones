@@ -1,8 +1,8 @@
 
 ---
 title: "go-soda Notes"
-date: 2023-02-16 22:44:32
-lastmod: 2023-02-16 23:43:20
+date: 2023-02-17T05:44:32Z
+lastmod: 2023-02-17T06:43:20Z
 categories: ['go-soda', 'golang']
 draft: false
 ---

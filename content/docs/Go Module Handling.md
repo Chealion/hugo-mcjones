@@ -1,8 +1,8 @@
 
 ---
 title: "Go Module Handling"
-date: 2023-02-17 00:01:58
-lastmod: 2023-02-21 19:34:39
+date: 2023-02-17T07:01:58Z
+lastmod: 2023-02-22T02:34:39Z
 categories: ['dev', 'golang']
 draft: false
 ---

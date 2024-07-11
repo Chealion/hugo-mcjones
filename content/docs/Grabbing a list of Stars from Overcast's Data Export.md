@@ -1,8 +1,8 @@
 
 ---
 title: "Grabbing a list of Stars from Overcast's Data Export"
-date: 2023-01-06 23:15:44
-lastmod: 2023-09-04 19:50:20
+date: 2023-01-07T06:15:44Z
+lastmod: 2023-09-05T01:50:20Z
 categories: ['python', 'bear-app', 'overcast']
 draft: false
 ---

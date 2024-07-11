@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Alberta's War on Rats"
-date: 2023-01-07 22:54:35
-lastmod: 2023-07-23 23:02:56
+date: 2023-01-08T05:54:35Z
+lastmod: 2023-07-24T05:02:56Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

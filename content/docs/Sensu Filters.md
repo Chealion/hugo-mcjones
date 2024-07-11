@@ -1,8 +1,8 @@
 
 ---
 title: "Sensu Filters"
-date: 2022-08-10 19:42:09
-lastmod: 2023-10-03 14:03:47
+date: 2022-08-11T01:42:09Z
+lastmod: 2023-10-03T20:03:47Z
 categories: ['sensu', 'puppet']
 draft: false
 ---

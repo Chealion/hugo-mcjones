@@ -1,8 +1,8 @@
 
 ---
 title: "tmux 3.3 and macOS command line editing issue"
-date: 2022-06-05 20:58:56
-lastmod: 2022-10-03 22:20:13
+date: 2022-06-06T02:58:56Z
+lastmod: 2022-10-04T04:20:13Z
 categories: ['tmux', 'macos']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Throughline - When Things Fall Apart"
-date: 2023-05-30 16:55:56
-lastmod: 2023-07-23 23:33:54
+date: 2023-05-30T22:55:56Z
+lastmod: 2023-07-24T05:33:54Z
 categories: ['podcast', 'throughline']
 draft: false
 ---

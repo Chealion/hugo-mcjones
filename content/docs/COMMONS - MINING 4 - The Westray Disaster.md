@@ -1,8 +1,8 @@
 
 ---
 title: "COMMONS - MINING 4 - The Westray Disaster"
-date: 2023-01-07 22:55:12
-lastmod: 2023-09-04 19:34:35
+date: 2023-01-08T05:55:12Z
+lastmod: 2023-09-05T01:34:35Z
 categories: ['podcast', 'commons']
 draft: false
 ---

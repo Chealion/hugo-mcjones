@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Networking - 631 - Saying No"
-date: 2022-09-11 13:58:57
-lastmod: 2023-07-23 22:00:44
+date: 2022-09-11T19:58:57Z
+lastmod: 2023-07-24T04:00:44Z
 categories: ['podcast', 'heavy networking']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Kill Chains"
-date: 2020-08-25 14:24:43
-lastmod: 2022-07-17 11:12:53
+date: 2020-08-25T20:24:43Z
+lastmod: 2022-07-17T17:12:53Z
 categories: ['security']
 draft: false
 ---

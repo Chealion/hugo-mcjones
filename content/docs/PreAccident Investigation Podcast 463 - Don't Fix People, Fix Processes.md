@@ -1,8 +1,8 @@
 
 ---
 title: "PreAccident Investigation Podcast 463 - Don't Fix People, Fix Processes"
-date: 2024-04-10 19:52:31
-lastmod: 2024-04-11 22:35:24
+date: 2024-04-11T01:52:31Z
+lastmod: 2024-04-12T04:35:24Z
 categories: ['podcast', 'PreAccident Investigation Podcast']
 draft: false
 ---

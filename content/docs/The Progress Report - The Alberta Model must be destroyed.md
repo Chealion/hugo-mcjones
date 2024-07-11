@@ -1,8 +1,8 @@
 
 ---
 title: "The Progress Report - The Alberta Model must be destroyed"
-date: 2023-05-29 11:57:11
-lastmod: 2023-07-23 23:34:37
+date: 2023-05-29T17:57:11Z
+lastmod: 2023-07-24T05:34:37Z
 categories: ['podcast', 'the progress report']
 draft: false
 ---

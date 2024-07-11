@@ -1,8 +1,8 @@
 
 ---
 title: "Getting There - Ep 7, The March 2023 Datadog Outage with Laura de Vesine"
-date: 2023-12-12 08:39:53
-lastmod: 2024-04-21 22:13:16
+date: 2023-12-12T15:39:53Z
+lastmod: 2024-04-22T04:13:16Z
 categories: ['podcast', 'Getting There']
 draft: false
 ---

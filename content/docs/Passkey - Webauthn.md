@@ -1,8 +1,8 @@
 
 ---
 title: "Passkey / Webauthn"
-date: 2022-06-08 12:20:44
-lastmod: 2022-10-03 22:19:16
+date: 2022-06-08T18:20:44Z
+lastmod: 2022-10-04T04:19:16Z
 categories: ['webauthn']
 draft: false
 ---

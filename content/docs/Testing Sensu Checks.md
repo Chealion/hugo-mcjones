@@ -1,8 +1,8 @@
 
 ---
 title: "Testing Sensu Checks"
-date: 2020-04-01 15:02:59
-lastmod: 2023-10-03 14:46:51
+date: 2020-04-01T21:02:59Z
+lastmod: 2023-10-03T20:46:51Z
 categories: ['sensu']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage - Summary"
-date: 2023-09-01 22:59:44
-lastmod: 2023-09-01 23:03:08
+date: 2023-09-02T04:59:44Z
+lastmod: 2023-09-02T05:03:08Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

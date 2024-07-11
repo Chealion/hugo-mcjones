@@ -1,8 +1,8 @@
 
 ---
 title: "Addigy and Launchd"
-date: 2024-02-12 16:24:22
-lastmod: 2024-02-12 17:14:41
+date: 2024-02-12T23:24:22Z
+lastmod: 2024-02-13T00:14:41Z
 categories: ['addigy', 'snippet', 'launchd']
 draft: false
 ---

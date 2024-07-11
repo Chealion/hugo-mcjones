@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for Chemex"
-date: 2024-06-23 10:23:15
-lastmod: 2024-06-23 10:23:38
+date: 2024-06-23T16:23:15Z
+lastmod: 2024-06-23T16:23:38Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

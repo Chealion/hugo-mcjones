@@ -1,8 +1,8 @@
 
 ---
 title: "The Messy City Podcast - Ali Quinlan will leave you with no excuses"
-date: 2023-06-28 19:27:47
-lastmod: 2023-07-23 23:36:05
+date: 2023-06-29T01:27:47Z
+lastmod: 2023-07-24T05:36:05Z
 categories: ['podcast', 'housing', 'the messy city']
 draft: false
 ---

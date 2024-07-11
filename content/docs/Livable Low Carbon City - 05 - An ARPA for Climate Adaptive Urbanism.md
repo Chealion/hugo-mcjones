@@ -1,8 +1,8 @@
 
 ---
 title: "Livable Low Carbon City - 05 - An ARPA for Climate Adaptive Urbanism"
-date: 2023-03-02 08:46:10
-lastmod: 2023-07-23 23:24:34
+date: 2023-03-02T15:46:10Z
+lastmod: 2023-07-24T05:24:34Z
 categories: ['podcast', 'Livable Low Carbon City']
 draft: false
 ---

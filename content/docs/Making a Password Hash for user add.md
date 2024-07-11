@@ -1,8 +1,8 @@
 
 ---
 title: "Making a Password Hash for user add"
-date: 2023-08-08 12:08:49
-lastmod: 2023-08-08 12:16:59
+date: 2023-08-08T18:08:49Z
+lastmod: 2023-08-08T18:16:59Z
 categories: ['snippet']
 draft: false
 ---

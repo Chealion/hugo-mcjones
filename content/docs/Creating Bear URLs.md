@@ -1,8 +1,8 @@
 
 ---
 title: "Creating Bear URLs"
-date: 2022-10-13 11:51:33
-lastmod: 2023-01-29 21:32:33
+date: 2022-10-13T17:51:33Z
+lastmod: 2023-01-30T04:32:33Z
 categories: ['bear-app']
 draft: false
 ---

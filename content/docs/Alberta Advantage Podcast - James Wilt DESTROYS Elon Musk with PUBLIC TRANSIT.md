@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - James Wilt DESTROYS Elon Musk with PUBLIC TRANSIT"
-date: 2023-01-07 22:54:37
-lastmod: 2023-07-23 23:22:34
+date: 2023-01-08T05:54:37Z
+lastmod: 2023-07-24T05:22:34Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

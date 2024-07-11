@@ -1,8 +1,8 @@
 
 ---
 title: "Twenty Thousand Hertz - Dining on Decibels"
-date: 2023-01-07 22:54:33
-lastmod: 2023-07-23 23:50:11
+date: 2023-01-08T05:54:33Z
+lastmod: 2023-07-24T05:50:11Z
 categories: ['podcast', 'Twenty Thousand Hertz']
 draft: false
 ---

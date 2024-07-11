@@ -1,8 +1,8 @@
 
 ---
 title: "Colour Code - First Comes Love"
-date: 2023-01-07 22:55:04
-lastmod: 2023-09-04 19:35:55
+date: 2023-01-08T05:55:04Z
+lastmod: 2023-09-05T01:35:55Z
 categories: ['podcast', 'Colour Code']
 draft: false
 ---

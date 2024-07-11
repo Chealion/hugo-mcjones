@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 607 - Red in Tooth and Cog"
-date: 2023-01-08 00:54:31
-lastmod: 2024-07-10 19:45:44
+date: 2023-01-08T05:54:31Z
+lastmod: 2024-07-10T23:45:44Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

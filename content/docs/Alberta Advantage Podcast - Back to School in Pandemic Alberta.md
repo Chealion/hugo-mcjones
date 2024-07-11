@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Back to School in Pandemic Alberta"
-date: 2023-01-07 22:54:36
-lastmod: 2023-07-23 23:01:21
+date: 2023-01-08T05:54:36Z
+lastmod: 2023-07-24T05:01:21Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

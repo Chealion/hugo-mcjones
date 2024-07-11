@@ -1,8 +1,8 @@
 
 ---
 title: "Man-Tou (not Manto)"
-date: 2016-12-12 23:52:19
-lastmod: 2022-07-17 12:09:06
+date: 2016-12-13T06:52:19Z
+lastmod: 2022-07-17T18:09:06Z
 categories: ['bread', 'recipe']
 draft: false
 ---

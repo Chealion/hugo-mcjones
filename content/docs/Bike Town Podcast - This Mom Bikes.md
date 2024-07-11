@@ -1,8 +1,8 @@
 
 ---
 title: "Bike Town Podcast - This Mom Bikes"
-date: 2023-01-07 22:54:32
-lastmod: 2023-09-04 18:49:38
+date: 2023-01-08T05:54:32Z
+lastmod: 2023-09-05T00:49:38Z
 categories: ['podcast', 'bike town']
 draft: false
 ---

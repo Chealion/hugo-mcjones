@@ -1,8 +1,8 @@
 
 ---
 title: "Curbing Traffic"
-date: 2021-08-22 10:14:40
-lastmod: 2022-07-17 11:02:51
+date: 2021-08-22T16:14:40Z
+lastmod: 2022-07-17T17:02:51Z
 categories: ['book', 'urbanism']
 draft: false
 ---

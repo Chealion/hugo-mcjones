@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 33 - Information Accessibility with Katy Farmer of CircleCI"
-date: 2023-01-07 22:55:06
-lastmod: 2024-04-11 22:43:20
+date: 2023-01-08T05:55:06Z
+lastmod: 2024-04-12T04:43:20Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 24 - Beyond Code with Heidi Waterhouse of LaunchDarkly"
-date: 2023-01-07 22:55:07
-lastmod: 2024-04-11 22:42:40
+date: 2023-01-08T05:55:07Z
+lastmod: 2024-04-12T04:42:40Z
 categories: ['podcast', 'o11ycast']
 draft: false
 ---

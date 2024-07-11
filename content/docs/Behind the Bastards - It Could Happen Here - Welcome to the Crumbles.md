@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - It Could Happen Here - Welcome to the Crumbles"
-date: 2023-01-07 22:55:10
-lastmod: 2023-09-04 18:33:48
+date: 2023-01-08T05:55:10Z
+lastmod: 2023-09-05T00:33:48Z
 categories: ['podcast', 'behind the bastards']
 draft: false
 ---

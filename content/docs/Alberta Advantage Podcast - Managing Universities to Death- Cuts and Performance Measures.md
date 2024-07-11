@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Managing Universities to Death: Cuts and Performance Measures"
-date: 2023-01-07 22:54:37
-lastmod: 2023-09-03 23:14:33
+date: 2023-01-08T05:54:37Z
+lastmod: 2023-09-04T05:14:33Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

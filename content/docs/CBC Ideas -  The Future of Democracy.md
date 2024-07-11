@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas -  The Future of Democracy"
-date: 2022-10-28 15:41:47
-lastmod: 2023-07-23 22:02:08
+date: 2022-10-28T21:41:47Z
+lastmod: 2023-07-24T04:02:08Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

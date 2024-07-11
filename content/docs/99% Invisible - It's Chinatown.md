@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - It's Chinatown"
-date: 2023-01-07 22:55:06
-lastmod: 2023-09-03 23:03:04
+date: 2023-01-08T05:55:06Z
+lastmod: 2023-09-04T05:03:04Z
 categories: ['podcast']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 683 - Flash Crash"
-date: 2023-01-08 00:54:29
-lastmod: 2024-07-10 19:42:02
+date: 2023-01-08T05:54:29Z
+lastmod: 2024-07-10T23:42:02Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

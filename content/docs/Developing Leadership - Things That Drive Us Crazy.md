@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - Things That Drive Us Crazy"
-date: 2022-07-30 15:17:23
-lastmod: 2023-07-23 21:59:34
+date: 2022-07-30T21:17:23Z
+lastmod: 2023-07-24T03:59:34Z
 categories: ['podcast', 'developing leadership']
 draft: false
 ---

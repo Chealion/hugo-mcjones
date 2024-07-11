@@ -1,8 +1,8 @@
 
 ---
 title: "O11ycast - Ep. 59 - Learning From Incidents with Laura Maguire of Jeli"
-date: 2023-09-24 11:19:57
-lastmod: 2024-04-11 22:43:35
+date: 2023-09-24T17:19:57Z
+lastmod: 2024-04-12T04:43:35Z
 categories: ['podcast', 'O11ycast', 'O11ycast']
 draft: false
 ---

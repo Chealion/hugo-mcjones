@@ -1,8 +1,8 @@
 
 ---
 title: "99% Invisible - Invisible Women"
-date: 2023-01-07 22:55:05
-lastmod: 2023-09-03 23:04:43
+date: 2023-01-08T05:55:05Z
+lastmod: 2023-09-04T05:04:43Z
 categories: ['podcast']
 draft: false
 ---

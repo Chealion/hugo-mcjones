@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Getting Past Polarization with Anand Giridharadas"
-date: 2023-04-13 22:12:33
-lastmod: 2023-07-23 23:27:48
+date: 2023-04-14T04:12:33Z
+lastmod: 2023-07-24T05:27:48Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for Kone"
-date: 2024-06-23 10:22:24
-lastmod: 2024-06-23 11:27:12
+date: 2024-06-23T16:22:24Z
+lastmod: 2024-06-23T17:27:12Z
 categories: ['recipe', 'coffee']
 draft: false
 ---

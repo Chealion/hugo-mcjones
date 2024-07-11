@@ -1,8 +1,8 @@
 
 ---
 title: "Energy vs Climate - Transition in Alberta from The Energy Transition Show with Chris Nelder"
-date: 2023-01-08 18:49:37
-lastmod: 2023-09-04 19:44:56
+date: 2023-01-09T01:49:37Z
+lastmod: 2023-09-05T01:44:56Z
 categories: ['podcast', 'energy vs climate']
 draft: false
 ---

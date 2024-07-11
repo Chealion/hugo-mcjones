@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Strategy - 012 - Professional Development in Infrastructure Technology"
-date: 2022-08-31 17:31:39
-lastmod: 2023-07-23 22:00:29
+date: 2022-08-31T23:31:39Z
+lastmod: 2023-07-24T04:00:29Z
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "It Could Happen Here - An Interview with Author Cory Doctorow"
-date: 2023-01-07 22:55:11
-lastmod: 2023-11-05 01:09:56
+date: 2023-01-08T05:55:11Z
+lastmod: 2023-11-05T07:09:56Z
 categories: ['podcast', 'It Could Happen Here']
 draft: false
 ---

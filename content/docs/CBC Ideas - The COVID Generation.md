@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The COVID Generation"
-date: 2023-01-07 22:54:21
-lastmod: 2023-09-04 19:17:44
+date: 2023-01-08T05:54:21Z
+lastmod: 2023-09-05T01:17:44Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

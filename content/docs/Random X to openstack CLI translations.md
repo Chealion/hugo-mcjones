@@ -1,8 +1,8 @@
 
 ---
 title: "Random X to openstack CLI translations"
-date: 2018-02-07 11:46:34
-lastmod: 2024-04-17 23:13:13
+date: 2018-02-07T18:46:34Z
+lastmod: 2024-04-18T05:13:13Z
 categories: ['snippet', 'openstack']
 draft: false
 ---

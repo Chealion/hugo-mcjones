@@ -1,8 +1,8 @@
 
 ---
 title: "Dialogue City - 006 - Helen Pike and Jeremy Klaszus on Journalism"
-date: 2023-01-07 22:54:40
-lastmod: 2023-09-13 09:37:41
+date: 2023-01-08T05:54:40Z
+lastmod: 2023-09-13T15:37:41Z
 categories: ['podcast', 'dialogue-city']
 draft: false
 ---

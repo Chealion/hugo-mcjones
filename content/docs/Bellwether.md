@@ -1,8 +1,8 @@
 
 ---
 title: "Bellwether"
-date: 2023-01-09 18:57:07
-lastmod: 2023-09-01 22:52:00
+date: 2023-01-10T01:57:07Z
+lastmod: 2023-09-02T04:52:00Z
 categories: ['podcast', 'bellwether']
 draft: false
 ---

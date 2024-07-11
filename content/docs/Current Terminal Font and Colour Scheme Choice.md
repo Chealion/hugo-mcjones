@@ -1,8 +1,8 @@
 
 ---
 title: "Current Terminal Font and Colour Scheme Choice"
-date: 2024-01-07 23:31:15
-lastmod: 2024-01-07 23:38:46
+date: 2024-01-08T06:31:15Z
+lastmod: 2024-07-10T03:00:55Z
 categories: []
 draft: false
 ---
@@ -18,6 +18,10 @@ iTerm: [Toasty](https://gist.github.com/april/d074d759be6738a086478dc822d5018c) 
 ## vim Colour Scheme
 [Toast](https://github.com/jsit/toast.vim/)
 Alternative: [Solarized Dark](https://github.com/altercation/vim-colors-solarized)
+
+## Bear
+D.Boring
+Ayu Mirage for dark mode
 
 <!-- #public -->
 

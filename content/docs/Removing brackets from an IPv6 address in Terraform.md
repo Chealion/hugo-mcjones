@@ -1,8 +1,8 @@
 
 ---
 title: "Removing brackets from an IPv6 address in Terraform"
-date: 2024-02-01 21:24:41
-lastmod: 2024-02-01 21:26:21
+date: 2024-02-02T04:24:41Z
+lastmod: 2024-02-02T04:26:21Z
 categories: ['terraform', 'snippet']
 draft: false
 ---

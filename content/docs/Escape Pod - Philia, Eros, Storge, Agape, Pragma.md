@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - Philia, Eros, Storge, Agape, Pragma"
-date: 2022-08-18 12:41:15
-lastmod: 2024-07-10 19:52:20
+date: 2022-08-18T16:41:15Z
+lastmod: 2024-07-10T23:52:20Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

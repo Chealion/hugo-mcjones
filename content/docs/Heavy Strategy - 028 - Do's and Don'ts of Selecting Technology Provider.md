@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Strategy - 028 - Do's and Don'ts of Selecting Technology Provider"
-date: 2022-11-11 13:31:55
-lastmod: 2023-07-23 22:02:51
+date: 2022-11-11T20:31:55Z
+lastmod: 2023-07-24T04:02:51Z
 categories: ['podcast', 'heavy strategy']
 draft: false
 ---

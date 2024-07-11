@@ -1,8 +1,8 @@
 
 ---
 title: "Beyond the Code - Company Values"
-date: 2022-05-25 22:42:51
-lastmod: 2022-07-17 12:00:10
+date: 2022-05-26T04:42:51Z
+lastmod: 2022-07-17T18:00:10Z
 categories: ['coaching']
 draft: false
 ---

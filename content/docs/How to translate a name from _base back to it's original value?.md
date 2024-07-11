@@ -1,8 +1,8 @@
 
 ---
 title: "How to translate a name from _base back to it's original value?"
-date: 2022-05-03 09:54:00
-lastmod: 2024-06-23 13:19:20
+date: 2022-05-03T15:54:00Z
+lastmod: 2024-06-23T19:19:20Z
 categories: ['openstack', 'nova']
 draft: false
 ---

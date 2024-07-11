@@ -1,8 +1,8 @@
 
 ---
 title: "COMMONS - CRUDE 7 - The Billionaire Plot to Destroy Alberta's Economy is Totally Real"
-date: 2023-01-07 22:55:13
-lastmod: 2023-09-04 19:33:04
+date: 2023-01-08T05:55:13Z
+lastmod: 2023-09-05T01:33:04Z
 categories: ['podcast', 'commons']
 draft: false
 ---

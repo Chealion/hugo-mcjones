@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 581 - That Game We Played During the War"
-date: 2023-01-08 00:54:32
-lastmod: 2024-07-10 19:46:26
+date: 2023-01-08T05:54:32Z
+lastmod: 2024-07-10T23:46:26Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

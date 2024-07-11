@@ -1,8 +1,8 @@
 
 ---
 title: "Developing Leadership - 25 - Reviving Engineering Teams and Overcoming the Fear of Shipping with Craig Kerstiens"
-date: 2022-11-29 09:28:55
-lastmod: 2023-07-23 23:36:36
+date: 2022-11-29T16:28:55Z
+lastmod: 2023-07-24T05:36:36Z
 categories: ['podcast', 'developing leadership']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - BBC Reith Lectures - Artificial Intelligence and Human Existence, Part One"
-date: 2023-01-07 22:54:21
-lastmod: 2023-09-04 19:18:50
+date: 2023-01-08T05:54:21Z
+lastmod: 2023-09-05T01:18:50Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

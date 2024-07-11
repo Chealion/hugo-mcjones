@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Writers on a mission - 3 high-stakes stories from award-winning authors"
-date: 2023-01-07 22:54:22
-lastmod: 2023-09-04 19:05:51
+date: 2023-01-08T05:54:22Z
+lastmod: 2023-09-05T01:05:51Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

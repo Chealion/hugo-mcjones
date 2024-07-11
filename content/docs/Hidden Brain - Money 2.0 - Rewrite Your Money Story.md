@@ -1,8 +1,8 @@
 
 ---
 title: "Hidden Brain - Money 2.0 - Rewrite Your Money Story"
-date: 2022-08-12 12:18:37
-lastmod: 2023-11-04 22:36:05
+date: 2022-08-12T18:18:37Z
+lastmod: 2023-11-05T04:36:05Z
 categories: ['podcast', 'hidden brain']
 draft: false
 ---

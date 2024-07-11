@@ -1,8 +1,8 @@
 
 ---
 title: "Heavy Networking - 568 - Effective Technical Communication"
-date: 2023-01-07 22:54:34
-lastmod: 2023-07-23 23:36:48
+date: 2023-01-08T05:54:34Z
+lastmod: 2023-07-24T05:36:48Z
 categories: ['podcast', 'heavy networking']
 draft: false
 ---

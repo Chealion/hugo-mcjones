@@ -1,8 +1,8 @@
 
 ---
 title: "Colour Code - Eggshells"
-date: 2023-01-07 22:55:03
-lastmod: 2023-09-04 19:35:47
+date: 2023-01-08T05:55:03Z
+lastmod: 2023-09-05T01:35:47Z
 categories: ['podcast', 'Colour Code']
 draft: false
 ---

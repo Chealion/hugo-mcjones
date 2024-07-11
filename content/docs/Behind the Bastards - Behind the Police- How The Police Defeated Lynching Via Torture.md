@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - Behind the Police: How The Police Defeated Lynching Via Torture"
-date: 2023-01-07 22:55:11
-lastmod: 2023-09-04 18:47:02
+date: 2023-01-08T05:55:11Z
+lastmod: 2023-09-05T00:47:02Z
 categories: ['draft', 'podcast', 'behind the bastards']
 draft: false
 ---

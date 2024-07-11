@@ -1,8 +1,8 @@
 
 ---
 title: "Mastodon Client Introduction"
-date: 2023-02-15 23:49:54
-lastmod: 2023-02-15 23:51:56
+date: 2023-02-16T06:49:54Z
+lastmod: 2023-02-16T06:51:56Z
 categories: ['mastodon', 'python', 'golang']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for V60"
-date: 2024-06-23 10:26:05
-lastmod: 2024-06-23 10:26:23
+date: 2024-06-23T16:26:05Z
+lastmod: 2024-06-23T16:26:23Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

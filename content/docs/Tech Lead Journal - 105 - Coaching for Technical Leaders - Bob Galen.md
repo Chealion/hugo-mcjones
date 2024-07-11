@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 105 - Coaching for Technical Leaders - Bob Galen"
-date: 2023-01-20 15:14:20
-lastmod: 2024-04-21 22:12:27
+date: 2023-01-20T22:14:20Z
+lastmod: 2024-04-22T04:12:27Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

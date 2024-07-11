@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Balance in Climate Change, Cursive Writing - Alberta's Curriculum Review"
-date: 2023-01-07 22:54:37
-lastmod: 2023-09-04 19:56:03
+date: 2023-01-08T05:54:37Z
+lastmod: 2023-09-05T01:56:03Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Ideas from the Trenches - The Conspiracy Practice"
-date: 2023-01-26 08:55:43
-lastmod: 2023-09-04 20:01:01
+date: 2023-01-26T15:55:43Z
+lastmod: 2023-09-05T02:01:01Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

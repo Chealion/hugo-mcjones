@@ -1,8 +1,8 @@
 
 ---
 title: "Migrate from Go get to Go Install"
-date: 2022-06-05 20:37:47
-lastmod: 2022-07-10 12:52:18
+date: 2022-06-06T02:37:47Z
+lastmod: 2022-07-10T18:52:18Z
 categories: ['golang']
 draft: false
 ---

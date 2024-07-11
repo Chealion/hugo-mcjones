@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 144 - Better Value Sooner Safer Happier - Jonathan Smart & Simon Rohrer"
-date: 2024-02-17 19:21:47
-lastmod: 2024-04-21 22:12:40
+date: 2024-02-18T02:21:47Z
+lastmod: 2024-04-22T04:12:40Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

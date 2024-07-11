@@ -1,8 +1,8 @@
 
 ---
 title: "Curtin Notes"
-date: 2023-07-15 21:58:42
-lastmod: 2023-07-15 23:32:37
+date: 2023-07-16T03:58:42Z
+lastmod: 2023-07-16T05:32:37Z
 categories: ['snippet', 'curtin']
 draft: false
 ---

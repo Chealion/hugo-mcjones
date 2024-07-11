@@ -1,8 +1,8 @@
 
 ---
 title: "Day Two Cloud - 214 - Preparing People, Teams, And Infrastructure For Automation"
-date: 2024-04-20 14:40:25
-lastmod: 2024-04-21 22:09:10
+date: 2024-04-20T20:40:25Z
+lastmod: 2024-04-22T04:09:10Z
 categories: ['podcast', 'day two cloud', 'packet pushers']
 draft: false
 ---

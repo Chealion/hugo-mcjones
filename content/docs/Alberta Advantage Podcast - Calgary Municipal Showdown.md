@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Calgary Municipal Showdown"
-date: 2023-01-07 22:54:39
-lastmod: 2023-09-03 23:15:24
+date: 2023-01-08T05:54:39Z
+lastmod: 2023-09-04T05:15:24Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

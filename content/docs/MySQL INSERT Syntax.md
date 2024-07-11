@@ -1,8 +1,8 @@
 
 ---
 title: "MySQL INSERT Syntax"
-date: 2023-04-14 11:05:13
-lastmod: 2023-04-14 11:05:54
+date: 2023-04-14T17:05:13Z
+lastmod: 2023-04-14T17:05:54Z
 categories: ['mysql', 'snippet']
 draft: false
 ---

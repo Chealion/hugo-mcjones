@@ -1,8 +1,8 @@
 
 ---
 title: "Python - Batteries included"
-date: 2023-06-30 22:50:15
-lastmod: 2023-07-03 23:15:59
+date: 2023-07-01T04:50:15Z
+lastmod: 2023-07-04T05:15:59Z
 categories: ['snippet', 'python']
 draft: false
 ---

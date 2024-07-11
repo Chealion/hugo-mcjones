@@ -1,8 +1,8 @@
 
 ---
 title: "Chrome - Save Webpage as PNG"
-date: 2021-07-26 23:34:23
-lastmod: 2022-07-17 11:03:58
+date: 2021-07-27T05:34:23Z
+lastmod: 2022-07-17T17:03:58Z
 categories: ['chrome']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Oddly Influenced - Resilience engineering with Lorin Hochstein"
-date: 2023-08-31 18:21:06
-lastmod: 2023-11-04 23:01:04
+date: 2023-09-01T00:21:06Z
+lastmod: 2023-11-05T05:01:04Z
 categories: ['podcast', 'Oddly Influcenced']
 draft: false
 ---

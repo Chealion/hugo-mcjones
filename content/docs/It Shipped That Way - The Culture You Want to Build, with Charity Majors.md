@@ -1,8 +1,8 @@
 
 ---
 title: "It Shipped That Way - The Culture You Want to Build, with Charity Majors"
-date: 2024-06-12 19:57:08
-lastmod: 2024-06-23 15:17:31
+date: 2024-06-12T23:57:08Z
+lastmod: 2024-06-23T19:17:31Z
 categories: ['podcast', 'It Shipped That Way']
 draft: false
 ---

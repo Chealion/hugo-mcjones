@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - The Authoritarian Personality"
-date: 2022-07-19 07:50:35
-lastmod: 2023-07-23 22:01:46
+date: 2022-07-19T13:50:35Z
+lastmod: 2023-07-24T04:01:46Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

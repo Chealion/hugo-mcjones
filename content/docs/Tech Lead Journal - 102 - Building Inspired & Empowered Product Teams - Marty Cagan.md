@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 102 - Building Inspired & Empowered Product Teams - Marty Cagan"
-date: 2022-12-10 12:23:24
-lastmod: 2023-07-23 22:27:28
+date: 2022-12-10T19:23:24Z
+lastmod: 2023-07-24T04:27:28Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

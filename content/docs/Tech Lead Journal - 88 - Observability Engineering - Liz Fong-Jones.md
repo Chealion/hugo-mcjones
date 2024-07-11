@@ -1,8 +1,8 @@
 
 ---
 title: "Tech Lead Journal - 88 - Observability Engineering - Liz Fong-Jones"
-date: 2022-08-27 16:37:46
-lastmod: 2024-04-21 22:12:43
+date: 2022-08-27T22:37:46Z
+lastmod: 2024-04-22T04:12:43Z
 categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---

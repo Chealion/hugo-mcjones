@@ -1,8 +1,8 @@
 
 ---
 title: "The Red Line - The Green Line Series"
-date: 2023-07-23 12:45:12
-lastmod: 2023-11-05 01:02:34
+date: 2023-07-23T18:45:12Z
+lastmod: 2023-11-05T07:02:34Z
 categories: ['podcast', 'the red line']
 draft: false
 ---

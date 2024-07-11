@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 746 - The 76 Goldwater Dime"
-date: 2023-01-08 00:54:28
-lastmod: 2024-07-10 19:49:04
+date: 2023-01-08T05:54:28Z
+lastmod: 2024-07-10T23:49:04Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

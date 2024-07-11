@@ -1,8 +1,8 @@
 
 ---
 title: "Instant Pot Pork Tenderloin Bah Ku Teh"
-date: 2021-10-31 20:24:18
-lastmod: 2023-01-06 20:56:31
+date: 2021-11-01T02:24:18Z
+lastmod: 2023-01-07T03:56:31Z
 categories: ['recipe', 'instant-pot']
 draft: false
 ---

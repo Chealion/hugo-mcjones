@@ -1,8 +1,8 @@
 
 ---
 title: "Ward Zero - Summary"
-date: 2023-09-03 22:55:30
-lastmod: 2023-09-03 22:56:35
+date: 2023-09-04T04:55:30Z
+lastmod: 2023-09-04T04:56:35Z
 categories: ['podcast', 'Ward Zero']
 draft: false
 ---

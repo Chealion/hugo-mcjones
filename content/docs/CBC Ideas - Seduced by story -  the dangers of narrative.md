@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Seduced by story -  the dangers of narrative"
-date: 2023-07-14 12:43:47
-lastmod: 2023-09-04 18:52:29
+date: 2023-07-14T18:43:47Z
+lastmod: 2023-09-05T00:52:29Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

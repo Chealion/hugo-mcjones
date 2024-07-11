@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 712 - When Robot and Crow Saved East St. Louis"
-date: 2023-01-08 00:54:28
-lastmod: 2024-07-10 19:53:07
+date: 2023-01-08T05:54:28Z
+lastmod: 2024-07-10T23:53:07Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

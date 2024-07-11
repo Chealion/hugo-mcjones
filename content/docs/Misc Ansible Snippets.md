@@ -1,8 +1,8 @@
 
 ---
 title: "Misc Ansible Snippets"
-date: 2024-02-01 21:26:22
-lastmod: 2024-02-01 21:32:09
+date: 2024-02-02T04:26:22Z
+lastmod: 2024-02-02T04:32:09Z
 categories: ['ansible', 'snippet']
 draft: false
 ---

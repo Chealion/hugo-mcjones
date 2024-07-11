@@ -1,8 +1,8 @@
 
 ---
 title: "Hidden Brain - Did I Really Do That?"
-date: 2023-02-26 08:48:55
-lastmod: 2023-07-23 23:24:05
+date: 2023-02-26T15:48:55Z
+lastmod: 2023-07-24T05:24:05Z
 categories: ['podcast', 'hidden brain']
 draft: false
 ---

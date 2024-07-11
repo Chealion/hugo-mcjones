@@ -1,8 +1,8 @@
 
 ---
 title: "Strong Towns - Summary"
-date: 2023-09-01 23:26:41
-lastmod: 2023-09-01 23:30:09
+date: 2023-09-02T05:26:41Z
+lastmod: 2023-09-02T05:30:09Z
 categories: ['podcast', 'strong towns']
 draft: false
 ---

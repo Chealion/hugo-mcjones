@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - 918 - Conference of the Birds"
-date: 2024-07-10 19:36:07
-lastmod: 2024-07-10 19:53:58
+date: 2024-07-10T23:36:07Z
+lastmod: 2024-07-10T23:53:58Z
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

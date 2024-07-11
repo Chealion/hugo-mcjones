@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Advantage Podcast - Corporate Subsidy Sponges and Handout Hogs"
-date: 2023-01-07 22:54:35
-lastmod: 2023-07-23 23:03:48
+date: 2023-01-08T05:54:35Z
+lastmod: 2023-07-24T05:03:48Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---

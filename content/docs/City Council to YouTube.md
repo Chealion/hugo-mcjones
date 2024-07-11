@@ -1,8 +1,8 @@
 
 ---
 title: "City Council to YouTube"
-date: 2024-04-17 13:16:02
-lastmod: 2024-05-02 22:21:15
+date: 2024-04-17T19:16:02Z
+lastmod: 2024-05-03T04:21:15Z
 categories: ['yyccc', 'ffmpeg', 'snippet', 'calgary']
 draft: false
 ---

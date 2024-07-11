@@ -1,8 +1,8 @@
 
 ---
 title: "Recipes for Mugen"
-date: 2024-06-23 10:27:33
-lastmod: 2024-06-23 11:25:05
+date: 2024-06-23T16:27:33Z
+lastmod: 2024-06-23T17:25:05Z
 categories: ['coffee', 'recipe']
 draft: false
 ---

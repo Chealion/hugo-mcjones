@@ -1,8 +1,8 @@
 
 ---
 title: "COMMONS - REAL ESTATE 4 - City of Glass"
-date: 2023-01-07 22:55:12
-lastmod: 2023-09-04 19:34:13
+date: 2023-01-08T05:55:12Z
+lastmod: 2023-09-05T01:34:13Z
 categories: ['podcast', 'commons']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - The Man Who Ruined New York"
-date: 2022-10-30 16:44:50
-lastmod: 2023-09-04 18:46:47
+date: 2022-10-30T22:44:50Z
+lastmod: 2023-09-05T00:46:47Z
 categories: ['podcast', 'Behind The Bastards']
 draft: false
 ---

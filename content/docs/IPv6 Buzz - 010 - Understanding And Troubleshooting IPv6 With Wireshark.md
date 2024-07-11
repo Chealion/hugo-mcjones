@@ -1,8 +1,8 @@
 
 ---
 title: "IPv6 Buzz - 010 - Understanding And Troubleshooting IPv6 With Wireshark"
-date: 2023-01-07 22:54:48
-lastmod: 2024-04-02 00:02:08
+date: 2023-01-08T05:54:48Z
+lastmod: 2024-04-02T06:02:08Z
 categories: ['podcast', 'IPv6 Buzz']
 draft: false
 ---

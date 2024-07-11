@@ -1,8 +1,8 @@
 
 ---
 title: "Containers"
-date: 2023-01-07 22:54:46
-lastmod: 2023-09-04 19:36:31
+date: 2023-01-08T05:54:46Z
+lastmod: 2023-09-05T01:36:31Z
 categories: ['podcast', 'containers']
 draft: false
 ---

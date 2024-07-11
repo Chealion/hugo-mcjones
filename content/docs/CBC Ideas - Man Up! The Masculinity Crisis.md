@@ -1,8 +1,8 @@
 
 ---
 title: "CBC Ideas - Man Up! The Masculinity Crisis"
-date: 2023-11-05 11:05:06
-lastmod: 2024-04-01 23:41:46
+date: 2023-11-05T18:05:06Z
+lastmod: 2024-04-02T05:41:46Z
 categories: ['podcast', 'CBC Ideas']
 draft: false
 ---

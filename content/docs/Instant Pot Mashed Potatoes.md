@@ -1,8 +1,8 @@
 
 ---
 title: "Instant Pot Mashed Potatoes"
-date: 2022-07-11 19:04:28
-lastmod: 2023-12-09 16:51:17
+date: 2022-07-12T01:04:28Z
+lastmod: 2023-12-09T23:51:17Z
 categories: ['recipe', 'instant-pot']
 draft: false
 ---

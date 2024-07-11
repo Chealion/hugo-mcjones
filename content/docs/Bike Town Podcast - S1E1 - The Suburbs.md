@@ -1,8 +1,8 @@
 
 ---
 title: "Bike Town Podcast - S1E1 - The Suburbs"
-date: 2023-01-07 22:54:33
-lastmod: 2023-07-23 23:49:29
+date: 2023-01-08T05:54:33Z
+lastmod: 2023-07-24T05:49:29Z
 categories: ['podcast', 'bike town']
 draft: false
 ---

@@ -1,8 +1,8 @@
 
 ---
 title: "It Shipped That Way - Coaching New Managers, with Tiffany Conroy"
-date: 2023-11-16 19:01:56
-lastmod: 2024-04-02 01:48:33
+date: 2023-11-17T00:01:56Z
+lastmod: 2024-04-02T05:48:33Z
 categories: ['podcast', 'It Shipped That Way']
 draft: false
 ---

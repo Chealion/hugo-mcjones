@@ -1,8 +1,8 @@
 
 ---
 title: "Behind the Bastards - Summary"
-date: 2023-09-01 22:56:17
-lastmod: 2023-09-01 22:57:21
+date: 2023-09-02T04:56:17Z
+lastmod: 2023-09-02T04:57:21Z
 categories: ['podcast', 'Behind The Bastards']
 draft: false
 ---

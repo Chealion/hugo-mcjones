@@ -1,8 +1,8 @@
 
 ---
 title: "SpamSieve and Exclude My Address Issue"
-date: 2023-08-31 12:10:42
-lastmod: 2023-08-31 12:15:21
+date: 2023-08-31T18:10:42Z
+lastmod: 2023-08-31T18:15:21Z
 categories: ['macos', 'spamsieve']
 draft: false
 ---

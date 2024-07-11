@@ -1,8 +1,8 @@
 
 ---
 title: "Volts - Charles Marohn on unsustainable suburbs"
-date: 2023-01-13 08:54:13
-lastmod: 2023-09-03 23:11:38
+date: 2023-01-13T15:54:13Z
+lastmod: 2023-09-04T05:11:38Z
 categories: ['podcast', 'volts', 'strong towns']
 draft: false
 ---

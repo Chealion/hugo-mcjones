@@ -1,8 +1,8 @@
 
 ---
 title: "Alberta Unbound - The Future of Food"
-date: 2023-05-02 17:35:52
-lastmod: 2023-09-03 23:09:36
+date: 2023-05-02T23:35:52Z
+lastmod: 2023-09-04T05:09:36Z
 categories: ['podcast', 'alberta unbound']
 draft: false
 ---

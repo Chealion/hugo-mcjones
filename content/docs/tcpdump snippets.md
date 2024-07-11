@@ -1,8 +1,8 @@
 
 ---
 title: "tcpdump snippets"
-date: 2023-03-13 11:53:11
-lastmod: 2023-07-11 10:56:17
+date: 2023-03-13T17:53:11Z
+lastmod: 2023-07-11T16:56:17Z
 categories: ['tcpdump', 'snippet']
 draft: false
 ---
