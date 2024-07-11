@@ -1,16 +1,15 @@
 
 ---
 title: "Escape Pod - Philia, Eros, Storge, Agape, Pragma"
-date: 2022-08-18 10:41:15
-lastmod: 2023-09-04 19:48:20
+date: 2022-08-18 12:41:15
+lastmod: 2024-07-10 19:52:20
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - Philia, Eros, Storge, Agape, Pragma
-
-## By R.S.A Garcia
+## By [R.S.A. Garcia](https://escapepod.org/people/r-s-a-garcia/)
 
 A companions novella to The From Both Sides exploring the Kairi. My biggest complaint about audio is that scene changes are a lot more subtle than in text.
 

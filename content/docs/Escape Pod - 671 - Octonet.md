@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 671 - Octonet"
-date: 2023-01-07 22:54:29
-lastmod: 2023-09-04 19:47:30
+date: 2023-01-08 00:54:29
+lastmod: 2024-07-10 19:51:03
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 671 - Octonet
+## By [Keyan Bowes](https://escapepod.org/people/keyan-bowes/)
 
 No notes recorded
 

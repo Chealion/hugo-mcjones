@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 635 - After Midnight at the ZapStop"
-date: 2023-01-07 22:54:31
-lastmod: 2023-07-23 23:37:39
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:42:28
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 635 - After Midnight at the ZapStop
+## By [Matthew Claxton](https://escapepod.org/people/matthew-claxton/)
 
 No notes recorded
 

@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 683 - Flash Crash"
-date: 2023-01-07 22:54:29
-lastmod: 2023-07-23 23:39:04
+date: 2023-01-08 00:54:29
+lastmod: 2024-07-10 19:42:02
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 683 - Flash Crash
+## By [Louis Evans](https://escapepod.org/people/louis-evans/)
 
 No notes recorded
 

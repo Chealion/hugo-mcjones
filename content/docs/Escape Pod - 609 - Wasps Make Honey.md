@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 609 - Wasps Make Honey"
-date: 2023-01-07 22:54:31
-lastmod: 2023-09-04 19:46:04
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:47:25
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 609 - Wasps Make Honey
+## By [Penelope Evans](https://escapepod.org/people/penelope-evans/)
 
 No notes recorded
 

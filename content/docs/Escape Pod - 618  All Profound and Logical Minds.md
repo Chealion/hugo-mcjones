@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 618  All Profound and Logical Minds"
-date: 2023-01-07 22:54:31
-lastmod: 2023-09-04 19:46:21
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:47:57
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 618  All Profound and Logical Minds
+## By [Bennett North](https://escapepod.org/people/bennett-north/)
 
 No Notes recorded
 

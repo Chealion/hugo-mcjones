@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 705-707 - Rule of Three"
-date: 2023-01-07 22:54:29
-lastmod: 2023-09-04 19:46:30
+date: 2023-01-08 00:54:29
+lastmod: 2024-07-10 19:48:13
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 705-707 - Rule of Three
+## By [Lawrence M. Schoen](https://escapepod.org/people/lawrence-m-schoen/)
 
 No notes recorded
 

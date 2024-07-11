@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 574 - Yosemite"
-date: 2023-01-07 22:54:32
-lastmod: 2023-07-23 23:48:12
+date: 2023-01-08 00:54:32
+lastmod: 2024-07-10 19:47:07
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 574 - Yosemite
+## By [D. S. McNab](https://escapepod.org/people/d-s-mcnab/)
 
 No notes recorded
 

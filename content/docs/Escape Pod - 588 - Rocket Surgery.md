@@ -1,16 +1,17 @@
 
 ---
 title: "Escape Pod - 588 - Rocket Surgery"
-date: 2023-01-07 22:54:31
-lastmod: 2023-07-23 23:47:13
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:50:44
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 588 - Rocket Surgery
+## By [Effie Seiberg](https://escapepod.org/people/effie-seiberg/)
 
-No notes recorded
+No notes recorded  (Also really enjoyed her story in episode 673)
 
 - - -
 ###### Escape Pod - Escape Pod 588: Rocket Surgery

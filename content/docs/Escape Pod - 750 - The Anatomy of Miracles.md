@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 750 - The Anatomy of Miracles"
-date: 2023-01-07 22:54:28
-lastmod: 2023-07-23 23:40:04
+date: 2023-01-08 00:54:28
+lastmod: 2024-07-10 19:42:51
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 750 - The Anatomy of Miracles
+## By [Filip Hajdar Drnovšek Zorko](https://escapepod.org/people/filip-hajdar-drnovsek-zorko/)
 
 No notes recorded
 

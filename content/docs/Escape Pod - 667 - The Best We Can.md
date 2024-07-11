@@ -1,16 +1,17 @@
 
 ---
 title: "Escape Pod - 667 - The Best We Can"
-date: 2023-01-07 22:54:30
-lastmod: 2023-07-23 23:38:29
+date: 2023-01-08 00:54:30
+lastmod: 2024-07-10 19:46:34
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 667 - The Best We Can
+## By [Carrie Vaughn](https://escapepod.org/people/carrie-vaughn/)
 
-No notes recorded
+No notes recorded (Also really enjoyed her story in episode 681)
 
 - - -
 ###### Escape Pod - Escape Pod 667: The Best We Can

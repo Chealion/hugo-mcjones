@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 666 - This Wine - Dark Feeling That Isn't The Blues"
-date: 2023-01-07 22:54:30
-lastmod: 2023-09-04 19:54:36
+date: 2023-01-08 00:54:30
+lastmod: 2024-07-10 19:52:33
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 666 - This Wine - Dark Feeling That Isn't The Blues
+## By [José Pablo Iriarte](https://escapepod.org/people/jose-pablo-iriarte/)
 
 No notes recorded
 

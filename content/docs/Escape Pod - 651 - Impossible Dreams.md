@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 651 - Impossible Dreams"
-date: 2023-01-07 22:54:30
-lastmod: 2023-09-04 19:48:08
+date: 2023-01-08 00:54:30
+lastmod: 2024-07-10 19:51:38
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 651 - Impossible Dreams
+## By [Tim Pratt](https://escapepod.org/people/tim-pratt/)
 
 No notes recorded
 

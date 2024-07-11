@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 686 - Real Artists"
-date: 2023-01-07 22:54:29
-lastmod: 2023-09-04 19:47:11
+date: 2023-01-08 00:54:29
+lastmod: 2024-07-10 19:49:30
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 686 - Real Artists
+## By [Ken Liu](https://escapepod.org/people/ken-liu/)
 
 No notes recorded
 

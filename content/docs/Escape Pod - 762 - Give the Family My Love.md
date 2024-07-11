@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 762 - Give the Family My Love"
-date: 2023-01-07 22:54:27
-lastmod: 2023-07-23 23:40:21
+date: 2023-01-08 00:54:27
+lastmod: 2024-07-10 19:43:12
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 762 - Give the Family My Love
+## By [A.T. Greenblatt](https://escapepod.org/people/a-t-greenblatt/)
 
 No notes recorded
 

@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 713 - More Tomorrow"
-date: 2023-01-07 22:54:28
-lastmod: 2023-07-23 23:39:22
+date: 2023-01-08 00:54:28
+lastmod: 2024-07-10 19:41:47
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 713 - More Tomorrow
+## By [Premee Mohamed](https://escapepod.org/people/premee-mohamed/)
 
 No notes recorded
 

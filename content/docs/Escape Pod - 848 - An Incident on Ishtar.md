@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 848 - An Incident on Ishtar"
-date: 2023-01-07 22:54:27
-lastmod: 2023-07-23 23:40:28
+date: 2023-01-08 00:54:27
+lastmod: 2024-07-10 19:43:30
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 848 - An Incident on Ishtar
+## By [Brian Trent](https://escapepod.org/people/brian-trent/)
 
 No notes recorded
 

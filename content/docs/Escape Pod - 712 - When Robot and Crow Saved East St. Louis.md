@@ -1,16 +1,17 @@
 
 ---
 title: "Escape Pod - 712 - When Robot and Crow Saved East St. Louis"
-date: 2023-01-07 22:54:28
-lastmod: 2024-04-01 23:33:58
+date: 2023-01-08 00:54:28
+lastmod: 2024-07-10 19:53:07
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 712 - When Robot and Crow Saved East St. Louis
+## By [Annalee Newitz](https://escapepod.org/people/annalee-newitz/)
 
-No notes recorded
+No notes recorded. This story pops back into my head EVERYTIME an annual robot is in a story.
 
 - - -
 ###### Escape Pod - Escape Pod 712: When Robot and Crow Saved East St. Louis

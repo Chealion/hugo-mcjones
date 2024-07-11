@@ -1,8 +1,8 @@
 
 ---
 title: "Escape Pod - Summary"
-date: 2023-09-01 23:24:01
-lastmod: 2023-09-01 23:24:01
+date: 2023-09-02 01:24:01
+lastmod: 2023-09-02 01:24:01
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---

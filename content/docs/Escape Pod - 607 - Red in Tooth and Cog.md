@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 607 - Red in Tooth and Cog"
-date: 2023-01-07 22:54:31
-lastmod: 2023-07-23 23:47:28
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:45:44
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 607 - Red in Tooth and Cog
+## By [Cat Rambo](https://escapepod.org/people/cat-rambo/)
 
 No notes recorded
 

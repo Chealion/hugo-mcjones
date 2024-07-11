@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 608 - Even the Queen"
-date: 2023-01-07 22:54:31
-lastmod: 2023-07-23 23:46:58
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:44:56
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 608 - Even the Queen
+## By [Connie Willis](https://escapepod.org/people/connie-willis/)
 
 No notes recorded
 

@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 658 - Beatrix Released"
-date: 2023-01-07 22:54:30
-lastmod: 2023-07-23 23:38:13
+date: 2023-01-08 00:54:30
+lastmod: 2024-07-10 19:42:19
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 658 - Beatrix Released
+## By [Shaenon K. Garrity](https://escapepod.org/people/shaenon-k-garrity/)
 
 No notes recorded
 

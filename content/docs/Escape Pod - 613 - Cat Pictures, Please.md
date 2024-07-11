@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 613 - Cat Pictures, Please"
-date: 2023-01-07 22:54:31
-lastmod: 2023-07-23 23:46:24
+date: 2023-01-08 00:54:31
+lastmod: 2024-07-10 19:44:42
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 613 - Cat Pictures, Please
+## By [Naomi Kritzer](https://escapepod.org/people/naomi-kritzer/)
 
 No notes recorded
 

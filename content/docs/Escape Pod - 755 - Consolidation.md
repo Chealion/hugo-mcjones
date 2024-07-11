@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 755 - Consolidation"
-date: 2023-01-07 22:54:28
-lastmod: 2023-07-23 23:40:12
+date: 2023-01-08 00:54:28
+lastmod: 2024-07-10 19:42:44
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 755 - Consolidation
+## By [Langley Hyde](https://escapepod.org/people/langley-hyde/)
 
 No notes recorded
 

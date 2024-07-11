@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 911 - Driftwood in the Sea of Time"
-date: 2024-05-12 10:54:24
-lastmod: 2024-06-23 13:29:28
+date: 2024-05-12 12:54:24
+lastmod: 2024-07-10 19:53:40
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 911 - Driftwood in the Sea of Time
+## By [Wendy Nikel](https://escapepod.org/people/wendy-nikel/)
 
 What is more human? The hubris that leads to time paradoxes, or the fact we can make community to make something more than ourselves?
 

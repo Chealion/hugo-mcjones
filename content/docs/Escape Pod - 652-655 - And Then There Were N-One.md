@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 652-655 - And Then There Were N-One"
-date: 2023-01-07 22:54:30
-lastmod: 2023-09-04 19:48:04
+date: 2023-01-08 00:54:30
+lastmod: 2024-07-10 19:51:16
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 652-655 - And Then There Were N-One
+## By [Sarah Pinsker](https://escapepod.org/people/sarah-pinsker/)
 
 No notes recorded
 

@@ -1,14 +1,15 @@
 
 ---
 title: "Escape Pod - 579 - Texts from the Ghost War"
-date: 2023-01-07 22:54:32
-lastmod: 2023-07-23 23:47:57
+date: 2023-01-08 00:54:32
+lastmod: 2024-07-10 19:46:54
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 579 - Texts from the Ghost War
+## By [Alex Yuschik](https://escapepod.org/people/alex-yuschik/)
 
 No notes recorded
 

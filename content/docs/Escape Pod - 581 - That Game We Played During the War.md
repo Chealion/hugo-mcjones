@@ -1,16 +1,17 @@
 
 ---
 title: "Escape Pod - 581 - That Game We Played During the War"
-date: 2023-01-07 22:54:32
-lastmod: 2023-07-23 23:47:42
+date: 2023-01-08 00:54:32
+lastmod: 2024-07-10 19:46:26
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - 581 - That Game We Played During the War
+## By [Carrie Vaughn](https://escapepod.org/people/carrie-vaughn/)
 
-No notes recorded
+No notes recorded (Also really enjoyed her story in episode 667)
 
 - - -
 ###### Escape Pod - EP581: That Game We Played During the War

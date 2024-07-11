@@ -1,15 +1,15 @@
 
 ---
 title: "Escape Pod - The Sun From Both Sides"
-date: 2022-08-18 10:42:13
-lastmod: 2023-09-04 19:49:54
+date: 2022-08-18 12:42:13
+lastmod: 2024-07-10 19:52:11
 categories: ['podcast', 'Escape Pod']
 draft: false
 ---
 
 
 # Escape Pod - The Sun From Both Sides
-## By R.S.A Garcia
+## By [R.S.A. Garcia](https://escapepod.org/people/r-s-a-garcia/)
 
 A companion novella called Philia, Eros, Storge, Agápe, Pragma was released later and gives an awesome look at the Kairi background while this one had focused on the Valcenian
 
