@@ -2,8 +2,8 @@
 ---
 title: "Pip / Virtual Environment Basics"
 date: 2023-02-22T02:31:27Z
-lastmod: 2023-02-22T02:41:32Z
-categories: ['dev', 'python']
+lastmod: 2024-08-20T03:22:57Z
+categories: ['virtualenv', 'dev', 'python']
 draft: false
 ---
 
@@ -19,7 +19,8 @@ Because Python packaging is a pain and different dependencies conflict. Using vi
 ## Create and Use a virtual environment
 ```
 cd ~/src/folder
-virtualenv venv
+<!-- #virtualenv venv -->
+python3 -m venv venv
 echo venv >> .gitignore
 source venv/bin/activate
 pip install -r requirements.txt

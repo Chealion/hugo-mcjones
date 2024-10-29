@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Mugen"
 date: 2024-06-23T16:27:33Z
-lastmod: 2024-06-23T17:25:05Z
+lastmod: 2024-07-30T18:10:02Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -16,6 +16,8 @@ draft: false
 240g water
 
 Single pour. Let draw down ~ 2 minutes
+
+Find it on the thin side but solid.
 
 ## Reddit Recipes
 https://new.reddit.com/r/pourover/comments/17dzs3u/mugen_how_is_it_so_good_is_the_v60_a_lie/

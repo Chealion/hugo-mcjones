@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2024-06-26T04:25:49Z
+lastmod: 2024-10-24T17:43:54Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -14,17 +14,18 @@ The advantage is you can use immersion AND pour through as you want.
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
 ## Current Go To
-Steals a bit from Tetsu method
+Steals a bit from Tetsu’s 4:6 and different temperature methods
 30g coffee
 400g water
 
-1. Preheat and grind
+1. Preheat Mugen and grind
 2. Open switch
-3. Bloom with 100g water, let drawn down
-4. Pour slowly until 300g water, let draw down
-5. Close switch - either add water to kettle to cool or swirl to let it cool
-6. Pour 100g water. Let sit 1 minute
-7. Open
+3. Bloom with 60g water, let draw down and/or 30 seconds. Whichever is longer.
+4. Slowly pour 140g water (200g total). Let draw down
+5. Slowly pour 100g water (300g total). Let draw down.
+6. Close switch - add 250mL of cold or room temperature water to kettle to cool. Swirl in kettle to help cool it down to ~70C
+7. Pour 100g water. Let sit 1 minute
+8. Open
 ## Hario
 16g coffee  
 50g water, bloom for 30 seconds  
@@ -104,6 +105,16 @@ Let immerse 2 min. Hit switch at 2:30 and drain
 
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
+## Sherry Hsu
+https://www.youtube.com/watch?v=wCNxPYyGWoo
+16g coffee
+90C water
+50 g water, bloom for 30 seconds
+Circular pour to 150g
+At 1:00, close switch, pour to 240g
+At 1:30, open switch and let drain.
+Total time should be 1:45-2:00
+
 ## Iced Version
 https://www.reddit.com/r/Coffee/comments/nnfs3d/iced_coffee_using_hario_switch/
 
@@ -150,6 +161,14 @@ I learned about using the Hario Mugen instead of the standard V60 cone with the 
 
 The tl;dr for why is that with a no-bypass brewer it can be a lot easier to do things consistently when you can’t or won’t give pour over the attention you should.
 
+## Testing
+20g coffee
+240g water
+
+1. Pour 40g. Wait 30 seconds to draw down and bloom
+2. Close. Pour remaining 200g water.
+3. Wait 60 seconds.
+4. Open and let draw down.
 ## Reddit Recipes
 https://new.reddit.com/r/pourover/comments/zzpc4y/hario_switch_base_with_mugen_cone_best_setup_for/
 
