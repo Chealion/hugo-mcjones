@@ -1,0 +1,52 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="d-flex flex-nowrap container">
+  {{- partial "sidebar.html" .}}
+
+<article class="mx-0 my-0 px-3 col-lg-10 text-left">
+  <div class="mb-3">
+    <h1 class="mb-0 fs-2">Recent Updates</h1>
+    <small class="text-muted">(Sorted by Last Modified)</small>
+  </div>
+
+  {{ $podcasts := where site.RegularPages ".Params.categories" "intersect" (slice "podcast") }}
+  {{ $pages := $podcasts | symdiff .Site.RegularPages }}
+  <ul class="list-unstyled pb-1">
+    {{ range $pages.ByLastmod.Reverse.Limit 15 }}
+      <li class="px-2">
+        <a class="text-decoration-none" href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+  <div class="mb-3">
+    <h1 class="mb-0 fs-2">Recent Favourited Podcast Episodes</h1>
+    <small class="text-muted">(Sorted by Last Modified)</small>
+  </div>
+  <ul class="list-unstyled pb-1">
+    {{ range $podcasts.ByLastmod.Reverse.Limit 15 }}
+      <li class="px-2">
+        <a class="text-decoration-none" href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+  <div class="mb-3">
+    <h1 class="mb-0 fs-2">Docs List</h1>
+    <small class="text-muted">(Sorted by Last Modified)</small>
+  </div>
+  <ul class="list-unstyled pb-1">
+    {{ range $pages.ByTitle }}
+      <li class="px-2">
+        <a class="text-decoration-none" href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+    {{ end }}
+  </ul>
+</article>
+
+</div>
+{{ end }}
