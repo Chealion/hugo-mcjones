@@ -220,7 +220,9 @@ draft: false
 
             for filepath in file_list:
                 note_count += 1
-                # print(filepath)
+                #print(filepath)
+                if note_count % 100 == 0:
+                    print('.')
                 if export_as_textbundles:
                     if check_image_hybrid(md_text):
                         make_text_bundle(md_text, filepath, mod_dt)
