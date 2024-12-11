@@ -8,3 +8,6 @@ rssLimit = 50
 [params.author]
   email = "chealion@chealion.ca"
   name = "Micheal Jones"
+
+[markup.goldmark.renderer]
+unsafe = true
