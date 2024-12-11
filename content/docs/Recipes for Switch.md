@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2024-10-24T17:43:54Z
+lastmod: 2024-12-11T05:37:51Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -14,8 +14,8 @@ The advantage is you can use immersion AND pour through as you want.
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
 ## Current Go To
-Steals a bit from Tetsu’s 4:6 and different temperature methods
-30g coffee
+Steals a bit from Tetsu’s 4:6 and different temperature methods  
+30g coffee  
 400g water
 
 1. Preheat Mugen and grind
@@ -61,10 +61,10 @@ https://youtu.be/4wMyaw0FoZs
 ## Hoffmann
 https://youtu.be/QjIvN8mlK9Y
 
-## Tetsu Kasuya - 2023
+## Tetsu Kasuya - “God Method”
 
-20g coffee
-280g water (93 C)
+20g coffee  
+280g water (93 C)  
 Using 13 on an Encore (normally use 15 for V60)
 
 Leave Switch Open
@@ -79,10 +79,12 @@ Leave Switch Open
 
 References the 4:6 method he also came up with.
 
+https://outpostcoffee.com/blogs/brew-at-home/tetsu-kasuyas-hario-switch-recipe-for-perfect-coffee
+
 ## 4:6 Method (Tetsu Kasuya)
 2016 V60 winning recipe
 
-40g coffee
+40g coffee  
 600g water
 
 1. (00:00) Bloom with 100g, wait 45 seconds
@@ -107,12 +109,12 @@ If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
 ## Sherry Hsu
 https://www.youtube.com/watch?v=wCNxPYyGWoo
-16g coffee
-90C water
-50 g water, bloom for 30 seconds
-Circular pour to 150g
-At 1:00, close switch, pour to 240g
-At 1:30, open switch and let drain.
+16g coffee  
+90C water  
+50 g water, bloom for 30 seconds  
+Circular pour to 150g  
+At 1:00, close switch, pour to 240g  
+At 1:30, open switch and let drain  
 Total time should be 1:45-2:00
 
 ## Iced Version
@@ -162,7 +164,7 @@ I learned about using the Hario Mugen instead of the standard V60 cone with the 
 The tl;dr for why is that with a no-bypass brewer it can be a lot easier to do things consistently when you can’t or won’t give pour over the attention you should.
 
 ## Testing
-20g coffee
+20g coffee  
 240g water
 
 1. Pour 40g. Wait 30 seconds to draw down and bloom
