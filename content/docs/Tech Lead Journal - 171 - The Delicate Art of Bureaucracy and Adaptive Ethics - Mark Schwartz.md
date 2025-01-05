@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 171 - The Delicate Art of Bureaucracy and Adaptive Ethics - Mark Schwartz"
 date: 2024-11-27T06:05:34Z
-lastmod: 2024-11-28T14:53:15Z
-categories: ['171', 'podcast', 'Tech Lead Journal']
+lastmod: 2024-12-11T06:09:46Z
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -48,10 +48,8 @@ Sumo - use the system against itself. Eg. Make processes and policies to do the 
 
 45 min mark on the issue with how bureaucracy focuses on fairness and can not do equitable. Also how the digital approach vs traditional approach for inclusion creates a tension.
 
-
-
 ---
-###### Tech Lead Journal - #171 - The Delicate Art of Bureaucracy and Adaptive Ethics - Mark Schwartz
+###### Tech Lead Journal - 171 - The Delicate Art of Bureaucracy and Adaptive Ethics - Mark Schwartz
 
 https://overcast.fm/+AAfKlzwgz9Q  
 https://techleadjournal.dev/episodes/171/

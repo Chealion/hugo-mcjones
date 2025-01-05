@@ -2,7 +2,7 @@
 ---
 title: "Current Terminal Font and Colour Scheme Choice"
 date: 2024-01-08T06:31:15Z
-lastmod: 2024-08-12T03:15:19Z
+lastmod: 2024-12-26T23:31:11Z
 categories: []
 draft: false
 ---
@@ -14,8 +14,7 @@ draft: false
 
 ## Colour Scheme
 iTerm: [Toasty](https://gist.github.com/april/d074d759be6738a086478dc822d5018c) - https://github.com/jsit/toast.vim/ (for colour scheme in general)
-Others:
-	Wezterm - `config.color_scheme = 'Gruvbox dark, hard (base16)'`
+Wezterm: `config.color_scheme = 'Gruvbox dark, hard (base16)'`
 
 ## vim Colour Scheme
 [Toast](https://github.com/jsit/toast.vim/)
