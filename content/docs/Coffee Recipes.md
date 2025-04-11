@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes"
 date: 2016-12-13T06:52:19Z
-lastmod: 2024-06-23T19:42:44Z
+lastmod: 2025-03-30T02:07:04Z
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -22,6 +22,7 @@ V60 - 15
 Kone - 16
 Chemex - 20  
 Work Chemex - 24
+French Press - 24 to 26
 
 ## [Recipes for Japanese Iced Coffee](https://mcjones.ca/docs/recipes-for-japanese-style-iced-coffee/)
 ## [Recipes for Kone](https://mcjones.ca/docs/recipes-for-kone/)

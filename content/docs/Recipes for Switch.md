@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2024-12-11T05:37:51Z
+lastmod: 2025-03-30T17:44:07Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -14,16 +14,17 @@ The advantage is you can use immersion AND pour through as you want.
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
 ## Current Go To
-Steals a bit from Tetsu’s 4:6 and different temperature methods  
+Steals a bit from Tetsu’s 4:6 and different temperature methods.
+  
 30g coffee  
 400g water
 
-1. Preheat Mugen and grind
-2. Open switch
-3. Bloom with 60g water, let draw down and/or 30 seconds. Whichever is longer.
+1. Preheat Mugen and grind coffee
+2. Start with Switch closed
+3. Pour 60g water, open the switch, let draw down and/or 30 seconds. Whichever is longer.
 4. Slowly pour 140g water (200g total). Let draw down
 5. Slowly pour 100g water (300g total). Let draw down.
-6. Close switch - add 250mL of cold or room temperature water to kettle to cool. Swirl in kettle to help cool it down to ~70C
+6. Close switch - add 250mL of cold or room temperature water to kettle to cool the existing water. Swirl in kettle to help cool it down to ~70C
 7. Pour 100g water. Let sit 1 minute
 8. Open
 ## Hario
@@ -61,7 +62,7 @@ https://youtu.be/4wMyaw0FoZs
 ## Hoffmann
 https://youtu.be/QjIvN8mlK9Y
 
-## Tetsu Kasuya - “God Method”
+## Tetsu Kasuya - “God/Devil Method”
 
 20g coffee  
 280g water (93 C)  
@@ -79,10 +80,30 @@ Leave Switch Open
 
 References the 4:6 method he also came up with.
 
-https://outpostcoffee.com/blogs/brew-at-home/tetsu-kasuyas-hario-switch-recipe-for-perfect-coffee
+https://outpostcoffee.com/blogs/brew-at-home/tetsu-kasuyas-hario-switch-recipe-for-perfect-coffee  
+https://www.youtube.com/watch?v=gC8K40kZ_6E&t=1028s
+
+## Tetsu Super Hybrid Recipe
+The God/Devil/Hybrid recipe was updated Jan. 11, 2025.
+
+20g coffee  
+300g water (90 C and 70-80 C)  
+Using 13 on an Encore (normally use 15 for V60)
+
+Start with Switch closed
+1. Pour 40-50g water (90 C)
+2. Wait 40 seconds
+3. Open the switch and pour to 120g total
+4. Pour again at 1:30 to 200g total
+5. Cool down to 70 - 80 C
+6. Close the switch, and top up to 300 g at the ~2:10 mark
+7. Wait 45 seconds, and open the switch (2:55 mark). Should finish around the 3:30 mark.
+
+https://www.youtube.com/watch?v=4FeUp_zNiiY  
+https://roastaroma.com/2025/01/tetsu-kasayas-evolved-hybrid-recipe-v2-super-hybrid-sneaky-recipe/
 
 ## 4:6 Method (Tetsu Kasuya)
-2016 V60 winning recipe
+2016 V60 winning recipe. The tl;dr is 40% of the water in the first two pours, while the other 60% split up more. The first portion affects the brightness, while the second affects the body. See [their blog post](https://en.philocoffea.com/blogs/blog/coffee-brewing-method) on it.
 
 40g coffee  
 600g water

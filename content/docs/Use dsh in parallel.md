@@ -2,7 +2,7 @@
 ---
 title: "Use dsh in parallel"
 date: 2022-07-05T01:34:05Z
-lastmod: 2022-07-17T16:41:11Z
+lastmod: 2025-04-01T20:16:05Z
 categories: ['snippet', 'dsh']
 draft: false
 ---
@@ -11,10 +11,10 @@ draft: false
 # Use dsh in parallel
 Use `-c` for all at once
 
-Or `-f X` for a certain number at a time
+Or `-F X` for a certain number at a time
 
 ```
-dsh -Mg containers -f 5 whoami
+dsh -Mg containers -F 5 whoami
 ```
 
 <!-- #public #snippet #dsh -->
