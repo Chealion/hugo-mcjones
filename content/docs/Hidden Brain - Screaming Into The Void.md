@@ -1,23 +1,23 @@
 
 ---
-title: "Hidden Brain - Screaming into the Void"
-date: 2023-01-08T05:55:07Z
-lastmod: 2023-11-05T04:38:38Z
+title: "Hidden Brain - Screaming Into The Void"
+date: 2023-01-08T05:55:08Z
+lastmod: 2023-11-05T04:34:32Z
 categories: ['podcast', 'hidden brain']
 draft: false
 ---
 
 
-# Hidden Brain - Screaming into the Void
+# Hidden Brain - Screaming Into The Void
 
-No Notes Recorded
+No notes recorded
 
 - - -
-###### Hidden Brain - Screaming into the Void
+###### Hidden Brain - Screaming Into The Void
 
-https://overcast.fm/+1WhOqya9E  
+https://overcast.fm/+1WhMKF9pU  
 https://hiddenbrain.org/podcast/screaming-into-the-void/
 
 <!-- #public #podcast #hidden brain# -->
 
-<!-- {BearID:38397E7C-EA28-48D2-BE01-E7A413CF4042-28016-00002D9807996702} -->
+<!-- {BearID:A68F8FAA-AB44-4595-84AB-2FA71D6D1387-28016-00002D98085B3580} -->

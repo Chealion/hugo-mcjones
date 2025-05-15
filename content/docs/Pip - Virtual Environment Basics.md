@@ -2,7 +2,7 @@
 ---
 title: "Pip / Virtual Environment Basics"
 date: 2023-02-22T02:31:27Z
-lastmod: 2024-11-08T05:02:58Z
+lastmod: 2025-04-20T17:59:58Z
 categories: ['virtualenv', 'dev', 'python']
 draft: false
 ---
@@ -27,6 +27,10 @@ pip install -r requirements.txt
 ```
 
 venv for the folder name is an arbitrary but consistent name used.
+## Find out which requirements can be updated
+```
+pip list --outdated
+```
 ## Update all dependencies
 One liner to update all
 ```

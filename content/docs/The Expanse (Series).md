@@ -2,7 +2,7 @@
 ---
 title: "The Expanse (Series)"
 date: 2018-11-24T05:39:42Z
-lastmod: 2022-08-11T03:38:36Z
+lastmod: 2025-04-23T20:11:30Z
 categories: ['book']
 draft: false
 ---
@@ -27,7 +27,6 @@ draft: false
 ✅ Auberon  
 ✅ 8. Tiamat’s Wrath (2019) - 576 pages  
 9. Leviathan Falls (2021) - 528 pages  
-
 The Sins of Our Father (2022)
 
 Note: Memory's Legion will have the novellas collected.
