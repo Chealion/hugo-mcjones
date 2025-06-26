@@ -43,3 +43,45 @@ h1 {
   padding: 0;
 } 
 
+/*
+Callout Blocks not included by default in Bootstrap
+Note = blue
+Tip = Green
+Important = Purple
+Warning = yellow/default
+Caution = Red
+*/
+.alert-note {
+  color: #00112a;
+  background-color: #f6fafe;
+  border-left-color: #497db5;
+  border-left-width: 6px;
+}
+
+.alert-tip {
+  color: #0a2b00;
+  background-color: #f6fdf4;
+  border-left-color: #5daf43;
+  border-left-width: 6px;
+}
+
+.alert-important {
+  color: #2c000d;
+  background-color: #fef9fd;
+  border-left-color: #b346b4;
+  border-left-width: 6px;
+}
+
+.alert-warning {
+  color: #312e04;
+  background-color: #fbf9ec;
+  border-left-color: #f6bd13;
+  border-left-width: 6px;
+}
+
+.alert-caution {
+  color: #320000;
+  background-color: #fbf5f6;
+  border-left-color: #ff0a0a;
+  border-left-width: 6px;
+}
