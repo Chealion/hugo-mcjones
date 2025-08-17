@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas - On Culture Wars in Christianity"
 date: 2025-01-22T22:44:49Z
-lastmod: 2025-02-13T02:08:24Z
-categories: ['draft', 'podcast', 'CBC Ideas']
+lastmod: 2025-08-17T12:22:15Z
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -32,7 +32,6 @@ https://overcast.fm/+AAAAcRns4Bw
 https://www.cbc.ca/radio/ideas/culture-wars-christianity-james-smith-1.7225356
 
 <!-- #public -->
-<!-- #draft -->
 <!-- #podcast -->
 <!-- #CBC Ideas# -->
 

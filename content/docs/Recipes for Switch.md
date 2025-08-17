@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2025-03-30T17:44:07Z
+lastmod: 2025-07-14T20:54:06Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -13,9 +13,9 @@ The advantage is you can use immersion AND pour through as you want.
 
 If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
-## Current Go To
-Steals a bit from Tetsu’s 4:6 and different temperature methods.
-  
+## Current Daily Driver
+Uses a Mugen instead of a V60, steals a bit from Tetsu’s 4:6 and his super hybrid method.
+
 30g coffee  
 400g water
 
@@ -24,7 +24,7 @@ Steals a bit from Tetsu’s 4:6 and different temperature methods.
 3. Pour 60g water, open the switch, let draw down and/or 30 seconds. Whichever is longer.
 4. Slowly pour 140g water (200g total). Let draw down
 5. Slowly pour 100g water (300g total). Let draw down.
-6. Close switch - add 250mL of cold or room temperature water to kettle to cool the existing water. Swirl in kettle to help cool it down to ~70C
+6. Close switch - add ~150mL of cold or room temperature water to kettle to cool the existing water. Swirl in kettle to help cool it down to ~70C
 7. Pour 100g water. Let sit 1 minute
 8. Open
 ## Hario
@@ -137,6 +137,44 @@ Circular pour to 150g
 At 1:00, close switch, pour to 240g  
 At 1:30, open switch and let drain  
 Total time should be 1:45-2:00
+
+## Lance Hedrick - Gong Fu Recipe
+https://youtube.com/watch?v=blQsogeBG7M
+
+This approach leverages a cooler bloom, pouring over a spoon (like a melodrip) to reduce agitation, and lots of immersion.
+
+The cooler bloom is also called the Samo bloom after Dr. Samo Smrke - https://www.youtube.com/watch?v=eVF7DOxOUFA
+
+15g medium-coarse coffee
+250g water
+
+Simple version is:
+First pour is 50g / 75 C. Let sit 90 seconds
+Second pour is 100g / 90 C. Let sit 75 seconds
+Third pour is 100g / 90 C. Let sit 75 seconds
+
+0:00 - close valve, and pour 50g of 75 C water into the brewer.
+0:00 - Add coffee grounds, tare your scale, stir, and start timer
+1:30 - Open the valve and let it drain fully
+1:40 - Close valve. Pour 100g water at 90 C over a spoon onto the coffee bed
+1:55 - Gently excavate/stir the coffee bed
+3:00 - Open the valve and let it drain fully
+3:15 - Close valve, pour to 100g water at 90 C over a spon onto the coffee bed.
+3:30 - gently excavate the bed
+4:30 - gentle swirl, open and let drain.
+
+## Emi Fukahori
+https://europeancoffeetrip.com/easy-hario-switch-recipe-emi-fukahor/
+
+14g coffee  - medium coarse
+200g water
+
+1. Close valve
+2. 50 grams of water
+3. Open valve after 30 seconds
+4. 150 grams single continuous pour to the center of the coffee bed
+5. Should be done pouring by 1:10
+6. Should have a 2:20 brew time
 
 ## Iced Version
 https://www.reddit.com/r/Coffee/comments/nnfs3d/iced_coffee_using_hario_switch/

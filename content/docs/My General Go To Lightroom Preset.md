@@ -2,13 +2,14 @@
 ---
 title: "My General Go To Lightroom Preset"
 date: 2022-06-26T02:56:32Z
-lastmod: 2022-07-17T16:42:33Z
+lastmod: 2025-08-09T09:39:04Z
 categories: ['lightroom']
 draft: false
 ---
 
 
 # My General Go To Lightroom Preset
+## 2022
 * WB: As Shot
 * Auto Tone
 * Clarity: 25

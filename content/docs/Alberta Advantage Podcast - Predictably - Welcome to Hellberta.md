@@ -2,7 +2,7 @@
 ---
 title: "Alberta Advantage Podcast - Predictably - Welcome to Hellberta"
 date: 2023-01-08T05:54:38Z
-lastmod: 2023-09-04T05:15:08Z
+lastmod: 2025-06-26T17:41:04Z
 categories: ['podcast', 'alberta advantage']
 draft: false
 ---
@@ -16,7 +16,7 @@ No notes recorded
 
 ###### Alberta Advantage Podcast - Predictably: Welcome to Hellberta
 
-https://overcast.fm/+Kvqqt204Y
+https://overcast.fm/+Kvqqt204Y  
 https://traffic.libsyn.com/secure/albertaadvantage/608548587-albertaadvantage-predictably-welcome-to-hellberta.mp3
 
 <!-- #public #podcast #alberta advantage# -->

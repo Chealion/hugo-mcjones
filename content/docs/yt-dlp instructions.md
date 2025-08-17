@@ -2,7 +2,7 @@
 ---
 title: "yt-dlp instructions"
 date: 2018-03-01T21:02:01Z
-lastmod: 2023-10-31T03:58:11Z
+lastmod: 2025-07-18T23:25:45Z
 categories: ['snippet']
 draft: false
 ---

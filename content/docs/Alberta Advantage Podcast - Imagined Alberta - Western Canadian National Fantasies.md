@@ -2,8 +2,8 @@
 ---
 title: "Alberta Advantage Podcast - Imagined Alberta - Western Canadian National Fantasies"
 date: 2025-03-06T02:29:15Z
-lastmod: 2025-03-06T08:55:22Z
-categories: ['podcast', 'Alberta Advantage Podcast']
+lastmod: 2025-06-26T17:40:09Z
+categories: ['podcast', 'Alberta Advantage']
 draft: false
 ---
 
@@ -19,6 +19,6 @@ https://albertaadvantagepod.com/2025/03/02/imagined-alberta-western-canadian-nat
 
 <!-- #public -->
 <!-- #podcast -->
-<!-- #Alberta Advantage Podcast# -->
+<!-- #Alberta Advantage# -->
 
 <!-- {BearID:31610F5F-CC24-4E12-8F4E-6B7597B78413} -->
