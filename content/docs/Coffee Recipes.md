@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes"
 date: 2016-12-13T06:52:19Z
-lastmod: 2025-03-30T02:07:04Z
+lastmod: 2025-08-24T16:23:47Z
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -31,6 +31,8 @@ French Press - 24 to 26
 ## [Recipes for V60](https://mcjones.ca/docs/recipes-for-v60/)
 ## [Recipes for Mugen](https://mcjones.ca/docs/recipes-for-mugen/)
 ## [Recipes for Switch](https://mcjones.ca/docs/recipes-for-switch/)
+## [Recipes for Suiren](https://mcjones.ca/docs/recipes-for-suiren)
+## [Recipes for Pegasus](https://mcjones.ca/docs/recipes-for-pegasus)
 ## Random Coffee Notes
 Beans are 28% by weight water soluble.
 

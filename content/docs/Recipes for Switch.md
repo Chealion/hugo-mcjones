@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2025-07-14T20:54:06Z
+lastmod: 2025-08-19T00:28:45Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -246,6 +246,8 @@ Standard V60 grind
 8. At 02:15 - open
 
 ## CoffeeGeek Recipe
+https://coffeegeek.com/guides/howtos/hario-mugen-switch-brewer-hack-how-to/
+
 1:20 ratio  
 15g coffee  
 300g water
@@ -260,8 +262,59 @@ Standard V60 grind
 
 Total time around 4 minutes
 
+## Charity Cheung (Hario Booklet)
+https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
+
+1:13.5 ratio
+14g coffee (medium)
+190g water (93C)
+
+1. With the Switch valve closed, pour 70g of water.
+2. At 0:45 pour again, up to a total of 190g of water.
+3. Open the Switch valve at 2:30.
+4. Remove the dripper at 3:00.
+
+## Weihong Zhang Competition (Hario Booklet)
+https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
+
+1:13.3 ratio
+15g coffee (medium)
+200g water (80C and 92C)
+
+1. With the Switch valve open, pour 50g of water at 80°C.
+2. At 0:40, close the Switch valve, pour another 150g, this time at 92°C.
+3. Open the Switch valve at 2:10.
+4. Remove the dripper at 3:00.
+## Weihong Zhang Everyday (Hario Booklet)
+https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
+
+1:13.3 ratio
+16g coffee (medium)
+240g water (92C)
+
+1. With the Switch valve open, pour 50g of water
+2. At 0:40, close the Switch valve, pour up to a total of 240g of water
+3. Open the Switch valve at 2:00.
+4. Remove the dripper at 3:40.
+
+## Kunie Inaba (Hario Booklet)
+https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
+
+Note: Canadian Brewers Cup Champion in 2024
+
+1:15 ratio
+13g coffee (medium)
+200g water (92C and 75C)
+
+1. With the Switch valve closed, pour 40g of water at 92°C.
+2. Open the Switch valve at 0:40 and pour up to a total of
+100g of water, with a circular motion.
+3. Close the Switch valve at 1:20 and pour up to a total of
+200g of water, this time using 75°C water.
+4. Open the Switch valve at 2:20.
+5. Remove the dripper at 2:30.
 ## Other
-Coffee Chronicler recommends same recipe as regular switch set up. Maybe a touch coarser grind
+Coffee Chronicler recommends same recipe as regular switch set up. Maybe a touch coarser grind?
 
 
 <!-- #coffee #public #hario-switch #recipe -->

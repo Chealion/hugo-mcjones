@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas - How rethinking capitalism may save the planet"
 date: 2023-01-08T05:54:24Z
-lastmod: 2023-09-05T00:58:21Z
-categories: ['draft', 'podcast', 'CBC Ideas']
+lastmod: 2025-08-17T23:20:18Z
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -18,6 +18,6 @@ No notes recorded
 https://overcast.fm/+cTq4VpE  
 https://www.cbc.ca/radio/ideas/how-rethinking-capitalism-may-save-the-planet-1.5084547
 
-<!-- #draft #public #podcast #CBC Ideas# -->
+<!-- #public #podcast #CBC Ideas# -->
 
 <!-- {BearID:F4CBFCCD-53D2-49C7-8B05-28634E062071-28016-00002D97CA09D36A} -->

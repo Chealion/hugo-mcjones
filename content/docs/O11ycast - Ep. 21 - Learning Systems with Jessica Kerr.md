@@ -2,8 +2,8 @@
 ---
 title: "O11ycast - Ep. 21 - Learning Systems with Jessica Kerr"
 date: 2023-01-08T05:55:07Z
-lastmod: 2024-04-12T04:42:14Z
-categories: ['draft', 'podcast', 'o11ycast']
+lastmod: 2025-08-17T23:18:51Z
+categories: ['podcast', 'o11ycast']
 draft: false
 ---
 
@@ -18,6 +18,6 @@ No notes recorded at the time
 https://overcast.fm/+0GHwWt_6A  
 https://www.heavybit.com/library/podcasts/o11ycast/ep-21-learning-systems-with-jessica-kerr/
 
-<!-- #draft #public #podcast #o11ycast -->
+<!-- #public #podcast #o11ycast -->
 
 <!-- {BearID:F104A808-FCCC-4183-9116-16F1D1CB5E8A-28016-00002D98070EC518} -->

@@ -2,7 +2,7 @@
 ---
 title: "Green Onion Pancake"
 date: 2017-03-31T17:20:23Z
-lastmod: 2022-07-17T18:22:11Z
+lastmod: 2025-09-08T04:34:41Z
 categories: ['recipe']
 draft: false
 ---
@@ -135,6 +135,41 @@ Oil for pan needs to have high smoke point.
 1. On medium high heat, add some oil to pan
 2. Put pancake in the pan.
 3. Turn after golden brown (~2 minutes)
+
+---
+
+## Verna Banana
+https://www.vernabanana.com/recipes/super-flaky-chinese-spring-onion-scallion-pancakes
+
+## Ingredients 
+300g flour
+150g water
+1/2 tsp salt
+
+100g spring onions, finely chopped
+5 shittake mushrooms, finely chopped (optional)
+50g flour
+1/2 cup oil
+1 tsp Chinese five spice
+1 tsp salt
+
+1 Tbsp light soy sauce
+1 tsp sesame oil
+1 tsp rice vinegar
+1 tsp chili oil
+
+## Directions
+1. In a large bowl, combine plain flour and salt. Gradually add lukewarm water, mixing until a dough forms.
+2. Knead the dough on a floured surface for about 5-10 minutes until smooth. Cover with a damp cloth and let it rest for at least 30 minutes.
+3. In a heatproof bowl, mix chopped spring onions, shiitake mushrooms (if using), 50g plain flour, Chinese five spice, and salt.
+4. Heat up the oil until smoking and carefully pour it over the mixed aromatics. This will cook them and release a lovely fragrance. Mix thoroughly and set aside.
+5. Divide the rested dough into four pieces. Roll each piece into a thin circle (about 10-12 inches in diameter).
+6. Brush a generous layer of the filling onto the rolled-out dough. Sprinkle the filling evenly over the surface, leaving a small border around the edges.
+7. Roll the dough tightly into a log. Coil the log into a spiral shape, tucking the end underneath. Flatten gently and roll out again into a thicker pancake (about 1/2 inch thick). See video below for better demonstration.
+8. Heat a non-stick skillet over medium heat and add enough vegetable oil to cover the bottom. Once hot, add the pancake and cook for about 3-4 minutes on each side, or until golden brown and crispy. Add more oil as needed.
+9. In a small bowl, mix soy sauce, sesame oil, and rice vinegar. Stir well.
+10. Cut the pancakes into wedges and serve hot with the dipping sauce. Enjoy the flaky, crispy goodness!
+
 
 <!-- #recipe #public -->
 

@@ -2,8 +2,8 @@
 ---
 title: "CBC Ideas - The Return of Inequality - Lessons of History"
 date: 2024-12-25T04:49:52Z
-lastmod: 2024-12-25T05:19:41Z
-categories: ['draft', 'podcast', 'CBC Ideas']
+lastmod: 2025-08-17T23:18:23Z
+categories: ['podcast', 'CBC Ideas']
 draft: false
 ---
 
@@ -46,9 +46,9 @@ This leads right into the research showing more expensive cars are more likely t
 ###### Ideas - The Return of Inequality | Lessons of History
 
 https://overcast.fm/+AAAAcSWF8qk  
+https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16066042-the-return-inequality-or-lessons-history
 
 <!-- #public -->
-<!-- #draft -->
 <!-- #podcast -->
 <!-- #CBC Ideas# -->
 

@@ -2,16 +2,14 @@
 ---
 title: "Recipes for Mugen"
 date: 2024-06-23T16:27:33Z
-lastmod: 2024-07-30T18:10:02Z
+lastmod: 2025-08-18T23:58:01Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
 
 
 # Recipes for Mugen
-
 ## Hario
-
 20g coffee  
 240g water
 
