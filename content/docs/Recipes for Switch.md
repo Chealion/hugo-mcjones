@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2025-08-19T00:28:45Z
+lastmod: 2025-11-09T07:03:46Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -28,6 +28,8 @@ Uses a Mugen instead of a V60, steals a bit from Tetsu’s 4:6 and his super hyb
 7. Pour 100g water. Let sit 1 minute
 8. Open
 ## Hario
+(Included in manual)
+
 16g coffee  
 50g water, bloom for 30 seconds  
 210g water (240 total)  
@@ -63,6 +65,8 @@ https://youtu.be/4wMyaw0FoZs
 https://youtu.be/QjIvN8mlK9Y
 
 ## Tetsu Kasuya - “God/Devil Method”
+https://outpostcoffee.com/blogs/brew-at-home/tetsu-kasuyas-hario-switch-recipe-for-perfect-coffee  
+https://www.youtube.com/watch?v=gC8K40kZ_6E&t=1028s
 
 20g coffee  
 280g water (93 C)  
@@ -80,11 +84,11 @@ Leave Switch Open
 
 References the 4:6 method he also came up with.
 
-https://outpostcoffee.com/blogs/brew-at-home/tetsu-kasuyas-hario-switch-recipe-for-perfect-coffee  
-https://www.youtube.com/watch?v=gC8K40kZ_6E&t=1028s
-
 ## Tetsu Super Hybrid Recipe
 The God/Devil/Hybrid recipe was updated Jan. 11, 2025.
+
+https://www.youtube.com/watch?v=4FeUp_zNiiY  
+https://roastaroma.com/2025/01/tetsu-kasayas-evolved-hybrid-recipe-v2-super-hybrid-sneaky-recipe/
 
 20g coffee  
 300g water (90 C and 70-80 C)  
@@ -98,9 +102,6 @@ Start with Switch closed
 5. Cool down to 70 - 80 C
 6. Close the switch, and top up to 300 g at the ~2:10 mark
 7. Wait 45 seconds, and open the switch (2:55 mark). Should finish around the 3:30 mark.
-
-https://www.youtube.com/watch?v=4FeUp_zNiiY  
-https://roastaroma.com/2025/01/tetsu-kasayas-evolved-hybrid-recipe-v2-super-hybrid-sneaky-recipe/
 
 ## 4:6 Method (Tetsu Kasuya)
 2016 V60 winning recipe. The tl;dr is 40% of the water in the first two pours, while the other 60% split up more. The first portion affects the brightness, while the second affects the body. See [their blog post](https://en.philocoffea.com/blogs/blog/coffee-brewing-method) on it.
@@ -130,6 +131,7 @@ If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
 
 ## Sherry Hsu
 https://www.youtube.com/watch?v=wCNxPYyGWoo
+
 16g coffee  
 90C water  
 50 g water, bloom for 30 seconds  
@@ -220,7 +222,7 @@ Should take 02:45-03:15 total
 ## Background
 I learned about using the Hario Mugen instead of the standard V60 cone with the Hario Switch from [CoffeeGeek](https://coffeegeek.com/guides/howtos/hario-mugen-switch-brewer-hack-how-to/).
 
-The tl;dr for why is that with a no-bypass brewer it can be a lot easier to do things consistently when you can’t or won’t give pour over the attention you should.
+The tl;dr for why, is that with a no-bypass brewer, it can be a lot easier to do things consistently when you can’t or won’t give pour over the attention you should.
 
 ## Testing
 20g coffee  

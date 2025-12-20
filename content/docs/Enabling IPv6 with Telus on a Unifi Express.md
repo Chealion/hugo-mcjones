@@ -2,7 +2,7 @@
 ---
 title: "Enabling IPv6 with Telus on a Unifi Express"
 date: 2025-09-06T01:17:39Z
-lastmod: 2025-09-06T01:20:44Z
+lastmod: 2025-10-02T03:04:59Z
 categories: ['ubiquiti', 'telus']
 draft: false
 ---
@@ -11,16 +11,16 @@ draft: false
 # Enabling IPv6 with Telus on a Unifi Express
 ## Internet Settings Page
 | Setting | Value |
-| --- | --- |
+| --- | ---|
 | IPv6 Connection | DHCPv6 |
 | Prefix Delegation Size | 56 |
 
 ## Network Settings
 Click the IPv6 tab!
 
-| Setting | Value |
-| --- | --- |
-| Interface Type | Prefix Delegation |
+| Setting                     | Value                |
+|-----------------------------|----------------------|
+| Interface Type              | Prefix Delegation    |
 | Prefix Delegation Interface | `<name of your WAN>` |
 
 Once the prefix delegation goes through you’ll see your `/56` show up below Gateway IP/Subnet.

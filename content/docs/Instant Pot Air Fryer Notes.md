@@ -2,7 +2,7 @@
 ---
 title: "Instant Pot Air Fryer Notes"
 date: 2021-09-12T03:03:37Z
-lastmod: 2023-04-05T23:56:25Z
+lastmod: 2025-10-26T06:30:57Z
 categories: ['recipe', 'instant-pot']
 draft: false
 ---
@@ -38,6 +38,15 @@ Cook to defrost and then move to top to crisp:
 * Toss cut in half sprouts with oil, salt, pepper.
 * 20-25 minutes in basket at 400F
 * Stir at the 10, 15, and 20 min marks
+
+## Steak
+https://instantpot.com/blogs/recipes/air-fried-rib-eye-steak
+1. Place the steaks onto a cutting board. Coat both sides of each of each steak with olive oil and season well with salt, pepper, and garlic powder.
+2. Preheat the Instant Pot to 400°F / 205°C and set the time to 8 minutes. Add the steaks to the heated air fryer basket.
+3. Air Fry for 4 minutes.
+4. Flip the steaks and add butter to each one. Air Fry for an additional 4 minutes. 
+5. Let the steaks rest for 5 minutes before serving.
+
 
 <!-- #public #recipe #instant-pot -->
 

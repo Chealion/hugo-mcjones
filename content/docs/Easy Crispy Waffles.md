@@ -2,7 +2,7 @@
 ---
 title: "Easy Crispy Waffles"
 date: 2018-03-31T04:39:59Z
-lastmod: 2022-12-26T16:30:07Z
+lastmod: 2025-10-20T03:15:49Z
 categories: ['recipe']
 draft: false
 ---
@@ -22,8 +22,8 @@ Use more flour (300g)
 
 ## Ingredients
 2 c flour ( ~ 300 grams)  
-1.5 tsp yeast  
-1/2 cup melted butter  
+1.5 tsp yeast  (4 grams)
+1/2 cup melted butter  (115 grams)
 2 cups warm milk  
 2 eggs  
 2 tsp vanilla extract  

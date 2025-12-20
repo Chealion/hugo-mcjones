@@ -2,7 +2,7 @@
 ---
 title: "Best Board Games Stores in Calgary"
 date: 2020-11-27T20:57:14Z
-lastmod: 2023-12-03T18:24:18Z
+lastmod: 2025-12-14T03:19:20Z
 categories: ['calgary']
 draft: false
 ---
@@ -11,12 +11,13 @@ draft: false
 # Best Board Games Stores in Calgary
 * The Sentry Box
   * Sunalta
-* Games People Play
-  * North Hill Mall
+* Discovery Hut
+  * Chinook and Market Mall
+* Under The Mountain Games
+  * Brentwood
 * ShoeBox Games
   * 509 McKnight Blvd NE
-* Discovery Hut
-  * Chinook
+
 
 If you have to go online - thank you folks on Reddit: https://www.reddit.com/r/bgdealscanada/comments/jlib40/canadian_boardgame_stores/
 
