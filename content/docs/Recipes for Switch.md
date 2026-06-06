@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2025-11-09T07:03:46Z
+lastmod: 2026-05-02T17:36:01Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -315,8 +315,6 @@ Note: Canadian Brewers Cup Champion in 2024
 200g of water, this time using 75°C water.
 4. Open the Switch valve at 2:20.
 5. Remove the dripper at 2:30.
-## Other
-Coffee Chronicler recommends same recipe as regular switch set up. Maybe a touch coarser grind?
 
 
 <!-- #coffee #public #hario-switch #recipe -->

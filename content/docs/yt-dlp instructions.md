@@ -2,13 +2,14 @@
 ---
 title: "yt-dlp instructions"
 date: 2018-03-01T21:02:01Z
-lastmod: 2025-07-18T23:25:45Z
+lastmod: 2026-03-26T03:16:10Z
 categories: ['snippet']
 draft: false
 ---
 
 
 # yt-dlp instructions
+https://github.com/yt-dlp/yt-dlp
 ```
 # Formats
 yt-dlp -F "https://www.youtube.com/watch?v=DIBw9dSVKdU"
@@ -27,7 +28,11 @@ yt-dlp -f 'bestaudio[ext=m4a]' -x "https://www.youtube.com/watch?v=II_5jBaYmGQ"
 -x = extract audio
 ```
 
-`yt-dlp` has been replaced with the `yt-dlp` fork
+## Partial Clips
+https://www.reddit.com/r/youtubedl/wiki/howdoidownloadpartsofavideo/
+```
+yt-dlp -f "(bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio)[protocol\!*=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:00:00.00 -t 00:00:8.00" "https://www.youtube.com/watch?v=SCo2RMpiZx8"
+```
 
 <!-- #public #snippet -->
 

@@ -2,7 +2,7 @@
 ---
 title: "Recipes for AeroPress"
 date: 2024-06-23T16:24:20Z
-lastmod: 2024-06-23T17:27:55Z
+lastmod: 2026-05-23T16:56:33Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -17,6 +17,7 @@ Normal with filter in
 Water up to the 2.
 
 ## My Standard
+Inverted
 Water 195F  
 16g coffee  
 almost full.  
@@ -127,8 +128,19 @@ At 1:00 mark, put cap on
 Invert at 1:20  
 Start plunge at 1:30 to be done around 1:45.
 
+## Gagné Press
+https://aeroprecipe.com/recipes/jonathan-gagne
+tl;dr
+
+18g coffee
+~260g water
+Standard
+Fill, stir back and forth (not circular). Add top
+5 min - give a swirl in AeroPress
+9 min - give a swirl, start pressing gently. Should take a minute to finish pressing.
+
 ## More Recipes?
-https://aeroprecipe.com/
+Go check out https://aeroprecipe.com/
 
 <!-- #coffee #recipe #public -->
 
