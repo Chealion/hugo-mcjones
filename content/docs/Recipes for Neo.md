@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Neo"
 date: 2026-01-31T16:30:03Z
-lastmod: 2026-05-30T20:44:54Z
+lastmod: 2026-06-06T21:45:53Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -16,38 +16,39 @@ eg. 12 instead of 15 on a Baratza encore, or 1:12 instead of 1:15 with coffee
 
 ## Tetsu’s 10 Pour
 https://youtu.be/k0nsShguOsU?t=752
-20g coffee
+
+20g coffee  
 300g water (1:15) - 95-96C
 
 Coarse ground coffee (french press level?) 10 x 30g pours over 2.5 minutes. Pours are gentle (3-4g/second or 4-5 seconds to pour)
 
-0:00 - pour 30g. Let bloom
-0:30 - pour 30g (60 total)
-0:45 - pour 30g (90 total)
-1:00 - pour 30g (120 total)
-1:15 - pour 30g (150 total)
-1:30 - pour 30g (180 total)
-1:45 - pour 30g (210 total)
-2:00 - pour 30g (240 total)
-2:15 - pour 30g (270 total)
+0:00 - pour 30g. Let bloom  
+0:30 - pour 30g (60 total)  
+0:45 - pour 30g (90 total)  
+1:00 - pour 30g (120 total)  
+1:15 - pour 30g (150 total)  
+1:30 - pour 30g (180 total)  
+1:45 - pour 30g (210 total)  
+2:00 - pour 30g (240 total)  
+2:15 - pour 30g (270 total)  
 2:30 - pour 30g (300 total)
 
 Total will take 3-3.5 minutes to finish draw down
-## Three stage?
-15g coffee
+## Three stage
+15g coffee  
 240g water (1:16)
 
-Fine
-40g bloom
-Aggresive 104g
-Gentle centre pour 96g
+Fine  
+40g bloom  
+Aggresive 104g  
+Gentle centre pour 96g  
 https://www.qualitylife.coffee/en/pages/hario-neo-v60-recipe
 
-
 ## Zihao Yang
-Source: Hario on [Instagram](https://www.instagram.com/p/DQl4TOaEmkb/)
+Source: Hario on [Instagram](https://www.instagram.com/p/DQl4TOaEmkb/)  
 **Uses Neo + Switch+[Drip Assist](https://www.hario-canada.ca/products/hario-v60-drip-assist)** 
-16g coffee
+
+16g coffee  
 240g water (94C, and room temperature)
 
 1. 0:00-0:30 - Centre pour 64 g through drip assist. Swirl 5 times
@@ -62,7 +63,7 @@ Source: Hario on [Instagram](https://www.instagram.com/p/DQl4TOaEmkb/)
 
 > Pouring evenly over the entire bed results in a coffee with sweetness and a lingering aftertaste
 
-16g coffee
+16g coffee  
 240g water (92C)
 
 1. 0:00-0:30 - Bloom with 40g
@@ -73,7 +74,7 @@ More standard V60 but faster.
 ## Louis Suen
 Source: Hario on [Instagram](https://www.instagram.com/p/DQl4TOaEmkb/)
 
-18g coffee
+18g coffee  
 240g water (82C)
 
 1. 0:00-0:10 - Make a hole in the middle of the coffee bed and bloom with 40g.

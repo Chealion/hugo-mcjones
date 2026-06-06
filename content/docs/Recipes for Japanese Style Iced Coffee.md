@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Japanese Style Iced Coffee"
 date: 2024-06-23T16:21:52Z
-lastmod: 2026-05-15T03:16:18Z
+lastmod: 2026-06-06T21:46:16Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -20,8 +20,8 @@ Kone 11:1
 Grind finer than you would normally for hot, use a longer bloom, and aim for 35-45% ice in volume
 
 ### My Go To Chemex
-93.8g coffee
-375 g ice
+93.8g coffee  
+375 g ice  
 1125 g boiling water
 
 ### Eight Ounce Coffee

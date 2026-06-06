@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2026-05-02T17:36:01Z
+lastmod: 2026-06-06T21:47:17Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
@@ -267,8 +267,8 @@ Total time around 4 minutes
 ## Charity Cheung (Hario Booklet)
 https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
 
-1:13.5 ratio
-14g coffee (medium)
+1:13.5 ratio  
+14g coffee (medium)  
 190g water (93C)
 
 1. With the Switch valve closed, pour 70g of water.
@@ -279,8 +279,8 @@ https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.ha
 ## Weihong Zhang Competition (Hario Booklet)
 https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
 
-1:13.3 ratio
-15g coffee (medium)
+1:13.3 ratio  
+15g coffee (medium)  
 200g water (80C and 92C)
 
 1. With the Switch valve open, pour 50g of water at 80°C.
@@ -290,8 +290,8 @@ https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.ha
 ## Weihong Zhang Everyday (Hario Booklet)
 https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.hario.com/product/new/mugen_x_switch_dripper.html
 
-1:13.3 ratio
-16g coffee (medium)
+1:13.3 ratio  
+16g coffee (medium)  
 240g water (92C)
 
 1. With the Switch valve open, pour 50g of water
@@ -304,8 +304,8 @@ https://global.hario.com/MUSD%20Recipe%20%26%20Interview.pdf / https://global.ha
 
 Note: Canadian Brewers Cup Champion in 2024
 
-1:15 ratio
-13g coffee (medium)
+1:15 ratio  
+13g coffee (medium)  
 200g water (92C and 75C)
 
 1. With the Switch valve closed, pour 40g of water at 92°C.
