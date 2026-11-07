@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 215 - The Async First Playbook"
 date: 2025-11-11T20:21:51Z
-lastmod: 2026-06-06T21:32:33Z
-categories: ['215', 'podcast', 'Tech Lead Journal']
+lastmod: 2026-11-01T19:25:50Z
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -21,7 +21,7 @@ Beware mistaking speed for productivity. Defaulting to action can help - especia
 The whole section on diversity being a strength was great.
 
 ---
-###### Tech Lead Journal - #215 - The Async First Playbook: Build Effective and Inclusive Teams with Less Meetings - Sumeet Moghe
+###### Tech Lead Journal - 215 - The Async First Playbook: Build Effective and Inclusive Teams with Less Meetings - Sumeet Moghe
 
 https://overcast.fm/+AAfKlwa1Bb8  
 https://techleadjournal.dev/episodes/215/

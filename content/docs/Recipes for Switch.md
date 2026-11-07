@@ -2,18 +2,31 @@
 ---
 title: "Recipes for Switch"
 date: 2023-01-08T07:21:16Z
-lastmod: 2026-06-06T21:47:17Z
+lastmod: 2026-11-01T19:16:07Z
 categories: ['coffee', 'hario-switch', 'recipe']
 draft: false
 ---
 
 
 # Recipes for Switch
-The advantage is you can use immersion AND pour through as you want.
+[Hario Swtich](https://www.hario-canada.ca/products/hario-v60-switch-immersion-dripper)
 
-If you replace the cone with a V60 03 (bigger cone), you can do a larger amount.
+The switch base can be married with different V60 sizes, the Mugen, the Neo, and the Alpha. The ability to use immersion and/or pour through depending on the scenario is why I keep coming back to using it.
 
-## Current Daily Driver
+## Neo - what I use at work
+Similar to my at home setup but… a lot more lazy and distraction friendly.
+
+Neo + Switch
+30g coffee
+450g water (standard watercooler water)
+
+1. Start with Switch closed
+2. Pour 60g water, and let sit 30 seconds
+3. Open valve, and pour 90g (150g total)). Wait ~30 seconds to draw down
+4. Pour 90g (240g total). Wait ~30 seconds to draw down
+5. Pour 90g (330g total). Wait ~30 seconds to draw down
+6. Close valve. Pour 120g (450g total). Wait ~45 seconds and open to let draw down.
+## Mugen - what I use at home
 Uses a Mugen instead of a V60, steals a bit from Tetsu’s 4:6 and his super hybrid method.
 
 30g coffee  
@@ -218,7 +231,7 @@ For a sweeter version - close at 00:25
 
 Should take 02:45-03:15 total
 
-# Switch with Mugen Hack
+# Switch with Mugen
 ## Background
 I learned about using the Hario Mugen instead of the standard V60 cone with the Hario Switch from [CoffeeGeek](https://coffeegeek.com/guides/howtos/hario-mugen-switch-brewer-hack-how-to/).
 

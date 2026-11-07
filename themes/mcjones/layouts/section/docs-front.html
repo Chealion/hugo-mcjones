@@ -26,7 +26,7 @@
     <h1 class="mb-0 fs-2">Recent Favourited Podcast Episodes</h1>
   </div>
   <ul class="list-unstyled pb-1">
-    {{ range $podcasts.ByLastmod.Reverse.Limit 15 }}
+    {{ range $podcasts.ByDate.Reverse.Limit 15 }}
       <li class="px-2">
         <a class="text-decoration-none" href="{{.Permalink}}">{{.Title}}</a>
       </li>

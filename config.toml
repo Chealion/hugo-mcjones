@@ -4,6 +4,10 @@ title = 'mcjones.ca'
 theme = 'mcjones'
 rssLimit = 50
 
+[markup.highlight]
+style = "dracula"
+noClasses = false
+
 [params]
 [params.author]
   email = "chealion@chealion.ca"

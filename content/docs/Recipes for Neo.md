@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Neo"
 date: 2026-01-31T16:30:03Z
-lastmod: 2026-06-06T21:45:53Z
+lastmod: 2026-09-08T13:39:59Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -81,6 +81,21 @@ Source: Hario on [Instagram](https://www.instagram.com/p/DQl4TOaEmkb/)
 2. 0:35-0:45 - Make another hole in the middle and add 90g quickly (130g total)
 3. 1:10-1:25 - Make another hole in the middle and add 50g (180g total)
 4. 1:37-1:50 - Make another hole in the middle and add 60g (240g total)
+
+## MarkNaive3730’s Hybrid Snap
+Source: u/MarkNaive3730 on [Reddit](https://www.reddit.com/r/pourover/comments/1w68dlv/want_to_save_your_dense_washed_geshas_try_my/)
+Requires Switch base
+
+15g coffee
+225g water - two temps
+
+1. 0:00-0:45 - closed. 50g water at 75C. (Samo bloom)
+2. 0:45-1:00 - open and let draw down
+3. 1:00-1:45 - closed. 150g water at 96C pour in centre slow and steady
+4. 1:45 - open, pour 75g (to 225g total) in spirals.
+5. 2:30 - draw down should be complete
+6. Add 25g of 60-70C water
+
 
 <!-- #public #coffee #recipe -->
 

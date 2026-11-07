@@ -2,8 +2,8 @@
 ---
 title: "Pre-Accident Podcast - Summary"
 date: 2023-09-02T05:30:55Z
-lastmod: 2025-04-11T01:10:05Z
-categories: ['podcast', 'Pre']
+lastmod: 2026-11-07T22:23:38Z
+categories: ['podcast', 'PreAccident Investigation']
 draft: false
 ---
 
@@ -20,6 +20,6 @@ The overlap between IT, and safety specialists in their particular fields - weth
 
 I unfortunately had not saved/starred many of the really good episodes from the years I listened before dropping it to try and reduce the number of new episodes I was listening to.
 
-<!-- #podcast #Pre-Accident Investigation# #public -->
+<!-- #podcast #PreAccident Investigation# #public -->
 
 <!-- {BearID:FD63A9AC-443E-4383-907B-C32AB4E86DEE} -->

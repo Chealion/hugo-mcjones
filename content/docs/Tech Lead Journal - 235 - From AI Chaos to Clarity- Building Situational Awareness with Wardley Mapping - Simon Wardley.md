@@ -2,8 +2,8 @@
 ---
 title: "Tech Lead Journal - 235 - From AI Chaos to Clarity: Building Situational Awareness with Wardley Mapping - Simon Wardley"
 date: 2026-05-03T20:19:49Z
-lastmod: 2026-06-06T21:33:05Z
-categories: ['235', 'podcast', 'Tech Lead Journal']
+lastmod: 2026-11-01T19:26:07Z
+categories: ['podcast', 'Tech Lead Journal']
 draft: false
 ---
 
@@ -51,7 +51,7 @@ Test and spec driven development?
 1:07:00 - LLMs outputs are biased towards a market benefit. Not social benefit.
 
 ---
-###### Tech Lead Journal - #235 - From AI Chaos to Clarity: Building Situational Awareness with Wardley Mapping - Simon Wardley
+###### Tech Lead Journal - 235 - From AI Chaos to Clarity: Building Situational Awareness with Wardley Mapping - Simon Wardley
 
 https://overcast.fm/+AAfKlwm9WLo  
 https://techleadjournal.dev/episodes/235

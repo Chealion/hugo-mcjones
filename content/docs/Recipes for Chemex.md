@@ -2,7 +2,7 @@
 ---
 title: "Recipes for Chemex"
 date: 2024-06-23T16:23:15Z
-lastmod: 2024-06-23T16:23:38Z
+lastmod: 2026-11-01T19:03:52Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -10,10 +10,12 @@ draft: false
 
 # Recipes for Chemex
 
-Wet filter with warm water. Discard water  
-50g coffee paper filter  
-Wet grounds and let bloom. Once deflated, pour rest of water in circular pattern  
-650 grams water
+## Standard 10 cup / 1.5L
+93.8g coffee
+1500 mL water
+
+Bloom with 200mL water, let sit for 30-45 seconds
+Pour ~200 mL each time and let draw down until complete
 
 <!-- #coffee #recipe #public -->
 

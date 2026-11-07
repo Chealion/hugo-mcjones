@@ -2,7 +2,7 @@
 ---
 title: "Reverse Sear Details"
 date: 2018-08-29T02:50:37Z
-lastmod: 2022-08-11T03:44:18Z
+lastmod: 2026-08-21T17:56:07Z
 categories: ['recipe']
 draft: false
 ---
@@ -11,7 +11,13 @@ draft: false
 # Reverse Sear Details
 [The Reverse Sear Is the Best Way to Cook a Steak, Period | The Food Lab | Serious Eats](https://www.seriouseats.com/2017/03/how-to-reverse-sear-best-way-to-cook-steak.html)
 
-1. Season
+## (Optional) Baking Soda Tenderize/Velvetize
+[h/t AllRecipes](https://www.allrecipes.com/baking-soda-meat-tenderizer-11984207)
+1. Mix 1sp baking soda in 1/2 cup of water for each ~12 oz of steak (~340g)
+2. Soak steak in water mixture for 15 minutes
+3. Rinse thoroughly and pat dry
+## Instructions
+1. Season (eg. dry rub and let sit for an hour)
 2. Preheat oven to between 200 and 275 F (93 and 135 C)
 3. Place steak/burger/etc. on rack in oven until 10-15F below end temperature
 4. Heat iron skillet at high

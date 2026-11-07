@@ -2,7 +2,7 @@
 ---
 title: "Coffee Recipes"
 date: 2016-12-13T06:52:19Z
-lastmod: 2025-08-24T16:23:47Z
+lastmod: 2026-11-01T19:02:41Z
 categories: ['recipe', 'coffee']
 draft: false
 ---
@@ -38,6 +38,19 @@ Beans are 28% by weight water soluble.
 
 Sour, Light, Weak = too coarse
 Bitter, Harsh, = too fine
+
+## Water Chemistry
+This is a fun rabbit hole - check out:
+* https://www.baristahustle.com/diy-water-recipes-the-world-in-two-bottles/
+* https://tools.specialtybrewlabs.com/
+* https://awasteof.coffee/how-to/mixing-water/
+
+My personal lazy go to is 1/2 Zero Water/Distilled and 1/2 Brita filtered Calgary water to land at a soft water without much work. In my experience, the Brita filtration helps with scale build up in my kettle even if it doesn’t meaningfully affect the coffee extraction.
+
+### Oversimplified Version
+* Magnesium (Mg) helps with getting the bright, fruity, and floral notes Too much = too acidic
+* Calcium (Ca) adds body. Too much = muddy
+* Alkalinity (anything carbonate) = buffer. Neutralizes acid
 
 <!-- #recipe -->
 <!-- #coffee #public -->

@@ -2,7 +2,7 @@
 ---
 title: "Recipes for AeroPress"
 date: 2024-06-23T16:24:20Z
-lastmod: 2026-05-23T16:56:33Z
+lastmod: 2026-11-01T19:16:37Z
 categories: ['coffee', 'recipe']
 draft: false
 ---
@@ -138,6 +138,17 @@ Standard
 Fill, stir back and forth (not circular). Add top
 5 min - give a swirl in AeroPress
 9 min - give a swirl, start pressing gently. Should take a minute to finish pressing.
+
+## Eight Ounce Bypass
+https://www.youtube.com/watch?v=HSk_XKumtfQ
+
+15g coffee
+200g water, 95C
+Standard
+Bloom with 70g water - wait 30 seconds
+Add 30g more water - wait 30 seconds
+Push
+Add 100g of water as bypass
 
 ## More Recipes?
 Go check out https://aeroprecipe.com/

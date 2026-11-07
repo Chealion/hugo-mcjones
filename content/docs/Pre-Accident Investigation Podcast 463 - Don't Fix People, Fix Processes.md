@@ -2,8 +2,8 @@
 ---
 title: "Pre-Accident Investigation Podcast 463 - Don't Fix People, Fix Processes"
 date: 2024-04-11T01:52:31Z
-lastmod: 2025-04-11T01:09:59Z
-categories: ['podcast', 'PreAccident Investigation Podcast']
+lastmod: 2026-11-07T22:23:41Z
+categories: ['podcast', 'PreAccident Investigation']
 draft: false
 ---
 
@@ -22,6 +22,6 @@ https://preaccidentpodcast.podbean.com/e/papod-463-don-t-fix-people-fix-processe
 
 <!-- #public -->
 <!-- #podcast -->
-<!-- #PreAccident Investigation Podcast# -->
+<!-- #PreAccident Investigation# -->
 
 <!-- {BearID:542EC7ED-A80E-479E-A1B8-ACC4F5092FDC} -->

@@ -2,7 +2,7 @@
 ---
 title: "yt-dlp instructions"
 date: 2018-03-01T21:02:01Z
-lastmod: 2026-03-26T03:16:10Z
+lastmod: 2026-08-24T04:07:55Z
 categories: ['snippet']
 draft: false
 ---
@@ -32,6 +32,15 @@ yt-dlp -f 'bestaudio[ext=m4a]' -x "https://www.youtube.com/watch?v=II_5jBaYmGQ"
 https://www.reddit.com/r/youtubedl/wiki/howdoidownloadpartsofavideo/
 ```
 yt-dlp -f "(bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio)[protocol\!*=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:00:00.00 -t 00:00:8.00" "https://www.youtube.com/watch?v=SCo2RMpiZx8"
+```
+
+## Patreon
+```
+yt-dlp --cookies-from-browser firefox "https://www.patreon.com/<LINK>" -v --list-formats
+
+yt-dlp --cookies-from-browser firefox "https://www.patreon.com/<LINK>" -f <ID>
+
+yt-dlp --cookies-from-browser firefox "https://www.patreon.com/<LINK>" -f <ID> -x
 ```
 
 <!-- #public #snippet -->

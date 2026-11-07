@@ -2,8 +2,8 @@
 ---
 title: "Bytes of Experience - CIOs Unplugged - S01-E10 - IT Is Something You Do With People, Not To Them"
 date: 2026-06-06T20:05:32Z
-lastmod: 2026-06-06T21:24:33Z
-categories: ['podcast', 'Bytes']
+lastmod: 2026-11-07T22:20:15Z
+categories: ['podcast', 'Bytes of Experience']
 draft: false
 ---
 
@@ -28,6 +28,6 @@ https://bytesofexperience.podbean.com/e/it-is-something-you-do-with-people-not-t
 
 <!-- #public -->
 <!-- #podcast -->
-<!-- #Bytes of Experience -CIOs Unplugged# -->
+<!-- #Bytes of Experience# -->
 
 <!-- {BearID:1CED0034-1E94-47A7-AAE1-C7B501AC2B1B} -->
