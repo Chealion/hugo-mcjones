@@ -3,6 +3,7 @@ languageCode = 'en-ca'
 title = 'mcjones.ca'
 theme = 'mcjones'
 rssLimit = 50
+enableRobotsTxt = true
 
 [markup.highlight]
 style = "dracula"
